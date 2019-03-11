@@ -1,0 +1,239 @@
+loanAppliedFor,Conventional
+agencyCaseNumebr,TVd6c20ocoqaMs
+LenderCaseNumber,MHEX -4386758647
+Amount,$62691.00
+Interest,10.43%
+Tenure,54 months
+AmortType,Fixed Rate
+PropAddress,"1905 E WASHINGTON ST APT A21, COLTON, CA, 92324"
+PropUnits,1
+PropDescription,Shop
+YearBuilt,1997
+purposeOfLoan,Construction
+propFor,Investment
+construcYrLotReq,5 year(s)
+construcOrigCost,$62691.00
+construcExisLienAmount,$0.00
+construcPresentValue,$0.00
+construcImpCost,$0.00
+totalAB,$0.00
+refinanYrLotReq,0 year(s)
+refinanOrigCost,$11139.00
+refinanExisLienAmount,$0.00
+refinanPurpose,$0.00
+refinanImproveDescription,to be made
+refinanCost,$11139.00
+HeldName,daniel gantenbein
+Manner,Ownership
+SourceOfDownPay,Personal Saving Account
+EstateToHeld,Leasehold
+expDate,04-APR-2076
+borrowerName,DONALD BECKER
+bSecurityNumber,136584318
+bPhone,3283863447
+bDOB,21-JUN-1987
+bYrsSchool,1987
+bMaritalStatus,Married
+bDpendents,1
+bResType,Own
+bPresentAddress,"202 National Center , Reston, Va, 20192"
+bResSince,6 year(s)
+bMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+lt2y_b_res_type,
+lt2y_b_res_since,
+lt2y_b_last_add,
+cborrowerName,ROBERT J FRONCKOWIAK
+cbSecurityNumber,744402588
+cbPhone,0723247658
+cbDOB,10-MAR-1980
+cbYrsSchool,1987
+cbMaritalStatus,Separated
+cbDpendents,2
+cbResType,Rent
+cbPresentAddress,"345 mdddlefield rd ms 466 , menlo park, ca, 94025"
+cbResSince,8 year(s)
+cbMailAddress,"202 National Center , Reston, Va, 20192"
+lt2y_cb_res_type,
+lt2y_cb_res_since,
+lt2y_cb_last_add,
+bEmpName,vets
+bEmpAddress,"201 N Washington Sq, 4th Fl, Lansing, Mi"
+bIsSelfEmp,no
+bYrsInCJob,1
+bYrsInJob,2
+bDesignation,Technician
+borrower_Emp_Type,Temperory
+lt2y_b_emp_name1,"Arra-obrien; Jfk Federal Bldg, Rm E-350, Boston, Ma"
+lt2y_b_emp_isSelf1,No
+lt2y_b_emp_duration1,NA
+lt2y_b_emp_salary1,"$2,622.14"
+lt2y_b_emp_designation1,machinisttemperory
+lt2y_b_emp_name2,"Mine Safety And Health; Efs West, Po Box 25367 Dfc, Denver, Co"
+lt2y_b_emp_isSelf2,No
+lt2y_b_emp_duration2,NA
+lt2y_b_emp_salary2,"$1,829.40"
+lt2y_b_emp_designation2,MACHINISTTEMPERORY
+cbEmpName,Us Dept Of Labor Olms
+cbEmpAddress,"211 W FORT ST, STE 1313, DETROIT, MI"
+cbIsSelfEmp,No
+cbYrsInCJob,5
+cbYrsInJob,4
+cbDesignation,Asst Accountant
+co-borrower_emp_type,Permanent
+lt2y_cb_emp_name1,"Dept Of Labor; Jfk Federal Bldg Room E-235, 25 New Sudbury St, Boston, Ma"
+lt2y_cb_emp_isSelf1,No
+lt2y_cb_emp_duration1,NA
+lt2y_cb_emp_salary1,"$4,431.28"
+lt2y_cb_emp_designation1,hr manager temperory
+lt2y_cb_emp_name2,"OFF OF REG ADMIN WH; 525 S GRIFFIN ST, RM 800, DALLAS, TX"
+lt2y_cb_emp_isSelf2,No
+lt2y_cb_emp_duration2,NA
+lt2y_cb_emp_salary2,"$3,242.40"
+lt2y_cb_emp_designation2,Hr Manager Permanent
+bBaseSalary,$2733.00
+bOverttime,$187.00
+bBonus,$773.00
+bCommission,$70.00
+bDevident,$0.00
+bRentalIncome,$249.00
+bOtherIncome1,$0.00
+bOtherIncome2,$0.00
+bTotalIncome,$4012.00
+cbBaseSalary,$5082.00
+cbOverttime,$160.00
+cbBonus,$268.00
+cbCommission,$174.00
+cbDevident,$0.00
+cbRentalIncome,$0.00
+cbOtherIncome1,$212.00
+cbOtherIncome2,$0.00
+cbTotalIncome,$5896.00
+cbtBaseSalary,$7815.00
+cbtOverttime,$160187.00
+cbtBonus,$268773.00
+cbtCommission,$17470.00
+cbtDevident,$0.00
+cbtRentalIncome,$249.00
+cbtOtherIncome1,$2120.00
+cbtOtherIncome2,$0.00
+cbtTotalIncome,$58964012.00
+psntRent,$876.00
+psntFirstLoan,$62691.00
+psntOtherFinance,$0.00
+psntHzIns,$0.00
+psntTaxes,$0.00
+psntMoIns,$0.00
+pnstOwnerDues,$0.00
+pnstOther,$0.00
+psntTotalExp,$62691.00
+propFirstLoan,$62691.00
+propOtherFinance,$735.00
+propHzIns,$0.00
+propTaxes,$0.00
+propMoIns,$0.00
+propOwnerDues,$0.00
+propOther,$0.00
+propTotalExp,$63426.00
+assetsComputes,Jointly
+depPurchHeldBy,DONALD BECKER
+depAmount,$8149.83
+depBankName,MEDICAL EMPLOYEES CU
+depBankAdd,"2629 north 7th street, sheboygan, wi"
+depBankAcc,73425742514582
+depBankBal,$10657.47
+LInsCashValue,$0.00
+LInsFaceValue,$0.00
+subTotLiqValue,$9403.65
+realEstateOwnedValue,$0.00
+retirementFundInterest,$0.00
+netWorthBizOwned,$0.00
+auto_make_year01,
+auto_amount01,
+auto_make_year02,
+auto_amount02,
+auto_make_year03,
+auto_amount03,
+preLoanBankName,NA
+preLoanBankAdd,na
+preLoanBankAcctNumber,na
+preLoanEMIperMonth,$0.00
+preLoanUnpaidBalance,$0.00
+childSupportExpOwnedTo,NA
+childSupportExpOwnedValue,$0.00
+pre_loan_bank_name_01,"Bony Mellon Elt Goal Financial, Llc"
+pre_loan_bank_add_01,"10161 centurion pkwy, jacksonville, fl"
+pre_loan_bank_acNo_01,57778386552680
+pre_loan_bank_EMI_01,"$7,522.92"
+pre_loan_bank_balance_01,"$11,911.29"
+pre_loan_bank_name_02,
+pre_loan_bank_add_02,
+pre_loan_bank_acNo_02,
+pre_loan_bank_EMI_02,
+pre_loan_bank_balance_02,
+pre_loan_bank_name_03,
+pre_loan_bank_add_03,
+pre_loan_bank_acNo_03,
+pre_loan_bank_EMI_03,
+pre_loan_bank_balance_03,
+jobExpensesTo,NA
+jobExpensesValue,$0.00
+totMonthlyPayment,$0.00
+totMonthlyLiability,$0.00
+netWorthMonthlyValue,$0.00
+purchasePrice,$62691.00
+repairCost,$0.00
+landCost,$0.00
+refinanceCost,$0.00
+prepaidItemsCost,$0.00
+estimateClosingCost,$0.00
+fundingFee,$0.00
+disocuntValue,$0.00
+totalTxnCost,$62691.00
+subOrdFinance,$0.00
+closingCostBySeller,$0.00
+otherCredit,$0.00
+loanAmountEx,$62691.00
+loanAmountFundingFee,$0.00
+totalLoanAmount,$62691.00
+cashDepByBorrower,$0.00
+isOutstandingCourtCaseB,
+isBankcruptB,
+isForeclosedPropertyB,No
+isLawsuitB,No
+isFailedLoanB,
+isDeliquentB,
+isObligatedToPayB,
+isDownpaymentBorrowedB,No
+isCoWorkerB,No
+isUSCitizenB,
+isPermanentAlienB,
+isOutstandingCourtCaseCB,No
+isBankcruptCB,No
+isForeclosedPropertyCB,No
+isLawsuitCB,No
+isFailedLoanCB,
+isDeliquentCB,No
+isObligatedToPayCB,No
+isDownpaymentBorrowedCB,No
+isCoWorkerCB,No
+isUSCitizenCB,Yes
+isPermanentAlienCB,No
+isNewPropPermanentB,No
+ typeOfProp,principal residence
+holdingTitleToHome,solely by yourself
+signingDateB,08-MAR-2017
+signingDateCB,08-MAR-2017
+bAccept,Yes
+bEthnicity,Not Hispanic or Latino
+bRace,White
+bSex,Male
+cbAccept,Yes
+cbEthnicity,Not Hispanic or Latino
+cbRace,White
+cbSex,Male
+informationCollectedBy,"FACE-TO-FACE INTERVIEW, TELEPHONE"
+loanOriginatorName,DOL BLS
+loanOriginatorID,jdD5ak65
+loanOriginatorCName,Dol Bls
+loanOriginatorCID,2026917578
+loanOriginatorAddress,"2 massachusetts ave ne, ste 2905, washington, dc"

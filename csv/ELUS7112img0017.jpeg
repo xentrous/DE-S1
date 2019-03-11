@@ -1,0 +1,239 @@
+loanAppliedFor,Conventional
+agencyCaseNumebr,j2FuaeggbEvfAb
+LenderCaseNumber,ZOCX-3847772785
+Amount,$85576.00
+Interest,10.09%
+Tenure,24 months
+AmortType,Other
+PropAddress,"11319 735 Rd , Holdrege, Ne, 68949"
+PropUnits,1
+PropDescription,Appartment
+YearBuilt,1983
+purposeOfLoan,Construction-Permanent
+propFor,Seconday
+construcYrLotReq,3 year(s)
+construcOrigCost,$85576.00
+construcExisLienAmount,$0.00
+construcPresentValue,$0.00
+construcImpCost,$0.00
+totalAB,$0.00
+refinanYrLotReq,0 year(s)
+refinanOrigCost,$11139.00
+refinanExisLienAmount,$0.00
+refinanPurpose,$0.00
+refinanImproveDescription,to be made
+refinanCost,$11139.00
+HeldName,Chris Ecklun
+Manner,Ownership
+SourceOfDownPay,Personal Saving Account
+EstateToHeld,Leasehold
+expDate,26-NOV-2072
+borrowerName,JOSEPH P FLESKES
+bSecurityNumber,154614408
+bPhone,7606620446
+bDOB,27-JAN-1992
+bYrsSchool,1992
+bMaritalStatus,Separated
+bDpendents,4
+bResType,Rent
+bPresentAddress,"modoc hall usgs ms 3006 3020 state univ dr east, sacramento, ca, 95819"
+bResSince,12 year(s)
+bMailAddress,"modoc hall usgs ms 3006 3020 state univ dr east, sacramento, ca, 95819"
+lt2y_b_res_type,
+lt2y_b_res_since,
+lt2y_b_last_add,
+cborrowerName,David 0 Leary
+cbSecurityNumber,358336326
+cbPhone,6768687348
+cbDOB,22-APR-1992
+cbYrsSchool,1992
+cbMaritalStatus,Separated
+cbDpendents,4
+cbResType,Own
+cbPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+cbResSince,5 year(s)
+cbMailAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+lt2y_cb_res_type,
+lt2y_cb_res_since,
+lt2y_cb_last_add,
+bEmpName,Us Dol Ofcqp
+bEmpAddress,"900 MARKET ST, RM 311, PHILADELPHIA, PA"
+bIsSelfEmp,no
+bYrsInCJob,1
+bYrsInJob,3
+bDesignation,Exec Secretary
+borrower_Emp_Type,Temperory
+lt2y_b_emp_name1,"Us Dept Of Labor Pwba; 200 W Adams, Ste 1600, Chicago,"
+lt2y_b_emp_isSelf1,No
+lt2y_b_emp_duration1,NA
+lt2y_b_emp_salary1,"$2,181.60"
+lt2y_b_emp_designation1,HR ADMIN TEMPER6RY
+lt2y_b_emp_name2,"us dept of labor; 2183 northlAke pkwy, bldg 7 ste 110, tucker, ga"
+lt2y_b_emp_isSelf2,No
+lt2y_b_emp_duration2,NA
+lt2y_b_emp_salary2,"$1,881.63"
+lt2y_b_emp_designation2,Hr Admin Contract
+cbEmpName,Mine Safety & Health
+cbEmpAddress,"2200 Marquette Rd Ste 110, , Peru, Il"
+cbIsSelfEmp,No
+cbYrsInCJob,5
+cbYrsInJob,3
+cbDesignation,Grocers Supplier
+co-borrower_emp_type,Temperory
+lt2y_cb_emp_name1,"Us Dol Osha Ctc; 435 Elm St St& 500, Cincinnati, Oh"
+lt2y_cb_emp_isSelf1,No
+lt2y_cb_emp_duration1,NA
+lt2y_cb_emp_salary1,"$2,153.32"
+lt2y_cb_emp_designation1,Secretarypermanent
+lt2y_cb_emp_name2,
+lt2y_cb_emp_isSelf2,
+lt2y_cb_emp_duration2,
+lt2y_cb_emp_salary2,
+lt2y_cb_emp_designation2,
+bBaseSalary,$3117.00
+bOverttime,$193.00
+bBonus,$615.00
+bCommission,$182.00
+bDevident,$0.00
+bRentalIncome,$0.00
+bOtherIncome1,$0.00
+bOtherIncome2,$0.00
+bTotalIncome,$4107.00
+cbBaseSalary,$12461.00
+cbOverttime,$573.00
+cbBonus,$290.00
+cbCommission,$53.00
+cbDevident,$0.00
+cbRentalIncome,$0.00
+cbOtherIncome1,$0.00
+cbOtherIncome2,$0.00
+cbTotalIncome,$13377.00
+cbtBaseSalary,$15578.00
+cbtOverttime,$573193.00
+cbtBonus,$290615.00
+cbtCommission,$53182.00
+cbtDevident,$0.00
+cbtRentalIncome,$0.00
+cbtOtherIncome1,$0.00
+cbtOtherIncome2,$0.00
+cbtTotalIncome,$133774107.00
+psntRent,$972.00
+psntFirstLoan,$85576.00
+psntOtherFinance,$0.00
+psntHzIns,$0.00
+psntTaxes,$0.00
+psntMoIns,$0.00
+pnstOwnerDues,$0.00
+pnstOther,$0.00
+psntTotalExp,$85576.00
+propFirstLoan,$85576.00
+propOtherFinance,$752.00
+propHzIns,$0.00
+propTaxes,$0.00
+propMoIns,$0.00
+propOwnerDues,$0.00
+propOther,$0.00
+propTotalExp,$86328.00
+assetsComputes,Jointly
+depPurchHeldBy,JOSEPH P FLESKES
+depAmount,$12836.40
+depBankName,State Bank Of Waverly
+depBankAdd,"124 1ST SE, WAVERLY, IA"
+depBankAcc,38386201225316
+depBankBal,$17115.20
+LInsCashValue,$0.00
+LInsFaceValue,$0.00
+subTotLiqValue,$10269.12
+realEstateOwnedValue,$0.00
+retirementFundInterest,$0.00
+netWorthBizOwned,$0.00
+auto_make_year01,
+auto_amount01,
+auto_make_year02,
+auto_amount02,
+auto_make_year03,
+auto_amount03,
+preLoanBankName,
+preLoanBankAdd,na
+preLoanBankAcctNumber,NA
+preLoanEMIperMonth,$0.00
+preLoanUnpaidBalance,$0.00
+childSupportExpOwnedTo,
+childSupportExpOwnedValue,$0.00
+pre_loan_bank_name_01,wenatchee valley fcu
+pre_loan_bank_add_01,"636 valley mall parkway, e wenatchee, wa"
+pre_loan_bank_acNo_01,38362813275033
+pre_loan_bank_EMI_01,"$11,124.88"
+pre_loan_bank_balance_01,"$17,970.96"
+pre_loan_bank_name_02,
+pre_loan_bank_add_02,
+pre_loan_bank_acNo_02,
+pre_loan_bank_EMI_02,
+pre_loan_bank_balance_02,
+pre_loan_bank_name_03,
+pre_loan_bank_add_03,
+pre_loan_bank_acNo_03,
+pre_loan_bank_EMI_03,
+pre_loan_bank_balance_03,
+jobExpensesTo,
+jobExpensesValue,$0.00
+totMonthlyPayment,$0.00
+totMonthlyLiability,$0.00
+netWorthMonthlyValue,$0.00
+purchasePrice,$85576.00
+repairCost,$0.00
+landCost,$0.00
+refinanceCost,$0.00
+prepaidItemsCost,$0.00
+estimateClosingCost,$0.00
+fundingFee,$0.00
+disocuntValue,$0.00
+totalTxnCost,$85576.00
+subOrdFinance,$0.00
+closingCostBySeller,$0.00
+otherCredit,$0.00
+loanAmountEx,$85576.00
+loanAmountFundingFee,$0.00
+totalLoanAmount,$85576.00
+cashDepByBorrower,$0.00
+isOutstandingCourtCaseB,No
+isBankcruptB,No
+isForeclosedPropertyB,No
+isLawsuitB,
+isFailedLoanB,
+isDeliquentB,
+isObligatedToPayB,No
+isDownpaymentBorrowedB,
+isCoWorkerB,
+isUSCitizenB,Yes
+isPermanentAlienB,No
+isOutstandingCourtCaseCB,No
+isBankcruptCB,No
+isForeclosedPropertyCB,No
+isLawsuitCB,
+isFailedLoanCB,No
+isDeliquentCB,No
+isObligatedToPayCB,
+isDownpaymentBorrowedCB,No
+isCoWorkerCB,No
+isUSCitizenCB,
+isPermanentAlienCB,No
+isNewPropPermanentB,No
+ typeOfProp,second home
+holdingTitleToHome,jointly with another person
+signingDateB,16 -APR -2017
+signingDateCB,16-APR-2017
+bAccept,Yes
+bEthnicity,Not Hispanic or Latino
+bRace,White
+bSex,Male
+cbAccept,Yes
+cbEthnicity,Not Hispanic or Latino
+cbRace,White
+cbSex,Male
+informationCollectedBy,"FACE-TO-FACE INTERVIEW, TELEPHONE"
+loanOriginatorName,DOL OASAM BOC OAS
+loanOriginatorID,6iMnSUmx
+loanOriginatorCName,dol oasam boc oas
+loanOriginatorCID,2022198438
+loanOriginatorAddress,"200 Constitution Ave Nw, Room S66, Washington, Dc"

@@ -1,0 +1,239 @@
+loanAppliedFor,USDA / Rural Housing Service
+agencyCaseNumebr,eo5zm5pB1U6q3V
+LenderCaseNumber,CNUN -0175418801
+Amount,$47479.00
+Interest,8.34%
+Tenure,180 months
+AmortType,Other
+PropAddress,"1651 brier way e , jacksonville, fl, 32221"
+PropUnits,1
+PropDescription,Commercial Property
+YearBuilt,1997
+purposeOfLoan,Purchase
+propFor,Seconday
+construcYrLotReq,O year(s)
+construcOrigCost,$106821.00
+construcExisLienAmount,$0.00
+construcPresentValue,$0.00
+construcImpCost,$0.00
+totalAB,$0.00
+refinanYrLotReq,O year(s)
+refinanOrigCost,$11139.00
+refinanExisLienAmount,$0.00
+refinanPurpose,$0.00
+refinanImproveDescription,to be made
+refinanCost,$11139.00
+HeldName,Billy Knowles
+Manner,Ownership
+SourceOfDownPay,Personal Saving Account
+EstateToHeld,Leasehold
+expDate,23 -OCT -2063
+borrowerName,GEORGE WESLEY LUNDY III
+bSecurityNumber,584675074
+bPhone,1502357775
+bDOB,02-APR-1982
+bYrsSchool,1982
+bMaritalStatus,Married
+bDpendents,4
+bResType,Own
+bPresentAddress,"777 NW 9TH ST STE 400 , CORVALLIS, OR, 97330"
+bResSince,5 year(s)
+bMailAddress,"777 nw 9th st ste 400 , corvallis, or, 97330"
+lt2y_b_res_type,
+lt2y_b_res_since,
+lt2y_b_last_add,
+cborrowerName,tyrel f brandt
+cbSecurityNumber,574441822
+cbPhone,8235527285
+cbDOB,04-JAN-1987
+cbYrsSchool,1982
+cbMaritalStatus,Married
+cbDpendents,4
+cbResType,Own
+cbPresentAddress,"3162 bozeman ave , helena, mt, 59601"
+cbResSince,O year(s)
+cbMailAddress,"777 Nw 9th St Ste 400 , Corvallis, Or, 97330"
+lt2y_cb_res_type,Own
+lt2y_cb_res_since,0
+lt2y_cb_last_add,"USGS MS 410 DFC BOX 25046, DENVER, CO, 80225"
+bEmpName,mine safety & health
+bEmpAddress,"2200 MARQUETTE RD STE 110, PERU, IL"
+bIsSelfEmp,no
+bYrsInCJob,1
+bYrsInJob,3
+bDesignation,Sr Accountant
+borrower_Emp_Type,Temperory
+lt2y_b_emp_name1,"DOL BLS; 2 MASSACHUSETTS AVE NE, RM 2930, WASHINGTON, DC"
+lt2y_b_emp_isSelf1,No
+lt2y_b_emp_duration1,NA
+lt2y_b_emp_salary1,"$4,412.70"
+lt2y_b_emp_designation1,Managertemperory
+lt2y_b_emp_name2,"wage hour division; 1240 east ninth street, room 817, cleveland, oh"
+lt2y_b_emp_isSelf2,No
+lt2y_b_emp_duration2,NA
+lt2y_b_emp_salary2,"$2,990.83"
+lt2y_b_emp_designation2,Managercontract
+cbEmpName,Dol Evaluation & Analysis
+cbEmpAddress,"200 Constitution Ave Nw, Rm 3641n, Washington, Dc"
+cbIsSelfEmp,no
+cbYrsInCJob,4
+cbYrsInJob,5
+cbDesignation,Guard
+co-borrower_emp_type,Permanent
+lt2y_cb_emp_name1,"Dol Bls; 2 Massachusetts Ave Ne, Room 5110, Washington, Dc"
+lt2y_cb_emp_isSelf1,No
+lt2y_cb_emp_duration1,NA
+lt2y_cb_emp_salary1,"$4,555.15"
+lt2y_cb_emp_designation1,asst accountanttemperory
+lt2y_cb_emp_name2,"mine saf & filth; paladin professional center, 631 excel drive suite 100, mount pleasant, pa"
+lt2y_cb_emp_isSelf2,No
+lt2y_cb_emp_duration2,NA
+lt2y_cb_emp_salary2,"$3,376.17"
+lt2y_cb_emp_designation2,asst accountanttemperory
+bBaseSalary,$5093.00
+bOverttime,$303.00
+bBonus,$589.00
+bCommission,$37.00
+bDevident,$0.00
+bRentalIncome,$0.00
+bOtherIncome1,$226.00
+bOtherIncome2,$0.00
+bTotalIncome,$6248.00
+cbBaseSalary,$1044.00
+cbOverttime,$203.00
+cbBonus,$788.00
+cbCommission,$186.00
+cbDevident,$0.00
+cbRentalIncome,$0.00
+cbOtherIncome1,$121.00
+cbOtherIncome2,$0.00
+cbTotalIncome,$2342.00
+cbtBaseSalary,$6137.00
+cbtOverttime,$203303.00
+cbtBonus,$788589.00
+cbtCommission,$18637.00
+cbtDevident,$0.00
+cbtRentalIncome,$0.00
+cbtOtherIncome1,$121226.00
+cbtOtherIncome2,$0.00
+cbtTotalIncome,$23426248.00
+psntRent,$1031.00
+psntFirstLoan,$47479.00
+psntOtherFinance,$631.00
+psntHzIns,$0.00
+psntTaxes,$0.00
+psntMoIns,$0.00
+pnstOwnerDues,$0.00
+pnstOther,$0.00
+psntTotalExp,$48110.00
+propFirstLoan,$47479.00
+propOtherFinance,$643.00
+propHzIns,$0.00
+propTaxes,$0.00
+propMoIns,$0.00
+propOwnerDues,$0.00
+propOther,$0.00
+propTotalExp,$48122.00
+assetsComputes,Jointly
+depPurchHeldBy,GEORGE WESLEY LUNDY III
+depAmount,$4747.90
+depBankName,greater norwalk area credit union
+depBankAdd,"12 FITCH STREET FL 2, NORWALK, CT"
+depBankAcc,65784542788356
+depBankBal,$10445.38
+LInsCashValue,$0.00
+LInsFaceValue,$0.00
+subTotLiqValue,$5222.69
+realEstateOwnedValue,$0.00
+retirementFundInterest,$0.00
+netWorthBizOwned,$0.00
+auto_make_year01,
+auto_amount01,
+auto_make_year02,
+auto_amount02,
+auto_make_year03,
+auto_amount03,
+preLoanBankName,na
+preLoanBankAdd,
+preLoanBankAcctNumber,
+preLoanEMIperMonth,$0.00
+preLoanUnpaidBalance,$0.00
+childSupportExpOwnedTo,na
+childSupportExpOwnedValue,$0.00
+pre_loan_bank_name_01,Alco Fed?ral Credit Union
+pre_loan_bank_add_01,"2859 LINDY LANE, WELLSVILLE, NY"
+pre_loan_bank_acNo_01,40130385107251
+pre_loan_bank_EMI_01,"$5,697.48"
+pre_loan_bank_balance_01,"$10,445.38"
+pre_loan_bank_name_02,Nova Southeastern University
+pre_loan_bank_add_02,"3301 college ave, fort lAuderdale, fl"
+pre_loan_bank_acNo_02,00544672538772
+pre_loan_bank_EMI_02,"$4,747.90"
+pre_loan_bank_balance_02,"$10,445.38"
+pre_loan_bank_name_03,community 1st credit union
+pre_loan_bank_add_03,"P 0 BOX 55909, SHORELINE, WA"
+pre_loan_bank_acNo_03,72364460012808
+pre_loan_bank_EMI_03,"$6,172.27"
+pre_loan_bank_balance_03,"$8,071.43"
+jobExpensesTo,NA
+jobExpensesValue,$0.00
+totMonthlyPayment,$0.00
+totMonthlyLiability,$0.00
+netWorthMonthlyValue,$0.00
+purchasePrice,$47479.00
+repairCost,$0.00
+landCost,$0.00
+refinanceCost,$0.00
+prepaidItemsCost,$0.00
+estimateClosingCost,$0.00
+fundingFee,$0.00
+disocuntValue,$0.00
+totalTxnCost,$47479.00
+subOrdFinance,$0.00
+closingCostBySeller,$0.00
+otherCredit,$0.00
+loanAmountEx,$47479.00
+loanAmountFundingFee,$0.00
+totalLoanAmount,$47479.00
+cashDepByBorrower,$0.00
+isOutstandingCourtCaseB,No
+isBankcruptB,No
+isForeclosedPropertyB,No
+isLawsuitB,
+isFailedLoanB,No
+isDeliquentB,No
+isObligatedToPayB,No
+isDownpaymentBorrowedB,No
+isCoWorkerB,No
+isUSCitizenB,Yes
+isPermanentAlienB,No
+isOutstandingCourtCaseCB,No
+isBankcruptCB,
+isForeclosedPropertyCB,No
+isLawsuitCB,No
+isFailedLoanCB,No
+isDeliquentCB,No
+isObligatedToPayCB,
+isDownpaymentBorrowedCB,No
+isCoWorkerCB,No
+isUSCitizenCB,
+isPermanentAlienCB,No
+isNewPropPermanentB,No
+ typeOfProp,investment property
+holdingTitleToHome,jointly with your spouse
+signingDateB,08-FEB-2017
+signingDateCB,08-FEB-2017
+bAccept,Yes
+bEthnicity,Not Hispanic or Latino
+bRace,White
+bSex,Male
+cbAccept,Yes
+cbEthnicity,Not Hispanic or Latino
+cbRace,White
+cbSex,Male
+informationCollectedBy,"FACE-TO-FACE INTERVIEW, TELEPHONE"
+loanOriginatorName,Wage Hour Regional Off
+loanOriginatorID,7qBOxbY1
+loanOriginatorCName,Wage Hour Regional Off
+loanOriginatorCID,1111111111
+loanOriginatorAddress,"124 BARNARD ST, RM B-210, SAVANNAH, GA"

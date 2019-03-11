@@ -1,0 +1,239 @@
+loanAppliedFor,VA
+agencyCaseNumebr,fLdF25vIr5pJzj
+LenderCaseNumber,JMCV-0217245503
+Amount,$7691.00
+Interest,9.74%
+Tenure,240 months
+AmortType,ARM
+PropAddress,"11605 111th Ave Ne , Kirkland, Wa, 98034"
+PropUnits,1
+PropDescription,Appartment
+YearBuilt,1984
+purposeOfLoan,Refinance
+propFor,Seconday
+construcYrLotReq,0 year(s)
+construcOrigCost,$43091.00
+construcExisLienAmount,$0.00
+construcPresentValue,$0.00
+construcImpCost,$0.00
+totalAB,$0.00
+refinanYrLotReq,3 year(s)
+refinanOrigCost,$7691.00
+refinanExisLienAmount,$0.00
+refinanPurpose,$0.00
+refinanImproveDescription,made
+refinanCost,$7691.00
+HeldName,david bonato
+Manner,Ownership
+SourceOfDownPay,Personal Saving Account
+EstateToHeld,Leasehold
+expDate,09-FEB-2075
+borrowerName,stephen j grant
+bSecurityNumber,225112251
+bPhone,4677048638
+bDOB,04-NOV-1984
+bYrsSchool,1984
+bMaritalStatus,Separated
+bDpendents,3
+bResType,Own
+bPresentAddress,"box 25046 dfc ms 303 , denver, co, 80225"
+bResSince,4 year(s)
+bMailAddress,"Box 25046 Dfc Ms 303 , Denver, Co, 80225"
+lt2y_b_res_type,
+lt2y_b_res_since,
+lt2y_b_last_add,
+cborrowerName,JACK W MCFARLAND
+cbSecurityNumber,576183483
+cbPhone,8713355426
+cbDOB,12-JUN-1986
+cbYrsSchool,1984
+cbMaritalStatus,Married
+cbDpendents,2
+cbResType,Own
+cbPresentAddress,"1300 Se Cardinal Ct Bldg 10ste 100, Vancouver, Wa, 98683"
+cbResSince,9 year(s)
+cbMailAddress,"box 25046 dfc ms 303 , denver, co, 80225"
+lt2y_cb_res_type,
+lt2y_cb_res_since,
+lt2y_cb_last_add,
+bEmpName,Dol Msha
+bEmpAddress,"po box 25367 dfc, denver, co"
+bIsSelfEmp,no
+bYrsInCJob,5
+bYrsInJob,9
+bDesignation,Manager
+borrower_Emp_Type,Permanent
+lt2y_b_emp_name1,
+lt2y_b_emp_isSelf1,
+lt2y_b_emp_duration1,
+lt2y_b_emp_salary1,
+lt2y_b_emp_designation1,
+lt2y_b_emp_name2,
+lt2y_b_emp_isSelf2,
+lt2y_b_emp_duration2,
+lt2y_b_emp_salary2,
+lt2y_b_emp_designation2,
+cbEmpName,us dol oig of
+cbEmpAddress,"230 s dearborn st, rm 756, chicago, it"
+cbIsSelfEmp,No
+cbYrsInCJob,2
+cbYrsInJob,6
+cbDesignation,IT Manager
+co-borrower_emp_type,Contract
+lt2y_cb_emp_name1,
+lt2y_cb_emp_isSelf1,
+lt2y_cb_emp_duration1,
+lt2y_cb_emp_salary1,
+lt2y_cb_emp_designation1,
+lt2y_cb_emp_name2,
+lt2y_cb_emp_isSelf2,
+lt2y_cb_emp_duration2,
+lt2y_cb_emp_salary2,
+lt2y_cb_emp_designation2,
+bBaseSalary,$4912.00
+bOverttime,$449.00
+bBonus,$256.00
+bCommission,$129.00
+bDevident,$0.00
+bRentalIncome,$419.00
+bOtherIncome1,$287.00
+bOtherIncome2,$0.00
+bTotalIncome,$6452.00
+cbBaseSalary,$4738.00
+cbOverttime,$529.00
+cbBonus,$408.00
+cbCommission,$70.00
+cbDevident,$0.00
+cbRentalIncome,$0.00
+cbOtherIncome1,$156.00
+cbOtherIncome2,$0.00
+cbTotalIncome,$5901.00
+cbtBaseSalary,$9650.00
+cbtOverttime,$529449.00
+cbtBonus,$408256.00
+cbtCommission,$70129.00
+cbtDevident,$0.00
+cbtRentalIncome,$419.00
+cbtOtherIncome1,$156287.00
+cbtOtherIncome2,$0.00
+cbtTotalIncome,$59016452.00
+psntRent,$997.00
+psntFirstLoan,$7691.00
+psntOtherFinance,$0.00
+psntHzIns,$0.00
+psntTaxes,$0.00
+psntMoIns,$0.00
+pnstOwnerDues,$0.00
+pnstOther,$0.00
+psntTotalExp,$7691.00
+propFirstLoan,$7691.00
+propOtherFinance,$0.00
+propHzIns,$0.00
+propTaxes,$0.00
+propMoIns,$0.00
+propOwnerDues,$0.00
+propOther,$0.00
+propTotalExp,$7691.00
+assetsComputes,Not Jointly
+depPurchHeldBy,STEPHEN J GRANT
+depAmount,$846.01
+depBankName,jourdanton state bank
+depBankAdd,"1305 highway 97 e, jourdanton, tx"
+depBankAcc,71501676188513
+depBankBal,$1384.38
+LInsCashValue,$0.00
+LInsFaceValue,$0.00
+subTotLiqValue,$922.92
+realEstateOwnedValue,$0.00
+retirementFundInterest,$0.00
+netWorthBizOwned,$0.00
+auto_make_year01,
+auto_amount01,
+auto_make_year02,
+auto_amount02,
+auto_make_year03,
+auto_amount03,
+preLoanBankName,na
+preLoanBankAdd,Na
+preLoanBankAcctNumber,NA
+preLoanEMIperMonth,$0.00
+preLoanUnpaidBalance,$0.00
+childSupportExpOwnedTo,na
+childSupportExpOwnedValue,$0.00
+pre_loan_bank_name_01,Westby Co-op Credit Union
+pre_loan_bank_add_01,"501 N. Main St., Westby, Wi"
+pre_loan_bank_acNo_01,13828880435533
+pre_loan_bank_EMI_01,"$1,076.74"
+pre_loan_bank_balance_01,"$1,384.38"
+pre_loan_bank_name_02,
+pre_loan_bank_add_02,
+pre_loan_bank_acNo_02,
+pre_loan_bank_EMI_02,
+pre_loan_bank_balance_02,
+pre_loan_bank_name_03,
+pre_loan_bank_add_03,
+pre_loan_bank_acNo_03,
+pre_loan_bank_EMI_03,
+pre_loan_bank_balance_03,
+jobExpensesTo,NA
+jobExpensesValue,$0.00
+totMonthlyPayment,$0.00
+totMonthlyLiability,$0.00
+netWorthMonthlyValue,$0.00
+purchasePrice,$7691.00
+repairCost,$0.00
+landCost,$0.00
+refinanceCost,$0.00
+prepaidItemsCost,$0.00
+estimateClosingCost,$0.00
+fundingFee,$0.00
+disocuntValue,$0.00
+totalTxnCost,$7691.00
+subOrdFinance,$0.00
+closingCostBySeller,$0.00
+otherCredit,$0.00
+loanAmountEx,$7691.00
+loanAmountFundingFee,$0.00
+totalLoanAmount,$7691.00
+cashDepByBorrower,$0.00
+isOutstandingCourtCaseB,
+isBankcruptB,No
+isForeclosedPropertyB,
+isLawsuitB,No
+isFailedLoanB,No
+isDeliquentB,No
+isObligatedToPayB,No
+isDownpaymentBorrowedB,No
+isCoWorkerB,No
+isUSCitizenB,Yes
+isPermanentAlienB,No
+isOutstandingCourtCaseCB,No
+isBankcruptCB,No
+isForeclosedPropertyCB,No
+isLawsuitCB,
+isFailedLoanCB,No
+isDeliquentCB,No
+isObligatedToPayCB,No
+isDownpaymentBorrowedCB,No
+isCoWorkerCB,No
+isUSCitizenCB,Yes
+isPermanentAlienCB,
+isNewPropPermanentB,No
+ typeOfProp,principal residence
+holdingTitleToHome,solely by yourself
+signingDateB,25-FEB-2017
+signingDateCB,25-FEB-2017
+bAccept,Yes
+bEthnicity,Not Hispanic or Latino
+bRace,White
+bSex,Male
+cbAccept,Yes
+cbEthnicity,Not Hispanic or Latino
+cbRace,White
+cbSex,Male
+informationCollectedBy,"face-to-face interview, telephone"
+loanOriginatorName,Wage Hour Regional Off
+loanOriginatorID,vOgs2A6F
+loanOriginatorCName,Wage Hour Regional Off
+loanOriginatorCID,4048934605
+loanOriginatorAddress,"61 Forsyth St Sw, Rm 7m10, Atlanta, Ga"

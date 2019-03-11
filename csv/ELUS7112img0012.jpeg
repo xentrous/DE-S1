@@ -1,0 +1,239 @@
+loanAppliedFor,Conventional
+agencyCaseNumebr,AgXHXyrLncH4BC
+LenderCaseNumber,IKJF-4137037826
+Amount,$106821.00
+Interest,9.73%
+Tenure,60 months
+AmortType,GPM
+PropAddress,"12500 MELVILLE DR APT 220B, MONTGOMERY, TX, 77356"
+PropUnits,1
+PropDescription,Appartment
+YearBuilt,1996
+purposeOfLoan,Construction
+propFor,Primary
+construcYrLotReq,4 year(s)
+construcOrigCost,$106821.00
+construcExisLienAmount,$0.00
+construcPresentValue,$0.00
+construcImpCost,$0.00
+totalAB,$0.00
+refinanYrLotReq,5 year(s)
+refinanOrigCost,$4540.00
+refinanExisLienAmount,$0.00
+refinanPurpose,$0.00
+refinanImproveDescription,to be made
+refinanCost,$4540.00
+HeldName,Dawn Yarks
+Manner,Ownership
+SourceOfDownPay,Personal Saving Account
+EstateToHeld,Leasehold
+expDate,13 -OCT -2072
+borrowerName,john a reed
+bSecurityNumber,685325223
+bPhone,6183228866
+bDOB,30 -JUL -1992
+bYrsSchool,1992
+bMaritalStatus,Separated
+bDpendents,4
+bResType,Own
+bPresentAddress,"Modoc Hall Usgs Ms 3001 3020 State Univ Dr East, Sacramento, Ca, 95819"
+bResSince,10 year(s)
+bMailAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+lt2y_b_res_type,
+lt2y_b_res_since,
+lt2y_b_last_add,
+cborrowerName,Donald S Hansen
+cbSecurityNumber,728620416
+cbPhone,4140086534
+cbDOB,17-SEP-1988
+cbYrsSchool,1992
+cbMaritalStatus,Unmarried
+cbDpendents,2
+cbResType,Rent
+cbPresentAddress,"2280 WOODALE DR , MOUNDS VIEW, MN, 55112"
+cbResSince,11 year(s)
+cbMailAddress,"modoc hall usgs ms 3001 3020 state univ dr east, sacramento, ca, 95819"
+lt2y_cb_res_type,
+lt2y_cb_res_since,
+lt2y_cb_last_add,
+bEmpName,MINE SAFETY & HEALTH
+bEmpAddress,"152 w zandale dr, ste 102, Lexington, ky"
+bIsSelfEmp,No
+bYrsInCJob,2
+bYrsInJob,5
+bDesignation,Manager
+borrower_Emp_Type,Temperory
+lt2y_b_emp_name1,"Us Dol Esa Wh; 7 N Wilkes-barre Blvd, Room 373m, Wilkes Barre, Pa"
+lt2y_b_emp_isSelf1,No
+lt2y_b_emp_duration1,NA
+lt2y_b_emp_salary1,"$2,855.34"
+lt2y_b_emp_designation1,Supervisorpermanent
+lt2y_b_emp_name2,
+lt2y_b_emp_isSelf2,
+lt2y_b_emp_duration2,
+lt2y_b_emp_salary2,
+lt2y_b_emp_designation2,
+cbEmpName,ESA WAGE HOUR
+cbEmpAddress,"550 main st, rm 10-409, cincinnati, oh"
+cbIsSelfEmp,no
+cbYrsInCJob,1
+cbYrsInJob,5
+cbDesignation,Labor
+co-borrower_emp_type,Temperory
+lt2y_cb_emp_name1,"DOL BLS; PSB RM 3930, 2 MASSACHUSETTS AVE NE, WASHINGTON, DC"
+lt2y_cb_emp_isSelf1,No
+lt2y_cb_emp_duration1,NA
+lt2y_cb_emp_salary1,"$4,215.72"
+lt2y_cb_emp_designation1,SALES AGENTTEMPERORY
+lt2y_cb_emp_name2,
+lt2y_cb_emp_isSelf2,
+lt2y_cb_emp_duration2,
+lt2y_cb_emp_salary2,
+lt2y_cb_emp_designation2,
+bBaseSalary,$4445.00
+bOverttime,$220.00
+bBonus,$566.00
+bCommission,$100.00
+bDevident,$0.00
+bRentalIncome,$289.00
+bOtherIncome1,$0.00
+bOtherIncome2,$0.00
+bTotalIncome,$5620.00
+cbBaseSalary,$4396.00
+cbOverttime,$129.00
+cbBonus,$292.00
+cbCommission,$174.00
+cbDevident,$0.00
+cbRentalIncome,$420.00
+cbOtherIncome1,$191.00
+cbOtherIncome2,$0.00
+cbTotalIncome,$5602.00
+cbtBaseSalary,$8841.00
+cbtOverttime,$129220.00
+cbtBonus,$292566.00
+cbtCommission,$174100.00
+cbtDevident,$0.00
+cbtRentalIncome,$420289.00
+cbtOtherIncome1,$1910.00
+cbtOtherIncome2,$0.00
+cbtTotalIncome,$56025620.00
+psntRent,$1489.00
+psntFirstLoan,$106821.00
+psntOtherFinance,$0.00
+psntHzIns,$0.00
+psntTaxes,$0.00
+psntMoIns,$0.00
+pnstOwnerDues,$0.00
+pnstOther,$0.00
+psntTotalExp,$106821.00
+propFirstLoan,$106821.00
+propOtherFinance,$536.00
+propHzIns,$0.00
+propTaxes,$0.00
+propMoIns,$0.00
+propOwnerDues,$0.00
+propOther,$0.00
+propTotalExp,$107357.00
+assetsComputes,Jointly
+depPurchHeldBy,JOHN A REED
+depAmount,$10682.10
+depBankName,slm ecfc
+depBankAdd,"12061 bluemont way, reston, va"
+depBankAcc,07031312862106
+depBankBal,$20295.99
+LInsCashValue,$0.00
+LInsFaceValue,$0.00
+subTotLiqValue,$11750.31
+realEstateOwnedValue,$0.00
+retirementFundInterest,$0.00
+netWorthBizOwned,$0.00
+auto_make_year01,
+auto_amount01,
+auto_make_year02,
+auto_amount02,
+auto_make_year03,
+auto_amount03,
+preLoanBankName,na
+preLoanBankAdd,
+preLoanBankAcctNumber,NA
+preLoanEMIperMonth,$0.00
+preLoanUnpaidBalance,$0.00
+childSupportExpOwnedTo,na
+childSupportExpOwnedValue,$0.00
+pre_loan_bank_name_01,First Are& Federal Credit Union
+pre_loan_bank_add_01,"23 S. DORCAS ST, LEWISTOWN, PA"
+pre_loan_bank_acNo_01,37558037427688
+pre_loan_bank_EMI_01,"$10,682.10"
+pre_loan_bank_balance_01,"$23,500.62"
+pre_loan_bank_name_02,BANK OF LAKE MILLS
+pre_loan_bank_add_02,"136 east madison st, lake mills, wi"
+pre_loan_bank_acNo_02,07007821220778
+pre_loan_bank_EMI_02,"$13,886.73"
+pre_loan_bank_balance_02,"$18,159.57"
+pre_loan_bank_name_03,
+pre_loan_bank_add_03,
+pre_loan_bank_acNo_03,
+pre_loan_bank_EMI_03,
+pre_loan_bank_balance_03,
+jobExpensesTo,na
+jobExpensesValue,$0.00
+totMonthlyPayment,$0.00
+totMonthlyLiability,$0.00
+netWorthMonthlyValue,$0.00
+purchasePrice,$106821.00
+repairCost,$879.00
+landCost,$0.00
+refinanceCost,$0.00
+prepaidItemsCost,$0.00
+estimateClosingCost,$0.00
+fundingFee,$0.00
+disocuntValue,$0.00
+totalTxnCost,$107700.00
+subOrdFinance,$0.00
+closingCostBySeller,$0.00
+otherCredit,$0.00
+loanAmountEx,$106821.00
+loanAmountFundingFee,$0.00
+totalLoanAmount,$106821.00
+cashDepByBorrower,$879.00
+isOutstandingCourtCaseB,No
+isBankcruptB,No
+isForeclosedPropertyB,No
+isLawsuitB,
+isFailedLoanB,
+isDeliquentB,No
+isObligatedToPayB,No
+isDownpaymentBorrowedB,No
+isCoWorkerB,
+isUSCitizenB,
+isPermanentAlienB,No
+isOutstandingCourtCaseCB,No
+isBankcruptCB,
+isForeclosedPropertyCB,No
+isLawsuitCB,
+isFailedLoanCB,No
+isDeliquentCB,No
+isObligatedToPayCB,
+isDownpaymentBorrowedCB,No
+isCoWorkerCB,No
+isUSCitizenCB,Yes
+isPermanentAlienCB,No
+isNewPropPermanentB,
+ typeOfProp,investment property
+holdingTitleToHome,solely by yourself
+signingDateB,22-MAR-2017
+signingDateCB,22-MAR-2017
+bAccept,Yes
+bEthnicity,Not Hispanic or Latino
+bRace,White
+bSex,Male
+cbAccept,Yes
+cbEthnicity,Not Hispanic or Latino
+cbRace,White
+cbSex,Male
+informationCollectedBy,"face-to-face interview, telephone"
+loanOriginatorName,OIG OMAC PROCUREMENT
+loanOriginatorID,jdCz4eFa
+loanOriginatorCName,OIG OMAC PROCUREMENT
+loanOriginatorCID,2026935141
+loanOriginatorAddress,"200 constitution ave nw, rm s5506, washington, dc"

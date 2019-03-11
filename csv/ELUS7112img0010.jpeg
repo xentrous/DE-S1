@@ -1,0 +1,239 @@
+loanAppliedFor,VA
+agencyCaseNumebr,2mL3rbsi6pXj81
+LenderCaseNumber,OMYV-8487161620
+Amount,$4540.00
+Interest,7.57%
+Tenure,24 months
+AmortType,Fixed Rate
+PropAddress,"1456 windwo dr , crystal lake, il, 60014"
+PropUnits,1
+PropDescription,Appartment
+YearBuilt,1981
+purposeOfLoan,Refinance
+propFor,Primary
+construcYrLotReq,5 year(s)
+construcOrigCost,$41001.00
+construcExisLienAmount,$0.00
+construcPresentValue,$0.00
+construcImpCost,$0.00
+totalAB,$0.00
+refinanYrLotReq,5 year(s)
+refinanOrigCost,$4540.00
+refinanExisLienAmount,$0.00
+refinanPurpose,$0.00
+refinanImproveDescription,to be made
+refinanCost,$4540.00
+HeldName,mark johnson
+Manner,Ownership
+SourceOfDownPay,Personal Saving Account
+EstateToHeld,Fee Simple
+expDate,07-JAN-2061
+borrowerName,DONNIE W KEELING
+bSecurityNumber,220323336
+bPhone,8362315167
+bDOB,23-SEP-1988
+bYrsSchool,1988
+bMaritalStatus,Separated
+bDpendents,2
+bResType,Rent
+bPresentAddress,"9818 BLUEGRASS PKWY , LOUISVILLE, KY, 40299"
+bResSince,0 year(s)
+bMailAddress,"9818 bluegrass pkwy , louisville, ky, 40299"
+lt2y_b_res_type,Own
+lt2y_b_res_since,10
+lt2y_b_last_add,"placer hall 6000 j st , sacramento, ca, 95819"
+cborrowerName,linda c broussard
+cbSecurityNumber,110078274
+cbPhone,4672001718
+cbDOB,29-MAR-1989
+cbYrsSchool,1988
+cbMaritalStatus,Unmarried
+cbDpendents,3
+cbResType,Own
+cbPresentAddress,"700 Cajundome Blvd , Lafayette, La, 70506"
+cbResSince,7 year(s)
+cbMailAddress,"9818 Bluegrass Pkwy , Louisville, Ky, 40299"
+lt2y_cb_res_type,
+lt2y_cb_res_since,
+lt2y_cb_last_add,
+bEmpName,Us Dept Of Labor
+bEmpAddress,"61 Forsyth Street Sw, Room 6t50, Atlanta, Ga"
+bIsSelfEmp,no
+bYrsInCJob,5
+bYrsInJob,10
+bDesignation,HR Manager
+borrower_Emp_Type,Contract
+lt2y_b_emp_name1,
+lt2y_b_emp_isSelf1,
+lt2y_b_emp_duration1,
+lt2y_b_emp_salary1,
+lt2y_b_emp_designation1,
+lt2y_b_emp_name2,
+lt2y_b_emp_isSelf2,
+lt2y_b_emp_duration2,
+lt2y_b_emp_salary2,
+lt2y_b_emp_designation2,
+cbEmpName,wage hour regional off
+cbEmpAddress,"10300 SUNSET DR, NO 255, MIAMI, FL"
+cbIsSelfEmp,no
+cbYrsInCJob,2
+cbYrsInJob,7
+cbDesignation,Office Boy
+co-borrower_emp_type,Temperory
+lt2y_cb_emp_name1,
+lt2y_cb_emp_isSelf1,
+lt2y_cb_emp_duration1,
+lt2y_cb_emp_salary1,
+lt2y_cb_emp_designation1,
+lt2y_cb_emp_name2,
+lt2y_cb_emp_isSelf2,
+lt2y_cb_emp_duration2,
+lt2y_cb_emp_salary2,
+lt2y_cb_emp_designation2,
+bBaseSalary,$6440.00
+bOverttime,$100.00
+bBonus,$345.00
+bCommission,$157.00
+bDevident,$0.00
+bRentalIncome,$248.00
+bOtherIncome1,$145.00
+bOtherIncome2,$0.00
+bTotalIncome,$7435.00
+cbBaseSalary,$2578.00
+cbOverttime,$134.00
+cbBonus,$544.00
+cbCommission,$158.00
+cbDevident,$0.00
+cbRentalIncome,$0.00
+cbOtherIncome1,$0.00
+cbOtherIncome2,$0.00
+cbTotalIncome,$3414.00
+cbtBaseSalary,$9018.00
+cbtOverttime,$134100.00
+cbtBonus,$544345.00
+cbtCommission,$158157.00
+cbtDevident,$0.00
+cbtRentalIncome,$248.00
+cbtOtherIncome1,$145.00
+cbtOtherIncome2,$0.00
+cbtTotalIncome,$34147435.00
+psntRent,$1627.00
+psntFirstLoan,$4540.00
+psntOtherFinance,$0.00
+psntHzIns,$0.00
+psntTaxes,$0.00
+psntMoIns,$0.00
+pnstOwnerDues,$0.00
+pnstOther,$0.00
+psntTotalExp,$4540.00
+propFirstLoan,$4540.00
+propOtherFinance,$0.00
+propHzIns,$0.00
+propTaxes,$0.00
+propMoIns,$0.00
+propOwnerDues,$0.00
+propOther,$0.00
+propTotalExp,$4540.00
+assetsComputes,Not Jointly
+depPurchHeldBy,DONNIE W KEELING
+depAmount,$590.20
+depBankName,YOUR CHOICE FCU
+depBankAdd,"3010 maple avenue, altoona, pa"
+depBankAcc,28358388020025
+depBankBal,$862.60
+LInsCashValue,$0.00
+LInsFaceValue,$0.00
+subTotLiqValue,$454.00
+realEstateOwnedValue,$0.00
+retirementFundInterest,$0.00
+netWorthBizOwned,$0.00
+auto_make_year01,
+auto_amount01,
+auto_make_year02,
+auto_amount02,
+auto_make_year03,
+auto_amount03,
+preLoanBankName,NA
+preLoanBankAdd,Na
+preLoanBankAcctNumber,NA
+preLoanEMIperMonth,$0.00
+preLoanUnpaidBalance,$0.00
+childSupportExpOwnedTo,NA
+childSupportExpOwnedValue,$0.00
+pre_loan_bank_name_01,Farmers State Bank
+pre_loan_bank_add_01,"P 0 BOX 40, FLORENCE, MT"
+pre_loan_bank_acNo_01,31774364572233
+pre_loan_bank_EMI_01,$590.20
+pre_loan_bank_balance_01,$953.40
+pre_loan_bank_name_02,C&g Savings Association
+pre_loan_bank_add_02,"1201 12TH STREET, ALTOONA, PA"
+pre_loan_bank_acNo_02,27221802482166
+pre_loan_bank_EMI_02,$454.00
+pre_loan_bank_balance_02,$771.80
+pre_loan_bank_name_03,
+pre_loan_bank_add_03,
+pre_loan_bank_acNo_03,
+pre_loan_bank_EMI_03,
+pre_loan_bank_balance_03,
+jobExpensesTo,na
+jobExpensesValue,$0.00
+totMonthlyPayment,$0.00
+totMonthlyLiability,$0.00
+netWorthMonthlyValue,$0.00
+purchasePrice,$4540.00
+repairCost,$0.00
+landCost,$0.00
+refinanceCost,$0.00
+prepaidItemsCost,$0.00
+estimateClosingCost,$0.00
+fundingFee,$0.00
+disocuntValue,$0.00
+totalTxnCost,$4540.00
+subOrdFinance,$0.00
+closingCostBySeller,$0.00
+otherCredit,$0.00
+loanAmountEx,$4540.00
+loanAmountFundingFee,$0.00
+totalLoanAmount,$4540.00
+cashDepByBorrower,$0.00
+isOutstandingCourtCaseB,
+isBankcruptB,
+isForeclosedPropertyB,
+isLawsuitB,
+isFailedLoanB,No
+isDeliquentB,No
+isObligatedToPayB,No
+isDownpaymentBorrowedB,No
+isCoWorkerB,
+isUSCitizenB,
+isPermanentAlienB,No
+isOutstandingCourtCaseCB,
+isBankcruptCB,
+isForeclosedPropertyCB,No
+isLawsuitCB,No
+isFailedLoanCB,No
+isDeliquentCB,
+isObligatedToPayCB,
+isDownpaymentBorrowedCB,No
+isCoWorkerCB,
+isUSCitizenCB,Yes
+isPermanentAlienCB,No
+isNewPropPermanentB,
+ typeOfProp,second home
+holdingTitleToHome,jointly with another person
+signingDateB,27-FEB-2017
+signingDateCB,27-FEB-2017
+bAccept,Yes
+bEthnicity,Not Hispanic or Latino
+bRace,White
+bSex,Male
+cbAccept,Yes
+cbEthnicity,Not Hispanic or Latino
+cbRace,White
+cbSex,Male
+informationCollectedBy,"FACE-TO-FACE INTERVIEW, TELEPHONE"
+loanOriginatorName,dol oasam hrc
+loanOriginatorID,aqZsseTW
+loanOriginatorCName,DOL OASAM HRC
+loanOriginatorCID,2026937628
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM C-5517, WASHINGTON, DC"

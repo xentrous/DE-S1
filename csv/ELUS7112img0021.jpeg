@@ -1,0 +1,239 @@
+loanAppliedFor,USDA / Rural Housing Service
+agencyCaseNumebr,4pAGfe1Zeow4cz
+LenderCaseNumber,YJXJ-4815581351
+Amount,$9058.00
+Interest,8.25%
+Tenure,24 months
+AmortType,Other
+PropAddress,"1010 Emerson St Apt 302, Denver, Co, 80218"
+PropUnits,1
+PropDescription,Farm House
+YearBuilt,1973
+purposeOfLoan,Refinance
+propFor,Investment
+construcYrLotReq,0 year(s)
+construcOrigCost,$59248.00
+construcExisLienAmount,$0.00
+construcPresentValue,$0.00
+construcImpCost,$0.00
+totalAB,$0.00
+refinanYrLotReq,2 year(s)
+refinanOrigCost,$9058.00
+refinanExisLienAmount,$0.00
+refinanPurpose,$0.00
+refinanImproveDescription,to be made
+refinanCost,$9058.00
+HeldName,alemash yohannes
+Manner,Ownership
+SourceOfDownPay,Personal Saving Account
+EstateToHeld,Leasehold
+expDate,31 -MAY -2064
+borrowerName,brent m hall
+bSecurityNumber,758386064
+bPhone,6166020862
+bDOB,18 -AUG -1978
+bYrsSchool,1978
+bMaritalStatus,Unmarried
+bDpendents,2
+bResType,Own
+bPresentAddress,"5231 South 19th , Lincoln, Ne, 68512"
+bResSince,6 year(s)
+bMailAddress,"5231 SOUTH 19TH , LINCOLN, NE, 68512"
+lt2y_b_res_type,
+lt2y_b_res_since,
+lt2y_b_last_add,
+cborrowerName,KATHY A KUNZ
+cbSecurityNumber,204366378
+cbPhone,3815413105
+cbDOB,10-FEB-1983
+cbYrsSchool,1978
+cbMaritalStatus,Unmarried
+cbDpendents,2
+cbResType,Own
+cbPresentAddress,"6006 schroeder rd , madison, wi, 53711"
+cbResSince,3 year(s)
+cbMailAddress,"5231 South 19th , Lincoln, Ne, 68512"
+lt2y_cb_res_type,
+lt2y_cb_res_since,
+lt2y_cb_last_add,
+bEmpName,Dol Ebsa Oppem
+bEmpAddress,"200 constitution ave nw, rm n5668, washington, dc"
+bIsSelfEmp,no
+bYrsInCJob,5
+bYrsInJob,7
+bDesignation,Worker
+borrower_Emp_Type,Temperory
+lt2y_b_emp_name1,
+lt2y_b_emp_isSelf1,
+lt2y_b_emp_duration1,
+lt2y_b_emp_salary1,
+lt2y_b_emp_designation1,
+lt2y_b_emp_name2,
+lt2y_b_emp_isSelf2,
+lt2y_b_emp_duration2,
+lt2y_b_emp_salary2,
+lt2y_b_emp_designation2,
+cbEmpName,Vets
+cbEmpAddress,"421 East Dunklin St, Po Box 59, Jefferson City, Mo"
+cbIsSelfEmp,No
+cbYrsInCJob,4
+cbYrsInJob,6
+cbDesignation,Cook
+co-borrower_emp_type,Contract
+lt2y_cb_emp_name1,
+lt2y_cb_emp_isSelf1,
+lt2y_cb_emp_duration1,
+lt2y_cb_emp_salary1,
+lt2y_cb_emp_designation1,
+lt2y_cb_emp_name2,
+lt2y_cb_emp_isSelf2,
+lt2y_cb_emp_duration2,
+lt2y_cb_emp_salary2,
+lt2y_cb_emp_designation2,
+bBaseSalary,$4195.00
+bOverttime,$481.00
+bBonus,$520.00
+bCommission,$97.00
+bDevident,$0.00
+bRentalIncome,$310.00
+bOtherIncome1,$0.00
+bOtherIncome2,$0.00
+bTotalIncome,$5603.00
+cbBaseSalary,$1697.00
+cbOverttime,$493.00
+cbBonus,$796.00
+cbCommission,$21.00
+cbDevident,$0.00
+cbRentalIncome,$0.00
+cbOtherIncome1,$217.00
+cbOtherIncome2,$0.00
+cbTotalIncome,$3224.00
+cbtBaseSalary,$5892.00
+cbtOverttime,$493481.00
+cbtBonus,$796520.00
+cbtCommission,$2197.00
+cbtDevident,$0.00
+cbtRentalIncome,$310.00
+cbtOtherIncome1,$2170.00
+cbtOtherIncome2,$0.00
+cbtTotalIncome,$32245603.00
+psntRent,$813.00
+psntFirstLoan,$9058.00
+psntOtherFinance,$0.00
+psntHzIns,$0.00
+psntTaxes,$0.00
+psntMoIns,$0.00
+pnstOwnerDues,$0.00
+pnstOther,$0.00
+psntTotalExp,$9058.00
+propFirstLoan,$9058.00
+propOtherFinance,$0.00
+propHzIns,$0.00
+propTaxes,$0.00
+propMoIns,$0.00
+propOwnerDues,$0.00
+propOther,$0.00
+propTotalExp,$9058.00
+assetsComputes,Not Jointly
+depPurchHeldBy,BRENT M HALL
+depAmount,$1177.54
+depBankName,firefighters community cu
+depBankAdd,"2300 St Clair Avenue, Cleveland, Oh"
+depBankAcc,14881206475523
+depBankBal,$1721.02
+LInsCashValue,$0.00
+LInsFaceValue,$0.00
+subTotLiqValue,$996.38
+realEstateOwnedValue,$0.00
+retirementFundInterest,$0.00
+netWorthBizOwned,$0.00
+auto_make_year01,
+auto_amount01,
+auto_make_year02,
+auto_amount02,
+auto_make_year03,
+auto_amount03,
+preLoanBankName,Na
+preLoanBankAdd,na
+preLoanBankAcctNumber,na
+preLoanEMIperMonth,$0.00
+preLoanUnpaidBalance,$0.00
+childSupportExpOwnedTo,NA
+childSupportExpOwnedValue,$0.00
+pre_loan_bank_name_01,BANK OF BRODHEAD
+pre_loan_bank_add_01,"806 East Exchange, Brodhead, Wi"
+pre_loan_bank_acNo_01,22383561867502
+pre_loan_bank_EMI_01,"$1,177.54"
+pre_loan_bank_balance_01,"$1,630.44"
+pre_loan_bank_name_02,
+pre_loan_bank_add_02,
+pre_loan_bank_acNo_02,
+pre_loan_bank_EMI_02,
+pre_loan_bank_balance_02,
+pre_loan_bank_name_03,
+pre_loan_bank_add_03,
+pre_loan_bank_acNo_03,
+pre_loan_bank_EMI_03,
+pre_loan_bank_balance_03,
+jobExpensesTo,
+jobExpensesValue,$0.00
+totMonthlyPayment,$0.00
+totMonthlyLiability,$0.00
+netWorthMonthlyValue,$0.00
+purchasePrice,$9058.00
+repairCost,$751.00
+landCost,$0.00
+refinanceCost,$0.00
+prepaidItemsCost,$0.00
+estimateClosingCost,$0.00
+fundingFee,$0.00
+disocuntValue,$0.00
+totalTxnCost,$9809.00
+subOrdFinance,$0.00
+closingCostBySeller,$0.00
+otherCredit,$0.00
+loanAmountEx,$9058.00
+loanAmountFundingFee,$0.00
+totalLoanAmount,$9058.00
+cashDepByBorrower,$751.00
+isOutstandingCourtCaseB,No
+isBankcruptB,No
+isForeclosedPropertyB,
+isLawsuitB,No
+isFailedLoanB,
+isDeliquentB,
+isObligatedToPayB,No
+isDownpaymentBorrowedB,
+isCoWorkerB,No
+isUSCitizenB,
+isPermanentAlienB,
+isOutstandingCourtCaseCB,No
+isBankcruptCB,No
+isForeclosedPropertyCB,
+isLawsuitCB,No
+isFailedLoanCB,No
+isDeliquentCB,
+isObligatedToPayCB,No
+isDownpaymentBorrowedCB,
+isCoWorkerCB,No
+isUSCitizenCB,
+isPermanentAlienCB,
+isNewPropPermanentB,
+ typeOfProp,second home
+holdingTitleToHome,jointly with your spouse
+signingDateB,02 -APR -2017
+signingDateCB,02-APR-2017
+bAccept,Yes
+bEthnicity,Not Hispanic or Latino
+bRace,White
+bSex,Male
+cbAccept,Yes
+cbEthnicity,Not Hispanic or Latino
+cbRace,White
+cbSex,Male
+informationCollectedBy,"FACE-TO-FACE INTERVIEW, TELEPHONE"
+loanOriginatorName,Mine Safety & Health
+loanOriginatorID,5r5tQjUR
+loanOriginatorCName,Mine Safety & Health
+loanOriginatorCID,4356373051
+loanOriginatorAddress,"45 east 1375 south, ut"

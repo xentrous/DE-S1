@@ -1,0 +1,239 @@
+loanAppliedFor,FHA
+agencyCaseNumebr,pp6d0Qtme167Ru
+LenderCaseNumber,VPQW -4551332482
+Amount,$17358.00
+Interest,9.17%
+Tenure,300 months
+AmortType,Fixed Rate
+PropAddress,"730 MOZART RD , WHEELING, WV, 26003"
+PropUnits,1
+PropDescription,Suite
+YearBuilt,1993
+purposeOfLoan,Refinance
+propFor,Investment
+construcYrLotReq,0 year(s)
+construcOrigCost,$43091.00
+construcExisLienAmount,$0.00
+construcPresentValue,$0.00
+construcImpCost,$0.00
+totalAB,$0.00
+refinanYrLotReq,1 year(s)
+refinanOrigCost,$17358.00
+refinanExisLienAmount,$0.00
+refinanPurpose,$0.00
+refinanImproveDescription,to be made
+refinanCost,$17358.00
+HeldName,daniel vogel
+Manner,Ownership
+SourceOfDownPay,Personal Saving Account
+EstateToHeld,Leasehold
+expDate,12 -JUL -2059
+borrowerName,DALE A COX
+bSecurityNumber,585851781
+bPhone,1181516602
+bDOB,22-SEP-1981
+bYrsSchool,1981
+bMaritalStatus,Unmarried
+bDpendents,0
+bResType,Rent
+bPresentAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+bResSince,9 year(s)
+bMailAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+lt2y_b_res_type,
+lt2y_b_res_since,
+lt2y_b_last_add,
+cborrowerName,CHRISTOPHER T MILLS
+cbSecurityNumber,516725051
+cbPhone,5746114635
+cbDOB,28-FEB-1990
+cbYrsSchool,1981
+cbMaritalStatus,Unmarried
+cbDpendents,1
+cbResType,Rent
+cbPresentAddress,"box 25046 dfc ms 935 , denver, co, 80225"
+cbResSince,0 year(s)
+cbMailAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+lt2y_cb_res_type,Rent
+lt2y_cb_res_since,1
+lt2y_cb_last_add,"384 WOODS HOLE RD , WOODS HOLE, MA, 2543"
+bEmpName,Usdol Wage & Hour
+bEmpAddress,"230 n 1st ave, rm 402, phoenix, az"
+bIsSelfEmp,No
+bYrsInCJob,1
+bYrsInJob,2
+bDesignation,Office Assistant
+borrower_Emp_Type,Temperory
+lt2y_b_emp_name1,"DOL BLS; 2 MASSCHUSETTS AVE NE, POSTAL SQUARE BLDG RM 4945, WASHINGTON, DC"
+lt2y_b_emp_isSelf1,No
+lt2y_b_emp_duration1,NA
+lt2y_b_emp_salary1,"$1,912.41"
+lt2y_b_emp_designation1,offic? boytemperory
+lt2y_b_emp_name2,"mine safety & health; the stegmaier bldg ste 034, 7 north wilkes barre blvd, wilkes barre, pa"
+lt2y_b_emp_isSelf2,No
+lt2y_b_emp_duration2,NA
+lt2y_b_emp_salary2,"$1,605.48"
+lt2y_b_emp_designation2,OFFICE BOYTEMPERORY
+cbEmpName,Dol Bls
+cbEmpAddress,"2 MASSACHUSETTS AVE N E, ROOM 4675, WASHINGTON, DC"
+cbIsSelfEmp,no
+cbYrsInCJob,5
+cbYrsInJob,4
+cbDesignation,Office Boy
+co-borrower_emp_type,Temperory
+lt2y_cb_emp_name1,"us dept of labor 6sha; 1648 tripark way, wi"
+lt2y_cb_emp_isSelf1,No
+lt2y_cb_emp_duration1,NA
+lt2y_cb_emp_salary1,"$1,537.20"
+lt2y_cb_emp_designation1,cookcontract
+lt2y_cb_emp_name2,
+lt2y_cb_emp_isSelf2,
+lt2y_cb_emp_duration2,
+lt2y_cb_emp_salary2,
+lt2y_cb_emp_designation2,
+bBaseSalary,$2408.00
+bOverttime,$431.00
+bBonus,$784.00
+bCommission,$8.00
+bDevident,$0.00
+bRentalIncome,$228.00
+bOtherIncome1,$183.00
+bOtherIncome2,$0.00
+bTotalIncome,$4042.00
+cbBaseSalary,$2520.00
+cbOverttime,$383.00
+cbBonus,$356.00
+cbCommission,$183.00
+cbDevident,$0.00
+cbRentalIncome,$0.00
+cbOtherIncome1,$281.00
+cbOtherIncome2,$0.00
+cbTotalIncome,$3723.00
+cbtBaseSalary,$4928.00
+cbtOverttime,$383431.00
+cbtBonus,$356784.00
+cbtCommission,$1838.00
+cbtDevident,$0.00
+cbtRentalIncome,$228.00
+cbtOtherIncome1,$281183.00
+cbtOtherIncome2,$0.00
+cbtTotalIncome,$37234042.00
+psntRent,$1056.00
+psntFirstLoan,$17358.00
+psntOtherFinance,$636.00
+psntHzIns,$0.00
+psntTaxes,$0.00
+psntMoIns,$0.00
+pnstOwnerDues,$0.00
+pnstOther,$0.00
+psntTotalExp,$17994.00
+propFirstLoan,$17358.00
+propOtherFinance,$535.00
+propHzIns,$0.00
+propTaxes,$0.00
+propMoIns,$0.00
+propOwnerDues,$0.00
+propOther,$0.00
+propTotalExp,$17893.00
+assetsComputes,Not Jointly
+depPurchHeldBy,DALE A COX
+depAmount,$1909.38
+depBankName,Harbor Credit Union
+depBankAdd,"800 WEISE STREET, GREEN BAY, WI"
+depBankAcc,36851307073314
+depBankBal,$3645.18
+LInsCashValue,$0.00
+LInsFaceValue,$0.00
+subTotLiqValue,$2430.12
+realEstateOwnedValue,$0.00
+retirementFundInterest,$0.00
+netWorthBizOwned,$0.00
+auto_make_year01,
+auto_amount01,
+auto_make_year02,
+auto_amount02,
+auto_make_year03,
+auto_amount03,
+preLoanBankName,na
+preLoanBankAdd,
+preLoanBankAcctNumber,
+preLoanEMIperMonth,$0.00
+preLoanUnpaidBalance,$0.00
+childSupportExpOwnedTo,NA
+childSupportExpOwnedValue,$0.00
+pre_loan_bank_name_01,Syracuse Fcu
+pre_loan_bank_add_01,"Po Box 6209, Syracuse, Ny"
+pre_loan_bank_acNo_01,35664623317640
+pre_loan_bank_EMI_01,"$2,603.70"
+pre_loan_bank_balance_01,"$3,645.18"
+pre_loan_bank_name_02,class act fca
+pre_loan_bank_add_02,"3620 fern valley rd, louisville, ky"
+pre_loan_bank_acNo_02,61424874458866
+pre_loan_bank_EMI_02,"$2,082.96"
+pre_loan_bank_balance_02,"$2,950.86"
+pre_loan_bank_name_03,
+pre_loan_bank_add_03,
+pre_loan_bank_acNo_03,
+pre_loan_bank_EMI_03,
+pre_loan_bank_balance_03,
+jobExpensesTo,na
+jobExpensesValue,$0.00
+totMonthlyPayment,$0.00
+totMonthlyLiability,$0.00
+netWorthMonthlyValue,$0.00
+purchasePrice,$17358.00
+repairCost,$557.00
+landCost,$0.00
+refinanceCost,$0.00
+prepaidItemsCost,$0.00
+estimateClosingCost,$0.00
+fundingFee,$0.00
+disocuntValue,$0.00
+totalTxnCost,$17915.00
+subOrdFinance,$0.00
+closingCostBySeller,$0.00
+otherCredit,$0.00
+loanAmountEx,$17358.00
+loanAmountFundingFee,$0.00
+totalLoanAmount,$17358.00
+cashDepByBorrower,$557.00
+isOutstandingCourtCaseB,
+isBankcruptB,No
+isForeclosedPropertyB,No
+isLawsuitB,No
+isFailedLoanB,No
+isDeliquentB,No
+isObligatedToPayB,No
+isDownpaymentBorrowedB,No
+isCoWorkerB,
+isUSCitizenB,Yes
+isPermanentAlienB,
+isOutstandingCourtCaseCB,
+isBankcruptCB,
+isForeclosedPropertyCB,
+isLawsuitCB,No
+isFailedLoanCB,No
+isDeliquentCB,
+isObligatedToPayCB,
+isDownpaymentBorrowedCB,
+isCoWorkerCB,No
+isUSCitizenCB,Yes
+isPermanentAlienCB,No
+isNewPropPermanentB,
+ typeOfProp,principal residence
+holdingTitleToHome,jointly with another person
+signingDateB,19-APR-2017
+signingDateCB,19-APR-2017
+bAccept,Yes
+bEthnicity,Not Hispanic or Latino
+bRace,White
+bSex,Male
+cbAccept,Yes
+cbEthnicity,Not Hispanic or Latino
+cbRace,White
+cbSex,Male
+informationCollectedBy,"face-to-face interview, telephone"
+loanOriginatorName,DOL ASSISTANT SECRETARY
+loanOriginatorID,s6valXfE
+loanOriginatorCName,dol assistant secretary
+loanOriginatorCID,2026932150
+loanOriginatorAddress,"200 constitution ave nw, n3305, washington, dc"

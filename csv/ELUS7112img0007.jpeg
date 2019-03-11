@@ -1,0 +1,239 @@
+loanAppliedFor,Conventional
+agencyCaseNumebr,eWZHozhlphbe8j
+LenderCaseNumber,EPKZ-8127545054
+Amount,$64334.00
+Interest,7.24%
+Tenure,84 months
+AmortType,ARM
+PropAddress,"14454 Superior Rd , Cleveland, Oh, 44118"
+PropUnits,1
+PropDescription,Shop
+YearBuilt,1997
+purposeOfLoan,Construction-Permanent
+propFor,Seconday
+construcYrLotReq,2 year(s)
+construcOrigCost,$64334.00
+construcExisLienAmount,$0.00
+construcPresentValue,$0.00
+construcImpCost,$0.00
+totalAB,$0.00
+refinanYrLotReq,1 year(s)
+refinanOrigCost,$17358.00
+refinanExisLienAmount,$0.00
+refinanPurpose,$0.00
+refinanImproveDescription,to be made
+refinanCost,$17358.00
+HeldName,Ann Wahlman
+Manner,Ownership
+SourceOfDownPay,Personal Saving Account
+EstateToHeld,Fee Simple
+expDate,28 -JUL -2068
+borrowerName,Shirley hartsoe
+bSecurityNumber,727721166
+bPhone,4241003134
+bDOB,18 -DEC -1988
+bYrsSchool,1989
+bMaritalStatus,Married
+bDpendents,1
+bResType,Rent
+bPresentAddress,"5522 RESEARCH PARK DRIVE , CATONSVILLE, MD, 21228"
+bResSince,11 year(s)
+bMailAddress,"5522 research park drive , catonsville, md, 21228"
+lt2y_b_res_type,
+lt2y_b_res_since,
+lt2y_b_last_add,
+cborrowerName,LAURA M KISLOWSKI
+cbSecurityNumber,227571218
+cbPhone,2366650430
+cbDOB,29-NOV-1979
+cbYrsSchool,1989
+cbMaritalStatus,Separated
+cbDpendents,3
+cbResType,Rent
+cbPresentAddress,"516 NATIONAL CENTER , RESTON, VA, 20192"
+cbResSince,0 year(s)
+cbMailAddress,"5522 Research Park Drive , Catonsville, Md, 21228"
+lt2y_cb_res_type,Own
+lt2y_cb_res_since,0
+lt2y_cb_last_add,"6505 ne 65th st , seattle, was, 98115"
+bEmpName,Us Department Of Labor Oipa
+bEmpAddress,"1111 THIRD AVE, SUITE 930, SEATTLE, WA"
+bIsSelfEmp,No
+bYrsInCJob,5
+bYrsInJob,8
+bDesignation,Manager
+borrower_Emp_Type,Temperory
+lt2y_b_emp_name1,
+lt2y_b_emp_isSelf1,
+lt2y_b_emp_duration1,
+lt2y_b_emp_salary1,
+lt2y_b_emp_designation1,
+lt2y_b_emp_name2,
+lt2y_b_emp_isSelf2,
+lt2y_b_emp_duration2,
+lt2y_b_emp_salary2,
+lt2y_b_emp_designation2,
+cbEmpName,DOL BLS
+cbEmpAddress,"2 massachusetts avenue ne, room 4135, washington, dc"
+cbIsSelfEmp,no
+cbYrsInCJob,2
+cbYrsInJob,10
+cbDesignation,Central Supervisor
+co-borrower_emp_type,Temperory
+lt2y_cb_emp_name1,
+lt2y_cb_emp_isSelf1,
+lt2y_cb_emp_duration1,
+lt2y_cb_emp_salary1,
+lt2y_cb_emp_designation1,
+lt2y_cb_emp_name2,
+lt2y_cb_emp_isSelf2,
+lt2y_cb_emp_duration2,
+lt2y_cb_emp_salary2,
+lt2y_cb_emp_designation2,
+bBaseSalary,$4579.00
+bOverttime,$281.00
+bBonus,$747.00
+bCommission,$200.00
+bDevident,$0.00
+bRentalIncome,$0.00
+bOtherIncome1,$0.00
+bOtherIncome2,$0.00
+bTotalIncome,$5807.00
+cbBaseSalary,$2620.00
+cbOverttime,$408.00
+cbBonus,$572.00
+cbCommission,$28.00
+cbDevident,$0.00
+cbRentalIncome,$292.00
+cbOtherIncome1,$0.00
+cbOtherIncome2,$0.00
+cbTotalIncome,$3920.00
+cbtBaseSalary,$7199.00
+cbtOverttime,$408281.00
+cbtBonus,$572747.00
+cbtCommission,$28200.00
+cbtDevident,$0.00
+cbtRentalIncome,$2920.00
+cbtOtherIncome1,$0.00
+cbtOtherIncome2,$0.00
+cbtTotalIncome,$39205807.00
+psntRent,$868.00
+psntFirstLoan,$64334.00
+psntOtherFinance,$659.00
+psntHzIns,$0.00
+psntTaxes,$0.00
+psntMoIns,$0.00
+pnstOwnerDues,$0.00
+pnstOther,$0.00
+psntTotalExp,$64993.00
+propFirstLoan,$64334.00
+propOtherFinance,$612.00
+propHzIns,$0.00
+propTaxes,$0.00
+propMoIns,$0.00
+propOwnerDues,$0.00
+propOther,$0.00
+propTotalExp,$64946.00
+assetsComputes,Jointly
+depPurchHeldBy,SHIRLEY HARTSOE
+depAmount,$6433.40
+depBankName,"us bank elt bosque hea, inc"
+depBankAdd,"425 walnut street, cincinnati, oh"
+depBankAcc,37055570226788
+depBankBal,$13510.14
+LInsCashValue,$0.00
+LInsFaceValue,$0.00
+subTotLiqValue,$9650.10
+realEstateOwnedValue,$0.00
+retirementFundInterest,$0.00
+netWorthBizOwned,$0.00
+auto_make_year01,
+auto_amount01,
+auto_make_year02,
+auto_amount02,
+auto_make_year03,
+auto_amount03,
+preLoanBankName,na
+preLoanBankAdd,NA
+preLoanBankAcctNumber,NA
+preLoanEMIperMonth,$0.00
+preLoanUnpaidBalance,$0.00
+childSupportExpOwnedTo,
+childSupportExpOwnedValue,$0.00
+pre_loan_bank_name_01,freedom cu
+pre_loan_bank_add_01,"25 Jacksonville Road, Warminster, Pa"
+pre_loan_bank_acNo_01,86701441274021
+pre_loan_bank_EMI_01,"$8,363.42"
+pre_loan_bank_balance_01,"$12,866.80"
+pre_loan_bank_name_02,Primefinancial Cu
+pre_loan_bank_add_02,"5656 S PACKARD AVE, CUDAHY, WI"
+pre_loan_bank_acNo_02,35882020633424
+pre_loan_bank_EMI_02,"$7,076.74"
+pre_loan_bank_balance_02,"$12,866.80"
+pre_loan_bank_name_03,
+pre_loan_bank_add_03,
+pre_loan_bank_acNo_03,
+pre_loan_bank_EMI_03,
+pre_loan_bank_balance_03,
+jobExpensesTo,NA
+jobExpensesValue,$0.00
+totMonthlyPayment,$0.00
+totMonthlyLiability,$0.00
+netWorthMonthlyValue,$0.00
+purchasePrice,$64334.00
+repairCost,$0.00
+landCost,$0.00
+refinanceCost,$0.00
+prepaidItemsCost,$0.00
+estimateClosingCost,$0.00
+fundingFee,$0.00
+disocuntValue,$0.00
+totalTxnCost,$64334.00
+subOrdFinance,$0.00
+closingCostBySeller,$0.00
+otherCredit,$0.00
+loanAmountEx,$64334.00
+loanAmountFundingFee,$0.00
+totalLoanAmount,$64334.00
+cashDepByBorrower,$0.00
+isOutstandingCourtCaseB,
+isBankcruptB,No
+isForeclosedPropertyB,No
+isLawsuitB,No
+isFailedLoanB,No
+isDeliquentB,No
+isObligatedToPayB,No
+isDownpaymentBorrowedB,No
+isCoWorkerB,No
+isUSCitizenB,Yes
+isPermanentAlienB,
+isOutstandingCourtCaseCB,No
+isBankcruptCB,No
+isForeclosedPropertyCB,No
+isLawsuitCB,No
+isFailedLoanCB,No
+isDeliquentCB,No
+isObligatedToPayCB,
+isDownpaymentBorrowedCB,No
+isCoWorkerCB,
+isUSCitizenCB,Yes
+isPermanentAlienCB,No
+isNewPropPermanentB,No
+ typeOfProp,investment property
+holdingTitleToHome,jointly with your spouse
+signingDateB,01-MAR-2017
+signingDateCB,01-MAR-2017
+bAccept,Yes
+bEthnicity,Not Hispanic or Latino
+bRace,White
+bSex,Male
+cbAccept,Yes
+cbEthnicity,Not Hispanic or Latino
+cbRace,White
+cbSex,Male
+informationCollectedBy,"Face-to-face Interview, Telephone"
+loanOriginatorName,Dol Eta Div/admin Svcs
+loanOriginatorID,IiBlGyxR
+loanOriginatorCName,DOL ETA DIV/ADMIN SVCS
+loanOriginatorCID,2158615229
+loanOriginatorAddress,"The Curtis Ctr Ste 825 E, 170 S Independence Mall W, Philadelphia, Pa"

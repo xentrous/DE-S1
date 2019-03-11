@@ -1,0 +1,239 @@
+loanAppliedFor,FHA
+agencyCaseNumebr,j Pdav7MHCDdOhV
+LenderCaseNumber,JJXC-8246826857
+Amount,$62865.00
+Interest,9.43%
+Tenure,36 months
+AmortType,GPM
+PropAddress,"14103 FLEETWELL DR , HOUSTON, TX, 77045"
+PropUnits,1
+PropDescription,Commercial Property
+YearBuilt,1981
+purposeOfLoan,Purchase
+propFor,Seconday
+construcYrLotReq,0 year(s)
+construcOrigCost,$43091.00
+construcExisLienAmount,$0.00
+construcPresentValue,$0.00
+construcImpCost,$0.00
+totalAB,$0.00
+refinanYrLotReq,0 year(s)
+refinanOrigCost,$7679.00
+refinanExisLienAmount,$0.00
+refinanPurpose,$0.00
+refinanImproveDescription,made
+refinanCost,$7679.00
+HeldName,ANDREADISM MCMURRIN
+Manner,Ownership
+SourceOfDownPay,Personal Saving Account
+EstateToHeld,Leasehold
+expDate,12 -MAY -2058
+borrowerName,terry 1 heinert
+bSecurityNumber,216448278
+bPhone,4248325420
+bDOB,28 -AUG -1982
+bYrsSchool,1982
+bMaritalStatus,Married
+bDpendents,1
+bResType,Own
+bPresentAddress,"3162 BOZEMAN AVE , HELENA, MT, 59601"
+bResSince,5 year(s)
+bMailAddress,"3162 BOZEMAN AVE , HELENA, MT, 59601"
+lt2y_b_res_type,
+lt2y_b_res_since,
+lt2y_b_last_add,
+cborrowerName,JOHN TERENZI
+cbSecurityNumber,822487724
+cbPhone,7258231872
+cbDOB,28-FEB-1980
+cbYrsSchool,1982
+cbMaritalStatus,Separated
+cbDpendents,1
+cbResType,Rent
+cbPresentAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+cbResSince,4 year(s)
+cbMailAddress,"3162 Bozeman Ave , Helena, Mt, 59601"
+lt2y_cb_res_type,
+lt2y_cb_res_since,
+lt2y_cb_last_add,
+bEmpName,US DEPT OF LABOR OSHA BAO
+bEmpAddress,"505 106TH AV NE, STE 302, BELLEVUE, WA"
+bIsSelfEmp,No
+bYrsInCJob,4
+bYrsInJob,8
+bDesignation,Grocers Supplier
+borrower_Emp_Type,Permanent
+lt2y_b_emp_name1,
+lt2y_b_emp_isSelf1,
+lt2y_b_emp_duration1,
+lt2y_b_emp_salary1,
+lt2y_b_emp_designation1,
+lt2y_b_emp_name2,
+lt2y_b_emp_isSelf2,
+lt2y_b_emp_duration2,
+lt2y_b_emp_salary2,
+lt2y_b_emp_designation2,
+cbEmpName,Us Dept Of Labor Msha
+cbEmpAddress,"MINE SAFETY HEALTH ACADEMY, 1301 AIRPORT ROAD, BEAVER, WV"
+cbIsSelfEmp,no
+cbYrsInCJob,4
+cbYrsInJob,5
+cbDesignation,Office Assistant
+co-borrower_emp_type,Permanent
+lt2y_cb_emp_name1,
+lt2y_cb_emp_isSelf1,
+lt2y_cb_emp_duration1,
+lt2y_cb_emp_salary1,
+lt2y_cb_emp_designation1,
+lt2y_cb_emp_name2,
+lt2y_cb_emp_isSelf2,
+lt2y_cb_emp_duration2,
+lt2y_cb_emp_salary2,
+lt2y_cb_emp_designation2,
+bBaseSalary,$12251.00
+bOverttime,$427.00
+bBonus,$749.00
+bCommission,$134.00
+bDevident,$0.00
+bRentalIncome,$321.00
+bOtherIncome1,$0.00
+bOtherIncome2,$0.00
+bTotalIncome,$13882.00
+cbBaseSalary,$2760.00
+cbOverttime,$538.00
+cbBonus,$511.00
+cbCommission,$171.00
+cbDevident,$0.00
+cbRentalIncome,$375.00
+cbOtherIncome1,$132.00
+cbOtherIncome2,$0.00
+cbTotalIncome,$4487.00
+cbtBaseSalary,$15011.00
+cbtOverttime,$538427.00
+cbtBonus,$511749.00
+cbtCommission,$171134.00
+cbtDevident,$0.00
+cbtRentalIncome,$375321.00
+cbtOtherIncome1,$1320.00
+cbtOtherIncome2,$0.00
+cbtTotalIncome,$448713882.00
+psntRent,$1682.00
+psntFirstLoan,$62865.00
+psntOtherFinance,$0.00
+psntHzIns,$0.00
+psntTaxes,$0.00
+psntMoIns,$0.00
+pnstOwnerDues,$0.00
+pnstOther,$0.00
+psntTotalExp,$62865.00
+propFirstLoan,$62865.00
+propOtherFinance,$0.00
+propHzIns,$0.00
+propTaxes,$0.00
+propMoIns,$0.00
+propOwnerDues,$0.00
+propOther,$0.00
+propTotalExp,$62865.00
+assetsComputes,Not Jointly
+depPurchHeldBy,TERRY L HEINERT
+depAmount,$8172.45
+depBankName,wachovia bank na
+depBankAdd,"Po Box 13667, Sacramento, Ca"
+depBankAcc,36846722854453
+depBankBal,$11944.35
+LInsCashValue,$0.00
+LInsFaceValue,$0.00
+subTotLiqValue,$6286.50
+realEstateOwnedValue,$0.00
+retirementFundInterest,$0.00
+netWorthBizOwned,$0.00
+auto_make_year01,
+auto_amount01,
+auto_make_year02,
+auto_amount02,
+auto_make_year03,
+auto_amount03,
+preLoanBankName,
+preLoanBankAdd,na
+preLoanBankAcctNumber,NA
+preLoanEMIperMonth,$0.00
+preLoanUnpaidBalance,$0.00
+childSupportExpOwnedTo,
+childSupportExpOwnedValue,$0.00
+pre_loan_bank_name_01,Enterprise Credit Union
+pre_loan_bank_add_01,"12700 W. BLUEMOUND ROAD, ELM GROVE, WI"
+pre_loan_bank_acNo_01,40471200367172
+pre_loan_bank_EMI_01,"$6,286.50"
+pre_loan_bank_balance_01,"$11,315.70"
+pre_loan_bank_name_02,
+pre_loan_bank_add_02,
+pre_loan_bank_acNo_02,
+pre_loan_bank_EMI_02,
+pre_loan_bank_balance_02,
+pre_loan_bank_name_03,
+pre_loan_bank_add_03,
+pre_loan_bank_acNo_03,
+pre_loan_bank_EMI_03,
+pre_loan_bank_balance_03,
+jobExpensesTo,na
+jobExpensesValue,$0.00
+totMonthlyPayment,$0.00
+totMonthlyLiability,$0.00
+netWorthMonthlyValue,$0.00
+purchasePrice,$62865.00
+repairCost,$0.00
+landCost,$0.00
+refinanceCost,$0.00
+prepaidItemsCost,$0.00
+estimateClosingCost,$0.00
+fundingFee,$0.00
+disocuntValue,$0.00
+totalTxnCost,$62865.00
+subOrdFinance,$0.00
+closingCostBySeller,$0.00
+otherCredit,$0.00
+loanAmountEx,$62865.00
+loanAmountFundingFee,$0.00
+totalLoanAmount,$62865.00
+cashDepByBorrower,$0.00
+isOutstandingCourtCaseB,No
+isBankcruptB,
+isForeclosedPropertyB,No
+isLawsuitB,No
+isFailedLoanB,No
+isDeliquentB,No
+isObligatedToPayB,No
+isDownpaymentBorrowedB,
+isCoWorkerB,No
+isUSCitizenB,Yes
+isPermanentAlienB,No
+isOutstandingCourtCaseCB,No
+isBankcruptCB,No
+isForeclosedPropertyCB,No
+isLawsuitCB,
+isFailedLoanCB,No
+isDeliquentCB,No
+isObligatedToPayCB,No
+isDownpaymentBorrowedCB,
+isCoWorkerCB,
+isUSCitizenCB,Yes
+isPermanentAlienCB,No
+isNewPropPermanentB,No
+ typeOfProp,principal residence
+holdingTitleToHome,jointly with your spouse
+signingDateB,14-APR-2017
+signingDateCB,14-APR-2017
+bAccept,Yes
+bEthnicity,Not Hispanic or Latino
+bRace,White
+bSex,Male
+cbAccept,Yes
+cbEthnicity,Not Hispanic or Latino
+cbRace,White
+cbSex,Male
+informationCollectedBy,"face-to-face interview, telephone"
+loanOriginatorName,dol r9 esaofccp san fr
+loanOriginatorID,RogOoe6c
+loanOriginatorCName,DOL R9 ESAOFCCP SAN FR
+loanOriginatorCID,8584677011
+loanOriginatorAddress,"5675 ruffin rd, suite 320, san diego, ca"

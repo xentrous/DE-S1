@@ -1,0 +1,239 @@
+loanAppliedFor,VA
+agencyCaseNumebr,h4JqYbUby0T6YF
+LenderCaseNumber,CFPD-2768758510
+Amount,$43091.00
+Interest,
+Tenure,24 months
+AmortType,GPM
+PropAddress,"6613 SENECA DR , COLUMBIA, MD, 21046"
+PropUnits,1
+PropDescription,Flat
+YearBuilt,1970
+purposeOfLoan,Construction
+propFor,Primary
+construcYrLotReq,3 year(s)
+construcOrigCost,$43091.00
+construcExisLienAmount,$0.00
+construcPresentValue,$0.00
+construcImpCost,$0.00
+totalAB,$0.00
+refinanYrLotReq,year(s)
+refinanOrigCost,
+refinanExisLienAmount,
+refinanPurpose,
+refinanImproveDescription,
+refinanCost,
+HeldName,David Martorana
+Manner,Ownership
+SourceOfDownPay,Personal Saving Account
+EstateToHeld,Fee Simple
+expDate,08-JAN-2075
+borrowerName,Jerry Kwong
+bSecurityNumber,837854032
+bPhone,3426251232
+bDOB,25 -AUG -1987
+bYrsSchool,1987
+bMaritalStatus,Separated
+bDpendents,2
+bResType,Rent
+bPresentAddress,"Modoc Hall Usgs Ms 3006 3020 State Univ Dr East, Sacramento, Ca, 95819"
+bResSince,0 year(s)
+bMailAddress,"Modoc Hall Usgs Ms 3006 3020 State Univ Dr East, Sacramento, Ca, 95819"
+lt2y_b_res_type,Rent
+lt2y_b_res_since,6
+lt2y_b_last_add,"2280 Woodale Dr , Mounds View, Mn, 55112"
+cborrowerName,Rita J Choate
+cbSecurityNumber,525463781
+cbPhone,8508141623
+cbDOB,04 -JUL -1983
+cbYrsSchool,1987
+cbMaritalStatus,Unmarried
+cbDpendents,0
+cbResType,Rent
+cbPresentAddress,"1400 independence rd ms100, rolla, mo, 65401"
+cbResSince,12 year(s)
+cbMailAddress,"Modoc Hall Usgs Ms 3006 3020 State Univ Dr East, Sacramento, Ca, 95819"
+lt2y_cb_res_type,
+lt2y_cb_res_since,
+lt2y_cb_last_add,
+bEmpName,US DOL OLMS
+bEmpAddress,"201 Varick St Rm 878, New York, Ny"
+bIsSelfEmp,No
+bYrsInCJob,1
+bYrsInJob,3
+bDesignation,Sales Agent
+borrower_Emp_Type,Contract
+lt2y_b_emp_name1,"Dol R9 Ebsa San Fran; 90 7th Street Room 11300, San Francisco, Ca"
+lt2y_b_emp_isSelf1,No
+lt2y_b_emp_duration1,NA
+lt2y_b_emp_salary1,"$2,177.28"
+lt2y_b_emp_designation1,secretarypermanent
+lt2y_b_emp_name2,"Mine Safety & Health; West Oaks Bldg C, 2227 W Lindsey St Ste 1450, Norman, Ok"
+lt2y_b_emp_isSelf2,No
+lt2y_b_emp_duration2,NA
+lt2y_b_emp_salary2,"$1,612.80"
+lt2y_b_emp_designation2,SecretarycOntract
+cbEmpName,us dol rl osha
+cbEmpAddress,"ABRAHAM RIBICOFF FED BLDG, 450 MAIN ST RM 613, HARTFORD, CT"
+cbIsSelfEmp,no
+cbYrsInCJob,1
+cbYrsInJob,2
+cbDesignation,Security Head
+co-borrower_emp_type,Permanent
+lt2y_cb_emp_name1,"us dol ilab; 200 constitution ave nw, s2235, washington, do"
+lt2y_cb_emp_isSelf1,No
+lt2y_cb_emp_duration1,NA
+lt2y_cb_emp_salary1,"$1,053.90"
+lt2y_cb_emp_designation1,Guard Permanent
+lt2y_cb_emp_name2,"dol esa; 200 constitution ave nw, rm s3524, washington, do"
+lt2y_cb_emp_isSelf2,No
+lt2y_cb_emp_duration2,NA
+lt2y_cb_emp_salary2,$819.70
+lt2y_cb_emp_designation2,Guard Temperory
+bBaseSalary,$5230.00
+bOverttime,$438.00
+bBonus,$546.00
+bCommission,$28.00
+bDevident,$0.00
+bRentalIncome,$253.00
+bOtherIncome1,$0.00
+bOtherIncome2,$0.00
+bTotalIncome,$6495.00
+cbBaseSalary,$4791.00
+cbOverttime,$326.00
+cbBonus,$349.00
+cbCommission,$172.00
+cbDevident,$0.00
+cbRentalIncome,$430.00
+cbOtherIncome1,$249.00
+cbOtherIncome2,$0.00
+cbTotalIncome,$6317.00
+cbtBaseSalary,$10021.00
+cbtOverttime,$326438.00
+cbtBonus,$349546.00
+cbtCommission,$17228.00
+cbtDevident,$0.00
+cbtRentalIncome,$430253.00
+cbtOtherIncome1,$2490.00
+cbtOtherIncome2,$0.00
+cbtTotalIncome,$63176495.00
+psntRent,$1352.00
+psntFirstLoan,$43091.00
+psntOtherFinance,$705.00
+psntHzIns,$0.00
+psntTaxes,$0.00
+psntMoIns,$0.00
+pnstOwnerDues,$0.00
+pnstOther,$0.00
+psntTotalExp,$43796.00
+propFirstLoan,$43091.00
+propOtherFinance,$542.00
+propHzIns,$0.00
+propTaxes,$0.00
+propMoIns,$0.00
+propOwnerDues,$0.00
+propOther,$0.00
+propTotalExp,$43633.00
+assetsComputes,Not Jointly
+depPurchHeldBy,JERRY KWONG
+depAmount,$5601.83
+depBankName,Jp Morganchase Bank
+depBankAdd,"900 stewart eve, garden city, ny"
+depBankAcc,54828757551358
+depBankBal,$9049.11
+LInsCashValue,$0.00
+LInsFaceValue,$0.00
+subTotLiqValue,$6463.65
+realEstateOwnedValue,$0.00
+retirementFundInterest,$0.00
+netWorthBizOwned,$0.00
+auto_make_year01,
+auto_amount01,
+auto_make_year02,
+auto_amount02,
+auto_make_year03,
+auto_amount03,
+preLoanBankName,Na
+preLoanBankAdd,Na
+preLoanBankAcctNumber,na
+preLoanEMIperMonth,$0.00
+preLoanUnpaidBalance,$0.00
+childSupportExpOwnedTo,
+childSupportExpOwnedValue,$0.00
+pre_loan_bank_name_01,CPORT CU
+pre_loan_bank_add_01,"50 Riverside Industrial Pkwy, Portland, Me"
+pre_loan_bank_acNo_01,54056148601364
+pre_loan_bank_EMI_01,"$5,601.83"
+pre_loan_bank_balance_01,"$8,187.29"
+pre_loan_bank_name_02,stanford university
+pre_loan_bank_add_02,"CROWN QUAD 559 NATHAN ABBOTT WAY, STANFORD, CA"
+pre_loan_bank_acNo_02,60245002544661
+pre_loan_bank_EMI_02,"$4,309.10"
+pre_loan_bank_balance_02,"$9,480.02"
+pre_loan_bank_name_03,
+pre_loan_bank_add_03,
+pre_loan_bank_acNo_03,
+pre_loan_bank_EMI_03,
+pre_loan_bank_balance_03,
+jobExpensesTo,NA
+jobExpensesValue,$0.00
+totMonthlyPayment,$0.00
+totMonthlyLiability,$0.00
+netWorthMonthlyValue,$0.00
+purchasePrice,$43091.00
+repairCost,$0.00
+landCost,$0.00
+refinanceCost,$0.00
+prepaidItemsCost,$0.00
+estimateClosingCost,$0.00
+fundingFee,$0.00
+disocuntValue,$0.00
+totalTxnCost,$43091.00
+subOrdFinance,$0.00
+closingCostBySeller,$0.00
+otherCredit,$0.00
+loanAmountEx,$43091.00
+loanAmountFundingFee,$0.00
+totalLoanAmount,$43091.00
+cashDepByBorrower,$0.00
+isOutstandingCourtCaseB,
+isBankcruptB,
+isForeclosedPropertyB,
+isLawsuitB,
+isFailedLoanB,
+isDeliquentB,No
+isObligatedToPayB,No
+isDownpaymentBorrowedB,No
+isCoWorkerB,No
+isUSCitizenB,Yes
+isPermanentAlienB,No
+isOutstandingCourtCaseCB,
+isBankcruptCB,
+isForeclosedPropertyCB,
+isLawsuitCB,No
+isFailedLoanCB,No
+isDeliquentCB,
+isObligatedToPayCB,No
+isDownpaymentBorrowedCB,
+isCoWorkerCB,
+isUSCitizenCB,Yes
+isPermanentAlienCB,No
+isNewPropPermanentB,
+ typeOfProp,investment property
+holdingTitleToHome,jointly with your spouse
+signingDateB,20 -APR -2017
+signingDateCB,20-APR-2017
+bAccept,Yes
+bEthnicity,Not Hispanic or Latino
+bRace,White
+bSex,Male
+cbAccept,Yes
+cbEthnicity,Not Hispanic or Latino
+cbRace,White
+cbSex,Male
+informationCollectedBy,"FACE-TO-FACE INTERVIEW, TELEPHONE"
+loanOriginatorName,dol sol cr
+loanOriginatorID,wm3415U6
+loanOriginatorCName,dol sol cr
+loanOriginatorCID,2022197754
+loanOriginatorAddress,"200 Constitution Ave, Rm N2101, Washington, Dc"

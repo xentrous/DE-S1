@@ -1,0 +1,239 @@
+loanAppliedFor,VA
+agencyCaseNumebr,wsA7mwGge0BqdM
+LenderCaseNumber,MXQA-8146034346
+Amount,$100762.00
+Interest,7.54%
+Tenure,120 months
+AmortType,GPM
+PropAddress,"Po Box 271071 , Saint Paul, Mn, 55127"
+PropUnits,1
+PropDescription,Residence House
+YearBuilt,2009
+purposeOfLoan,Purchase
+propFor,Seconday
+construcYrLotReq,0 year(s)
+construcOrigCost,$59248.00
+construcExisLienAmount,$0.00
+construcPresentValue,$0.00
+construcImpCost,$0.00
+totalAB,$0.00
+refinanYrLotReq,0 year(s)
+refinanOrigCost,$9058.00
+refinanExisLienAmount,$0.00
+refinanPurpose,$0.00
+refinanImproveDescription,to be made
+refinanCost,$9058.00
+HeldName,CLAUDIA PENNOH
+Manner,Ownership
+SourceOfDownPay,Personal Saving Account
+EstateToHeld,Leasehold
+expDate,31 -MAY -2061
+borrowerName,John D Hansen
+bSecurityNumber,212450756
+bPhone,5145514120
+bDOB,31 -MAY -1988
+bYrsSchool,1988
+bMaritalStatus,Unmarried
+bDpendents,4
+bResType,Rent
+bPresentAddress,"6505 Ne 65th St , Seattle, Wa, 98115"
+bResSince,12 year(s)
+bMailAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+lt2y_b_res_type,
+lt2y_b_res_since,
+lt2y_b_last_add,
+cborrowerName,ROSALINA S TAAGA
+cbSecurityNumber,786318170
+cbPhone,7206133631
+cbDOB,29 -DEC -1977
+cbYrsSchool,1988
+cbMaritalStatus,Separated
+cbDpendents,3
+cbResType,Rent
+cbPresentAddress,"345 middlefield rd ms 531 , menlo park, ca, 94025"
+cbResSince,3 year(s)
+cbMailAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+lt2y_cb_res_type,
+lt2y_cb_res_since,
+lt2y_cb_last_add,
+bEmpName,dol bls
+bEmpAddress,"POSTAL SQUARE BLDG STE 2135, 2 MASSACHUSETTS AVE NE, WASHINGTON, DC"
+bIsSelfEmp,No
+bYrsInCJob,5
+bYrsInJob,10
+bDesignation,Security Member
+borrower_Emp_Type,Permanent
+lt2y_b_emp_name1,
+lt2y_b_emp_isSelf1,
+lt2y_b_emp_duration1,
+lt2y_b_emp_salary1,
+lt2y_b_emp_designation1,
+lt2y_b_emp_name2,
+lt2y_b_emp_isSelf2,
+lt2y_b_emp_duration2,
+lt2y_b_emp_salary2,
+lt2y_b_emp_designation2,
+cbEmpName,DOL ESA OWCP
+cbEmpAddress,"200 Constitution Ave Nw, N3454, Washington, Dc"
+cbIsSelfEmp,No
+cbYrsInCJob,3
+cbYrsInJob,6
+cbDesignation,Supervisor
+co-borrower_emp_type,Contract
+lt2y_cb_emp_name1,
+lt2y_cb_emp_isSelf1,
+lt2y_cb_emp_duration1,
+lt2y_cb_emp_salary1,
+lt2y_cb_emp_designation1,
+lt2y_cb_emp_name2,
+lt2y_cb_emp_isSelf2,
+lt2y_cb_emp_duration2,
+lt2y_cb_emp_salary2,
+lt2y_cb_emp_designation2,
+bBaseSalary,$4548.00
+bOverttime,$402.00
+bBonus,$517.00
+bCommission,$151.00
+bDevident,$0.00
+bRentalIncome,$0.00
+bOtherIncome1,$202.00
+bOtherIncome2,$0.00
+bTotalIncome,$5820.00
+cbBaseSalary,$3380.00
+cbOverttime,$460.00
+cbBonus,$746.00
+cbCommission,$162.00
+cbDevident,$0.00
+cbRentalIncome,$313.00
+cbOtherIncome1,$0.00
+cbOtherIncome2,$0.00
+cbTotalIncome,$5061.00
+cbtBaseSalary,$7928.00
+cbtOverttime,$460402.00
+cbtBonus,$746517.00
+cbtCommission,$162151.00
+cbtDevident,$0.00
+cbtRentalIncome,$3130.00
+cbtOtherIncome1,$202.00
+cbtOtherIncome2,$0.00
+cbtTotalIncome,$50615820.00
+psntRent,$1596.00
+psntFirstLoan,$100762.00
+psntOtherFinance,$0.00
+psntHzIns,$0.00
+psntTaxes,$0.00
+psntMoIns,$0.00
+pnstOwnerDues,$0.00
+pnstOther,$0.00
+psntTotalExp,$100762.00
+propFirstLoan,$100762.00
+propOtherFinance,$0.00
+propHzIns,$0.00
+propTaxes,$0.00
+propMoIns,$0.00
+propOwnerDues,$0.00
+propOther,$0.00
+propTotalExp,$100762.00
+assetsComputes,Jointly
+depPurchHeldBy,JOHN D HANSEN
+depAmount,$11083.82
+depBankName,first security bank
+depBankAdd,"611 SUMMIT AVE, BOX 646, DETROIT LAKES, MN"
+depBankAcc,88635344731587
+depBankBal,$19144.78
+LInsCashValue,$0.00
+LInsFaceValue,$0.00
+subTotLiqValue,$14106.68
+realEstateOwnedValue,$0.00
+retirementFundInterest,$0.00
+netWorthBizOwned,$0.00
+auto_make_year01,
+auto_amount01,
+auto_make_year02,
+auto_amount02,
+auto_make_year03,
+auto_amount03,
+preLoanBankName,Na
+preLoanBankAdd,
+preLoanBankAcctNumber,NA
+preLoanEMIperMonth,$0.00
+preLoanUnpaidBalance,$0.00
+childSupportExpOwnedTo,na
+childSupportExpOwnedValue,$0.00
+pre_loan_bank_name_01,Capital View Credit Union
+pre_loan_bank_add_01,"1000 EAST GRAND, DES MOINES, IA"
+pre_loan_bank_acNo_01,10753485782271
+pre_loan_bank_EMI_01,"$13,099.06"
+pre_loan_bank_balance_01,"$18,137.16"
+pre_loan_bank_name_02,
+pre_loan_bank_add_02,
+pre_loan_bank_acNo_02,
+pre_loan_bank_EMI_02,
+pre_loan_bank_balance_02,
+pre_loan_bank_name_03,
+pre_loan_bank_add_03,
+pre_loan_bank_acNo_03,
+pre_loan_bank_EMI_03,
+pre_loan_bank_balance_03,
+jobExpensesTo,NA
+jobExpensesValue,$0.00
+totMonthlyPayment,$0.00
+totMonthlyLiability,$0.00
+netWorthMonthlyValue,$0.00
+purchasePrice,$100762.00
+repairCost,$1139.00
+landCost,$0.00
+refinanceCost,$0.00
+prepaidItemsCost,$0.00
+estimateClosingCost,$0.00
+fundingFee,$0.00
+disocuntValue,$0.00
+totalTxnCost,$101901.00
+subOrdFinance,$0.00
+closingCostBySeller,$0.00
+otherCredit,$0.00
+loanAmountEx,$100762.00
+loanAmountFundingFee,$0.00
+totalLoanAmount,$100762.00
+cashDepByBorrower,$1139.00
+isOutstandingCourtCaseB,No
+isBankcruptB,
+isForeclosedPropertyB,
+isLawsuitB,
+isFailedLoanB,No
+isDeliquentB,
+isObligatedToPayB,
+isDownpaymentBorrowedB,No
+isCoWorkerB,No
+isUSCitizenB,
+isPermanentAlienB,No
+isOutstandingCourtCaseCB,No
+isBankcruptCB,
+isForeclosedPropertyCB,No
+isLawsuitCB,
+isFailedLoanCB,No
+isDeliquentCB,No
+isObligatedToPayCB,No
+isDownpaymentBorrowedCB,
+isCoWorkerCB,
+isUSCitizenCB,
+isPermanentAlienCB,No
+isNewPropPermanentB,
+ typeOfProp,investment property
+holdingTitleToHome,solely by yourself
+signingDateB,12 -APR -2017
+signingDateCB,12-APR-2017
+bAccept,Yes
+bEthnicity,Not Hispanic or Latino
+bRace,White
+bSex,Male
+cbAccept,Yes
+cbEthnicity,Not Hispanic or Latino
+cbRace,White
+cbSex,Male
+informationCollectedBy,"Face-to-face Interview, Telephone"
+loanOriginatorName,DOL EVALUATION & ANALYSIS
+loanOriginatorID,s5i8iJJg
+loanOriginatorCName,dol evaluation & analysis
+loanOriginatorCID,2026931940
+loanOriginatorAddress,"200 Constitution Ave Nw, Rm 3641n, Washington, Dc"

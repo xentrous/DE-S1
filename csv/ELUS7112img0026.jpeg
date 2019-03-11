@@ -1,0 +1,239 @@
+loanAppliedFor,Conventional
+agencyCaseNumebr,TAo1eDgmOobpfo
+LenderCaseNumber,CKGZ -7135733811
+Amount,$75311.00
+Interest,9.40%
+Tenure,120 months
+AmortType,Fixed Rate
+PropAddress,"5428 GUM SWAMP RD , AYDEN, NC, 28513"
+PropUnits,1
+PropDescription,Suite
+YearBuilt,2002
+purposeOfLoan,Construction
+propFor,Primary
+construcYrLotReq,5 year(s)
+construcOrigCost,$75311.00
+construcExisLienAmount,$0.00
+construcPresentValue,$0.00
+construcImpCost,$0.00
+totalAB,$0.00
+refinanYrLotReq,4 year(s)
+refinanOrigCost,$16400.00
+refinanExisLienAmount,$0.00
+refinanPurpose,$0.00
+refinanImproveDescription,to be made
+refinanCost,$16400.00
+HeldName,Carol Bowen
+Manner,Ownership
+SourceOfDownPay,Personal Saving Account
+EstateToHeld,Leasehold
+expDate,21-MAR-2077
+borrowerName,greg mendez
+bSecurityNumber,834446476
+bPhone,2150170181
+bDOB,18-JAN-1982
+bYrsSchool,1982
+bMaritalStatus,Married
+bDpendents,0
+bResType,Own
+bPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+bResSince,0 year(s)
+bMailAddress,"Placer Hall 6000 J St , Sacramento, Ca, 95819"
+lt2y_b_res_type,Own
+lt2y_b_res_since,6
+lt2y_b_last_add,"345 Middlefield Rd Ms 999 , Menlo Park, CA, 94025"
+cborrowerName,RICHARD M LIANGGAN
+cbSecurityNumber,018480814
+cbPhone,0530256016
+cbDOB,20-JAN-1978
+cbYrsSchool,1982
+cbMaritalStatus,Unmarried
+cbDpendents,0
+cbResType,Own
+cbPresentAddress,"345 Middlefield Rd Ms 977 , Menlo Park, Ca, 94025"
+cbResSince,11 year(s)
+cbMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+lt2y_cb_res_type,
+lt2y_cb_res_since,
+lt2y_cb_last_add,
+bEmpName,dol region 5 osam
+bEmpAddress,"230 S Dearborn St, Rm 1086, Chicago, Il"
+bIsSelfEmp,no
+bYrsInCJob,1
+bYrsInJob,4
+bDesignation,Labor
+borrower_Emp_Type,Temperory
+lt2y_b_emp_name1,"DOL ESA OFCCP; 200 CONSTITUTION AVE NW, RM C-3310, WASHINGTON, DC"
+lt2y_b_emp_isSelf1,No
+lt2y_b_emp_duration1,NA
+lt2y_b_emp_salary1,"$2,839.20"
+lt2y_b_emp_designation1,TRAINER CONTRACT
+lt2y_b_emp_name2,"Us Dol Ofccp; 61 Forsyth St Sw, Ste 7b75, Atlanta, Ga"
+lt2y_b_emp_isSelf2,No
+lt2y_b_emp_duration2,NA
+lt2y_b_emp_salary2,"$2,230.80"
+lt2y_b_emp_designation2,Trainer Permanent
+cbEmpName,US DOL VETS- THOMPSON
+cbEmpAddress,"JFK FEDERAL BLDG, RM E315, BOSTON, MA"
+cbIsSelfEmp,No
+cbYrsInCJob,4
+cbYrsInJob,2
+cbDesignation,Guard
+co-borrower_emp_type,Temperory
+lt2y_cb_emp_name1,"DOL SOL; US DEPT OF LABOR, 200 CONSTITUTION AVE NW RM N2428, WASHINGTON, DC"
+lt2y_cb_emp_isSelf1,No
+lt2y_cb_emp_duration1,NA
+lt2y_cb_emp_salary1,"$3,050.08"
+lt2y_cb_emp_designation1,account admin permanent
+lt2y_cb_emp_name2,
+lt2y_cb_emp_isSelf2,
+lt2y_cb_emp_duration2,
+lt2y_cb_emp_salary2,
+lt2y_cb_emp_designation2,
+bBaseSalary,$3753.00
+bOverttime,$524.00
+bBonus,$406.00
+bCommission,$23.00
+bDevident,$0.00
+bRentalIncome,$220.00
+bOtherIncome1,$0.00
+bOtherIncome2,$0.00
+bTotalIncome,$4926.00
+cbBaseSalary,$1182.00
+cbOverttime,$441.00
+cbBonus,$261.00
+cbCommission,$115.00
+cbDevident,$0.00
+cbRentalIncome,$407.00
+cbOtherIncome1,$268.00
+cbOtherIncome2,$0.00
+cbTotalIncome,$2674.00
+cbtBaseSalary,$4935.00
+cbtOverttime,$441524.00
+cbtBonus,$261406.00
+cbtCommission,$11523.00
+cbtDevident,$0.00
+cbtRentalIncome,$407220.00
+cbtOtherIncome1,$2680.00
+cbtOtherIncome2,$0.00
+cbtTotalIncome,$26744926.00
+psntRent,$984.00
+psntFirstLoan,$75311.00
+psntOtherFinance,$679.00
+psntHzIns,$0.00
+psntTaxes,$0.00
+psntMoIns,$0.00
+pnstOwnerDues,$0.00
+pnstOther,$0.00
+psntTotalExp,$75990.00
+propFirstLoan,$75311.00
+propOtherFinance,$742.00
+propHzIns,$0.00
+propTaxes,$0.00
+propMoIns,$0.00
+propOwnerDues,$0.00
+propOther,$0.00
+propTotalExp,$76053.00
+assetsComputes,Not Jointly
+depPurchHeldBy,GREG MENDEZ
+depAmount,$11296.65
+depBankName,SEBASTICOOK VALLEY FCU
+depBankAdd,"14 SEBASTICOOK STREET, PITTSFIELD, ME"
+depBankAcc,10781434081660
+depBankBal,$15815.31
+LInsCashValue,$0.00
+LInsFaceValue,$0.00
+subTotLiqValue,$10543.54
+realEstateOwnedValue,$0.00
+retirementFundInterest,$0.00
+netWorthBizOwned,$0.00
+auto_make_year01,
+auto_amount01,
+auto_make_year02,
+auto_amount02,
+auto_make_year03,
+auto_amount03,
+preLoanBankName,
+preLoanBankAdd,NA
+preLoanBankAcctNumber,NA
+preLoanEMIperMonth,$0.00
+preLoanUnpaidBalance,$0.00
+childSupportExpOwnedTo,
+childSupportExpOwnedValue,$0.00
+pre_loan_bank_name_01,ladish community cu
+pre_loan_bank_add_01,"5570 SOUTH PACKARD AVENUE, CUDAHY, WI"
+pre_loan_bank_acNo_01,62131075417452
+pre_loan_bank_EMI_01,"$10,543.54"
+pre_loan_bank_balance_01,"$13,555.98"
+pre_loan_bank_name_02,Northland Educators Fcu
+pre_loan_bank_add_02,"1404 12th avenue north, fargo, nd"
+pre_loan_bank_acNo_02,14237140453521
+pre_loan_bank_EMI_02,"$9,790.43"
+pre_loan_bank_balance_02,"$16,568.42"
+pre_loan_bank_name_03,down east cu
+pre_loan_bank_add_03,"po box 130, baileyville, me"
+pre_loan_bank_acNo_03,77557020762361
+pre_loan_bank_EMI_03,"$9,790.43"
+pre_loan_bank_balance_03,"$15,062.20"
+jobExpensesTo,na
+jobExpensesValue,$0.00
+totMonthlyPayment,$0.00
+totMonthlyLiability,$0.00
+netWorthMonthlyValue,$0.00
+purchasePrice,$75311.00
+repairCost,$1272.00
+landCost,$0.00
+refinanceCost,$0.00
+prepaidItemsCost,$0.00
+estimateClosingCost,$0.00
+fundingFee,$0.00
+disocuntValue,$0.00
+totalTxnCost,$76583.00
+subOrdFinance,$0.00
+closingCostBySeller,$0.00
+otherCredit,$0.00
+loanAmountEx,$75311.00
+loanAmountFundingFee,$0.00
+totalLoanAmount,$75311.00
+cashDepByBorrower,$1272.00
+isOutstandingCourtCaseB,No
+isBankcruptB,No
+isForeclosedPropertyB,No
+isLawsuitB,
+isFailedLoanB,No
+isDeliquentB,No
+isObligatedToPayB,No
+isDownpaymentBorrowedB,No
+isCoWorkerB,No
+isUSCitizenB,Yes
+isPermanentAlienB,No
+isOutstandingCourtCaseCB,No
+isBankcruptCB,No
+isForeclosedPropertyCB,No
+isLawsuitCB,No
+isFailedLoanCB,No
+isDeliquentCB,No
+isObligatedToPayCB,
+isDownpaymentBorrowedCB,
+isCoWorkerCB,No
+isUSCitizenCB,Yes
+isPermanentAlienCB,
+isNewPropPermanentB,No
+ typeOfProp,principal residence
+holdingTitleToHome,jointly with your spouse
+signingDateB,06-MAR-2017
+signingDateCB,06-MAR-2017
+bAccept,Yes
+bEthnicity,Not Hispanic or Latino
+bRace,White
+bSex,Male
+cbAccept,Yes
+cbEthnicity,Not Hispanic or Latino
+cbRace,White
+cbSex,Male
+informationCollectedBy,"FACE-TO-FACE INTERVIEW, TELEPHONE"
+loanOriginatorName,Mine Safety & Health
+loanOriginatorID,NVm7ijPf
+loanOriginatorCName,mine safety & health
+loanOriginatorCID,3045472002
+loanOriginatorAddress,"Approval Certification Ctr, 765 Technology Drive, Triadelphia, Wv"

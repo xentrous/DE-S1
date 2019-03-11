@@ -1,0 +1,239 @@
+loanAppliedFor,VA
+agencyCaseNumebr,lwzMdvk37EdihJ
+LenderCaseNumber,KPAG -2151365827
+Amount,$71008.00
+Interest,7.65%
+Tenure,54 months
+AmortType,GPM
+PropAddress,"5130 Vivian Ct , Richmond, Va, 23224"
+PropUnits,1
+PropDescription,Suite
+YearBuilt,1999
+purposeOfLoan,Purchase
+propFor,Investment
+construcYrLotReq,0 year(s)
+construcOrigCost,$59248.00
+construcExisLienAmount,$0.00
+construcPresentValue,$0.00
+construcImpCost,$0.00
+totalAB,$0.00
+refinanYrLotReq,0 year(s)
+refinanOrigCost,$5900.00
+refinanExisLienAmount,$0.00
+refinanPurpose,$0.00
+refinanImproveDescription,made
+refinanCost,$5900.00
+HeldName,ANEKA JOHNSON
+Manner,Ownership
+SourceOfDownPay,Personal Saving Account
+EstateToHeld,Fee Simple
+expDate,16 -OCT -2061
+borrowerName,sarah m hayes
+bSecurityNumber,617272505
+bPhone,7367163624
+bDOB,26-APR-1980
+bYrsSchool,1980
+bMaritalStatus,Unmarried
+bDpendents,4
+bResType,Rent
+bPresentAddress,"west 904 riverside ave , spokane, wa, 99201"
+bResSince,1 year(s)
+bMailAddress,"West 904 Riverside Ave , Spokane, Wa, 99201"
+lt2y_b_res_type,Own
+lt2y_b_res_since,1
+lt2y_b_last_add,"1608 MT VIEW RD , RAPID CITY, SD, 57702"
+cborrowerName,david w munsey
+cbSecurityNumber,846104882
+cbPhone,0448178462
+cbDOB,13 -OCT -1978
+cbYrsSchool,1980
+cbMaritalStatus,Unmarried
+cbDpendents,0
+cbResType,Rent
+cbPresentAddress,"425 JORDAN RD , TROY, NY, 12180"
+cbResSince,8 year(s)
+cbMailAddress,"WEST 904 RIVERSIDE AVE , SPOKANE, WA, 99201"
+lt2y_cb_res_type,
+lt2y_cb_res_since,
+lt2y_cb_last_add,
+bEmpName,DOL BLS
+bEmpAddress,"2 massachusetts ave ne, rm 2930, washington, dc"
+bIsSelfEmp,no
+bYrsInCJob,5
+bYrsInJob,8
+bDesignation,Technician
+borrower_Emp_Type,Temperory
+lt2y_b_emp_name1,
+lt2y_b_emp_isSelf1,
+lt2y_b_emp_duration1,
+lt2y_b_emp_salary1,
+lt2y_b_emp_designation1,
+lt2y_b_emp_name2,
+lt2y_b_emp_isSelf2,
+lt2y_b_emp_duration2,
+lt2y_b_emp_salary2,
+lt2y_b_emp_designation2,
+cbEmpName,Off Of Reg Admin Wh
+cbEmpAddress,"1701 e lamer blvd, ste 270, arlington, tx"
+cbIsSelfEmp,No
+cbYrsInCJob,2
+cbYrsInJob,9
+cbDesignation,Worker
+co-borrower_emp_type,Temperory
+lt2y_cb_emp_name1,
+lt2y_cb_emp_isSelf1,
+lt2y_cb_emp_duration1,
+lt2y_cb_emp_salary1,
+lt2y_cb_emp_designation1,
+lt2y_cb_emp_name2,
+lt2y_cb_emp_isSelf2,
+lt2y_cb_emp_duration2,
+lt2y_cb_emp_salary2,
+lt2y_cb_emp_designation2,
+bBaseSalary,$3018.00
+bOverttime,$201.00
+bBonus,$646.00
+bCommission,$24.00
+bDevident,$0.00
+bRentalIncome,$0.00
+bOtherIncome1,$0.00
+bOtherIncome2,$0.00
+bTotalIncome,$3889.00
+cbBaseSalary,$4857.00
+cbOverttime,$367.00
+cbBonus,$650.00
+cbCommission,$127.00
+cbDevident,$0.00
+cbRentalIncome,$496.00
+cbOtherIncome1,$120.00
+cbOtherIncome2,$0.00
+cbTotalIncome,$6617.00
+cbtBaseSalary,$7875.00
+cbtOverttime,$367201.00
+cbtBonus,$650646.00
+cbtCommission,$12724.00
+cbtDevident,$0.00
+cbtRentalIncome,$4960.00
+cbtOtherIncome1,$1200.00
+cbtOtherIncome2,$0.00
+cbtTotalIncome,$66173889.00
+psntRent,$1794.00
+psntFirstLoan,$71008.00
+psntOtherFinance,$0.00
+psntHzIns,$0.00
+psntTaxes,$0.00
+psntMoIns,$0.00
+pnstOwnerDues,$0.00
+pnstOther,$0.00
+psntTotalExp,$71008.00
+propFirstLoan,$71008.00
+propOtherFinance,$577.00
+propHzIns,$0.00
+propTaxes,$0.00
+propMoIns,$0.00
+propOwnerDues,$0.00
+propOther,$0.00
+propTotalExp,$71585.00
+assetsComputes,Not Jointly
+depPurchHeldBy,SARAH M HAYES
+depAmount,$7810.88
+depBankName,n f g #2 fcu
+depBankAdd,"1303 pennsylvania ave, warren, pa"
+depBankAcc,20421568044841
+depBankBal,$12071.36
+LInsCashValue,$0.00
+LInsFaceValue,$0.00
+subTotLiqValue,$8520.96
+realEstateOwnedValue,$0.00
+retirementFundInterest,$0.00
+netWorthBizOwned,$0.00
+auto_make_year01,
+auto_amount01,
+auto_make_year02,
+auto_amount02,
+auto_make_year03,
+auto_amount03,
+preLoanBankName,Na
+preLoanBankAdd,NA
+preLoanBankAcctNumber,NA
+preLoanEMIperMonth,$0.00
+preLoanUnpaidBalance,$0.00
+childSupportExpOwnedTo,na
+childSupportExpOwnedValue,$0.00
+pre_loan_bank_name_01,Arkansas Rural Endowment Fund Inc
+pre_loan_bank_add_01,"1306 WEST 4TH PO BOX 750, LITTLE ROCK, AR"
+pre_loan_bank_acNo_01,28301834103871
+pre_loan_bank_EMI_01,"$9,231.04"
+pre_loan_bank_balance_01,"$15,621.76"
+pre_loan_bank_name_02,G I C Federal Credit Union
+pre_loan_bank_add_02,"26155 euclid avenue, euclid, oh"
+pre_loan_bank_acNo_02,63556051325810
+pre_loan_bank_EMI_02,"$8,520.96"
+pre_loan_bank_balance_02,"$14,201.60"
+pre_loan_bank_name_03,dubuqu? bank & trust company
+pre_loan_bank_add_03,"1398 Central Avenue Box 778, Dubuque, Ia"
+pre_loan_bank_acNo_03,05281615061371
+pre_loan_bank_EMI_03,"$7,100.80"
+pre_loan_bank_balance_03,"$12,781.44"
+jobExpensesTo,
+jobExpensesValue,$0.00
+totMonthlyPayment,$0.00
+totMonthlyLiability,$0.00
+netWorthMonthlyValue,$0.00
+purchasePrice,$71008.00
+repairCost,$0.00
+landCost,$0.00
+refinanceCost,$0.00
+prepaidItemsCost,$0.00
+estimateClosingCost,$0.00
+fundingFee,$0.00
+disocuntValue,$0.00
+totalTxnCost,$71008.00
+subOrdFinance,$0.00
+closingCostBySeller,$0.00
+otherCredit,$0.00
+loanAmountEx,$71008.00
+loanAmountFundingFee,$0.00
+totalLoanAmount,$71008.00
+cashDepByBorrower,$0.00
+isOutstandingCourtCaseB,
+isBankcruptB,No
+isForeclosedPropertyB,No
+isLawsuitB,
+isFailedLoanB,No
+isDeliquentB,No
+isObligatedToPayB,No
+isDownpaymentBorrowedB,
+isCoWorkerB,No
+isUSCitizenB,Yes
+isPermanentAlienB,No
+isOutstandingCourtCaseCB,
+isBankcruptCB,No
+isForeclosedPropertyCB,
+isLawsuitCB,
+isFailedLoanCB,No
+isDeliquentCB,
+isObligatedToPayCB,
+isDownpaymentBorrowedCB,No
+isCoWorkerCB,No
+isUSCitizenCB,Yes
+isPermanentAlienCB,No
+isNewPropPermanentB,
+ typeOfProp,investment property
+holdingTitleToHome,jointly with another person
+signingDateB,26-FEB-2017
+signingDateCB,26-FEB-2017
+bAccept,Yes
+bEthnicity,Not Hispanic or Latino
+bRace,White
+bSex,Male
+cbAccept,Yes
+cbEthnicity,Not Hispanic or Latino
+cbRace,White
+cbSex,Male
+informationCollectedBy,"FACE-TO-FACE INTERVIEW, TELEPHONE"
+loanOriginatorName,us dept of labor wh
+loanOriginatorID,OieAIWb5
+loanOriginatorCName,Us Dept Of Labor Wh
+loanOriginatorCID,6269660478
+loanOriginatorAddress,"100 N Barranca Ave, Suite 850, West Covina, Ca"
