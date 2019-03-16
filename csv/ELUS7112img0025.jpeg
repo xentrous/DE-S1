@@ -1,239 +1,247 @@
 loanAppliedFor,VA
-agencyCaseNumebr,45YrzDEzs2h6z8
-LenderCaseNumber,FGEI -7628432603
-Amount,$16400.00
-Interest,9.17%
-Tenure,36 months
-AmortType,GPM
-PropAddress,"Po Box 52 , Pounding Mill, Va, 24637"
-PropUnits,1
-PropDescription,Residence House
-YearBuilt,1965
-purposeOfLoan,Refinance
-propFor,Seconday
-construcYrLotReq,0 year(s)
-construcOrigCost,$59248.00
-construcExisLienAmount,$0.00
-construcPresentValue,$0.00
-construcImpCost,$0.00
-totalAB,$0.00
-refinanYrLotReq,4 year(s)
-refinanOrigCost,$16400.00
-refinanExisLienAmount,$0.00
-refinanPurpose,$0.00
-refinanImproveDescription,to be made
-refinanCost,$16400.00
-HeldName,emily oquinn
-Manner,Ownership
-SourceOfDownPay,Personal Saving Account
-EstateToHeld,Leasehold
-expDate,05 -DEC -2061
-borrowerName,WANDA L CHURCH
-bSecurityNumber,664173662
-bPhone,0606562241
-bDOB,22-JAN-1993
-bYrsSchool,1993
-bMaritalStatus,Married
-bDpendents,3
-bResType,Rent
-bPresentAddress,"425 jordan rd , troy, ny, 12180"
-bResSince,2 year(s)
-bMailAddress,"425 Jordan Rd , Troy, Ny, 12180"
-lt2y_b_res_type,Rent
-lt2y_b_res_since,0
-lt2y_b_last_add,"Box 25046 Dfc Ms 303 , Denver, Co, 80225"
-cborrowerName,JESSE ARMS
-cbSecurityNumber,153404802
-cbPhone,6744634672
-cbDOB,25-APR-1980
-cbYrsSchool,1993
-cbMaritalStatus,Married
-cbDpendents,3
-cbResType,Own
-cbPresentAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
-cbResSince,3 year(s)
-cbMailAddress,"425 JORDAN RD , TROY, NY, 12180"
-lt2y_cb_res_type,
-lt2y_cb_res_since,
-lt2y_cb_last_add,
-bEmpName,us dol -vets
-bEmpAddress,"2699 park ave, ste 240 room a04, huntington, wv"
-bIsSelfEmp,no
-bYrsInCJob,4
-bYrsInJob,5
-bDesignation,Cleaner
-borrower_Emp_Type,Temperory
-lt2y_b_emp_name1,
-lt2y_b_emp_isSelf1,
-lt2y_b_emp_duration1,
-lt2y_b_emp_salary1,
-lt2y_b_emp_designation1,
-lt2y_b_emp_name2,
-lt2y_b_emp_isSelf2,
-lt2y_b_emp_duration2,
-lt2y_b_emp_salary2,
-lt2y_b_emp_designation2,
-cbEmpName,us dol osha
-cbEmpAddress,"1600 167TH ST, STE 9, CALUMET CITY, IL"
-cbIsSelfEmp,no
-cbYrsInCJob,5
-cbYrsInJob,5
-cbDesignation,Sr Accountant
-co-borrower_emp_type,Temperory
-lt2y_cb_emp_name1,
-lt2y_cb_emp_isSelf1,
-lt2y_cb_emp_duration1,
-lt2y_cb_emp_salary1,
-lt2y_cb_emp_designation1,
-lt2y_cb_emp_name2,
-lt2y_cb_emp_isSelf2,
-lt2y_cb_emp_duration2,
-lt2y_cb_emp_salary2,
-lt2y_cb_emp_designation2,
-bBaseSalary,$1798.00
-bOverttime,$526.00
-bBonus,$563.00
-bCommission,$122.00
-bDevident,$0.00
-bRentalIncome,$0.00
-bOtherIncome1,$0.00
-bOtherIncome2,$0.00
-bTotalIncome,$3009.00
-cbBaseSalary,$5972.00
-cbOverttime,$328.00
-cbBonus,$233.00
-cbCommission,$104.00
-cbDevident,$0.00
-cbRentalIncome,$0.00
-cbOtherIncome1,$274.00
-cbOtherIncome2,$0.00
-cbTotalIncome,$6911.00
-cbtBaseSalary,$7770.00
-cbtOverttime,$328526.00
-cbtBonus,$233563.00
-cbtCommission,$104122.00
-cbtDevident,$0.00
-cbtRentalIncome,$0.00
-cbtOtherIncome1,$2740.00
-cbtOtherIncome2,$0.00
-cbtTotalIncome,$69113009.00
-psntRent,$1501.00
-psntFirstLoan,$16400.00
-psntOtherFinance,$516.00
-psntHzIns,$0.00
-psntTaxes,$0.00
-psntMoIns,$0.00
-pnstOwnerDues,$0.00
-pnstOther,$0.00
-psntTotalExp,$16916.00
-propFirstLoan,$16400.00
-propOtherFinance,$0.00
-propHzIns,$0.00
-propTaxes,$0.00
-propMoIns,$0.00
-propOwnerDues,$0.00
-propOther,$0.00
-propTotalExp,$16400.00
-assetsComputes,Jointly
-depPurchHeldBy,WANDA L CHURCH
-depAmount,$2132.00
-depBankName,FIRST NATIONAL BANK OF BROWNFIELD
-depBankAdd,"301 West Main P 0 Box 1067, Brownfield, Tx"
-depBankAcc,05683026533022
-depBankBal,$2952.00
-LInsCashValue,$0.00
-LInsFaceValue,$0.00
-subTotLiqValue,$2296.00
-realEstateOwnedValue,$0.00
-retirementFundInterest,$0.00
-netWorthBizOwned,$0.00
-auto_make_year01,
-auto_amount01,
-auto_make_year02,
-auto_amount02,
-auto_make_year03,
-auto_amount03,
-preLoanBankName,
-preLoanBankAdd,
-preLoanBankAcctNumber,
-preLoanEMIperMonth,$0.00
+cbDesignation,"Sr Accountant, Temperory"
 preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,45YrzDEzs2h6z8
+co-borrower_emp_type,Temperory
 childSupportExpOwnedTo,na
+LenderCaseNumber,FGEI -7628432603
+lt2y_cb_emp_name1,
 childSupportExpOwnedValue,$0.00
+Amount,$16400.00
+lt2y_cb_emp_isSelf1,
 pre_loan_bank_name_01,benton state bank
+Interest,9.17%
+lt2y_cb_emp_duration1,
 pre_loan_bank_add_01,"42 WEST MAIN STREET, BENTON, WI"
+Tenure,36 months
+lt2y_cb_emp_salary1,
 pre_loan_bank_acNo_01,42464556235331
+AmortType,GPM
+lt2y_cb_emp_designation1,
 pre_loan_bank_EMI_01,"$1,804.00"
+PropAddress,"Po Box 52 , Pounding Mill, Va, 24637"
+lt2y_cb_emp_name2,
 pre_loan_bank_balance_01,"$3,444.00"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
 pre_loan_bank_name_02,FIRST FINANCIAL BANK
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
 pre_loan_bank_add_02,"Isu Banking Center, Terre Haute, In"
+YearBuilt,1965
+lt2y_cb_emp_salary2,
 pre_loan_bank_acNo_02,80364658564447
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
 pre_loan_bank_EMI_02,"$1,640.00"
+propFor,Seconday
+bBaseSalary,$1798.00
 pre_loan_bank_balance_02,"$3,116.00"
+construcYrLotReq,0 year(s)
+bOverttime,$526.00
 pre_loan_bank_name_03,MAINE EDUCATION CREDIT UNION
+construcOrigCost,$59248.00
+bBonus,$563.00
 pre_loan_bank_add_03,"35 community dr, augusta, me"
+construcExisLienAmount,$0.00
+bCommission,$122.00
 pre_loan_bank_acNo_03,08863565617714
+construcPresentValue,$0.00
+bDevident,$0.00
 pre_loan_bank_EMI_03,"$2,296.00"
+construcImpCost,$0.00
+bRentalIncome,$0.00
 pre_loan_bank_balance_03,"$3,608.00"
+totalAB,$0.00
+bOtherIncome1,$0.00
 jobExpensesTo,na
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
 jobExpensesValue,$0.00
+refinanOrigCost,$16400.00
+bTotalIncome,$3009.00
 totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5972.00
 totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$328.00
 netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$233.00
 purchasePrice,$16400.00
+refinanCost,$16400.00
+cbCommission,$104.00
 repairCost,$0.00
+HeldName,emily oquinn
+cbDevident,$0.00
 landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
 refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$274.00
 prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
 estimateClosingCost,$0.00
+expDate,05 -DEC -2061
+cbTotalIncome,$6911.00
 fundingFee,$0.00
+borrowerName,WANDA L CHURCH
+cbtBaseSalary,$7770.00
 disocuntValue,$0.00
+bSecurityNumber,664173662
+cbtOverttime,$328526.00
 totalTxnCost,$16400.00
+bPhone,0606562241
+cbtBonus,$233563.00
 subOrdFinance,$0.00
+bDOB,22-JAN-1993
+cbtCommission,$104122.00
 closingCostBySeller,$0.00
+bYrsSchool,1993
+cbtDevident,$0.00
 otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
 loanAmountEx,$16400.00
+bDpendents,3
+cbtOtherIncome1,$2740.00
 loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
 totalLoanAmount,$16400.00
+bPresentAddress,"425 jordan rd , troy, ny, 12180"
+cbtTotalIncome,$69113009.00
 cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1501.00
 isOutstandingCourtCaseB,No
+bMailAddress,"425 Jordan Rd , Troy, Ny, 12180"
+psntFirstLoan,$16400.00
 isBankcruptB,
+lt2y_b_res_type,Rent
+psntOtherFinance,$516.00
 isForeclosedPropertyB,No
+lt2y_b_res_since,0
+psntHzIns,$0.00
 isLawsuitB,No
+lt2y_b_last_add,"Box 25046 Dfc Ms 303 , Denver, Co, 80225"
+psntTaxes,$0.00
 isFailedLoanB,
+cborrowerName,JESSE ARMS
+psntMoIns,$0.00
 isDeliquentB,No
+cbSecurityNumber,153404802
+pnstOwnerDues,$0.00
 isObligatedToPayB,No
+cbPhone,6744634672
+pnstOther,$0.00
 isDownpaymentBorrowedB,
+cbDOB,25-APR-1980
+psntTotalExp,$16916.00
 isCoWorkerB,No
+cbYrsSchool,1993
+propFirstLoan,$16400.00
 isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
 isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
 isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
 isBankcruptCB,
+cbPresentAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
+propMoIns,$0.00
 isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
 isLawsuitCB,No
+cbMailAddress,"425 JORDAN RD , TROY, NY, 12180"
+propOther,$0.00
 isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$16400.00
 isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
 isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,WANDA L CHURCH
 isDownpaymentBorrowedCB,No
+bEmpName,us dol -vets
+depAmount,$2132.00
 isCoWorkerCB,No
+bEmpAddress,"2699 park ave, ste 240 room a04, huntington, wv"
+depBankName,FIRST NATIONAL BANK OF BROWNFIELD
 isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"301 West Main P 0 Box 1067, Brownfield, Tx"
 isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,05683026533022
 isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$2952.00
  typeOfProp,investment property
+bDesignation,"Cleaner, Temperory"
+LInsCashValue,$0.00
 holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
 signingDateB,22-FEB-2017
+lt2y_b_emp_name1,
+subTotLiqValue,$2296.00
 signingDateCB,22-FEB-2017
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
 bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
 bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
 bRace,White
+lt2y_b_emp_designation1,GUARDCOÑTRACT
+auto_make_year01,
 bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
 cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
 cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
 cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
 cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
 informationCollectedBy,"Face-to-face Interview, Telephone"
+cbEmpName,us dol osha
+preLoanBankName,
 loanOriginatorName,DEPT OF LABOR MSHA
+cbEmpAddress,"1600 167TH ST, STE 9, CALUMET CITY, IL"
+preLoanBankAdd,
 loanOriginatorID,N3PgccHq
+cbIsSelfEmp,no
+preLoanBankAcctNumber,
 loanOriginatorCName,Dept Of Labor Msha
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
 loanOriginatorCID,3042256808
+cbYrsInJob,5
 loanOriginatorAddress,"604 CHEAT RD, WV"
+borrowerName_3,WANDA L CHURCH
+borrowerName_9,WANDA L CHURCH
+borrowerName_10,WANDA L CHURCH
+cborrowerName_3,JESSE ARMS
+cBorrowerName_9,JESSE ARMS
+cborrowerName_10,JESSE ARMS
+signingDateB_10,22-FEB-2017
+signingDateCB_10,22-FEB-2017

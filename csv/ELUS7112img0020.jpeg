@@ -1,239 +1,247 @@
 loanAppliedFor,VA
-agencyCaseNumebr,Me2ozmEeciEVgW
-LenderCaseNumber,KWWT-5301751526
-Amount,$54107.00
-Interest,10.44%
-Tenure,120 months
-AmortType,ARM
-PropAddress,"3160 N Wyman Rd , Edmore, Mi, 48829"
-PropUnits,1
-PropDescription,Commercial Property
-YearBuilt,1962
-purposeOfLoan,Purchase
-propFor,Investment
-construcYrLotReq,0 year(s)
-construcOrigCost,$59248.00
-construcExisLienAmount,$0.00
-construcPresentValue,$0.00
-construcImpCost,$0.00
-totalAB,$0.00
-refinanYrLotReq,0 year(s)
-refinanOrigCost,$11139.00
-refinanExisLienAmount,$0.00
-refinanPurpose,$0.00
-refinanImproveDescription,to be made
-refinanCost,$11139.00
-HeldName,DIANA PERKINS
-Manner,Ownership
-SourceOfDownPay,Personal Saving Account
-EstateToHeld,Fee Simple
-expDate,24-MAR-2072
-borrowerName,Kristin H Berry
-bSecurityNumber,084241300
-bPhone,6833800636
-bDOB,01-JUN-1984
-bYrsSchool,1984
-bMaritalStatus,Separated
-bDpendents,2
-bResType,Rent
-bPresentAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
-bResSince,2 year(s)
-bMailAddress,"modoc hall usgs ms 3006 3020 state univ dr east, sacramento, ca, 95819"
-lt2y_b_res_type,Own
-lt2y_b_res_since,1
-lt2y_b_last_add,"6006 Schroeder Rd , Madison, Wi, 53711"
-cborrowerName,samantha j murphy
-cbSecurityNumber,407771878
-cbPhone,8070128012
-cbDOB,23 -AUG -1981
-cbYrsSchool,1984
-cbMaritalStatus,Separated
-cbDpendents,2
-cbResType,Own
-cbPresentAddress,"1201 WEST UNIV AVENUE STE 100, URBANA, IL, 61801"
-cbResSince,3 year(s)
-cbMailAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
-lt2y_cb_res_type,
-lt2y_cb_res_since,
-lt2y_cb_last_add,
-bEmpName,MINE SAFETY & HEALTH
-bEmpAddress,"1400 INDEPENDENCE ROAD, SUITE 100, ROLLA, MO"
-bIsSelfEmp,no
-bYrsInCJob,2
-bYrsInJob,4
-bDesignation,Technician
-borrower_Emp_Type,Contract
-lt2y_b_emp_name1,"MINE SAFETY & HEALTH; 1400 INDEPENDENCE ROAD, SUITE 100, ROLLA, MO"
-lt2y_b_emp_isSelf1,No
-lt2y_b_emp_duration1,NA
-lt2y_b_emp_salary1,"$2,978.83"
-lt2y_b_emp_designation1,Machinistcontract
-lt2y_b_emp_name2,
-lt2y_b_emp_isSelf2,
-lt2y_b_emp_duration2,
-lt2y_b_emp_salary2,
-lt2y_b_emp_designation2,
-cbEmpName,DOL OPA
-cbEmpAddress,"200 CONSTITUTION AVE NW, RM N6305, WASHINGTON, DC"
-cbIsSelfEmp,no
-cbYrsInCJob,1
-cbYrsInJob,5
-cbDesignation,Receptionist
-co-borrower_emp_type,Temperory
-lt2y_cb_emp_name1,"Vets; 1033 0 St, Box 128, Lincoln, Ne"
-lt2y_cb_emp_isSelf1,No
-lt2y_cb_emp_duration1,NA
-lt2y_cb_emp_salary1,"$2,175.43"
-lt2y_cb_emp_designation1,CENTRAL SUPERV1SoRCONTRACT
-lt2y_cb_emp_name2,
-lt2y_cb_emp_isSelf2,
-lt2y_cb_emp_duration2,
-lt2y_cb_emp_salary2,
-lt2y_cb_emp_designation2,
-bBaseSalary,$3258.00
-bOverttime,$570.00
-bBonus,$477.00
-bCommission,$125.00
-bDevident,$0.00
-bRentalIncome,$0.00
-bOtherIncome1,$0.00
-bOtherIncome2,$0.00
-bTotalIncome,$4430.00
-cbBaseSalary,$2056.00
-cbOverttime,$526.00
-cbBonus,$317.00
-cbCommission,$139.00
-cbDevident,$0.00
-cbRentalIncome,$0.00
-cbOtherIncome1,$159.00
-cbOtherIncome2,$0.00
-cbTotalIncome,$3197.00
-cbtBaseSalary,$5314.00
-cbtOverttime,$526570.00
-cbtBonus,$317477.00
-cbtCommission,$139125.00
-cbtDevident,$0.00
-cbtRentalIncome,$0.00
-cbtOtherIncome1,$1590.00
-cbtOtherIncome2,$0.00
-cbtTotalIncome,$31974430.00
-psntRent,$1127.00
-psntFirstLoan,$54107.00
-psntOtherFinance,$0.00
-psntHzIns,$0.00
-psntTaxes,$0.00
-psntMoIns,$0.00
-pnstOwnerDues,$0.00
-pnstOther,$0.00
-psntTotalExp,$54107.00
-propFirstLoan,$54107.00
-propOtherFinance,$698.00
-propHzIns,$0.00
-propTaxes,$0.00
-propMoIns,$0.00
-propOwnerDues,$0.00
-propOther,$0.00
-propTotalExp,$54805.00
-assetsComputes,Not Jointly
-depPurchHeldBy,KRISTIN H BERRY
-depAmount,$7574.98
-depBankName,Utah State Board Of Regents
-depBankAdd,"Board Of Regents Bldg, The Gateway, Salt Lake City, Ut"
-depBankAcc,56252588741141
-depBankBal,$10821.40
-LInsCashValue,$0.00
-LInsFaceValue,$0.00
-subTotLiqValue,$7033.91
-realEstateOwnedValue,$0.00
-retirementFundInterest,$0.00
-netWorthBizOwned,$0.00
-auto_make_year01,
-auto_amount01,
-auto_make_year02,
-auto_amount02,
-auto_make_year03,
-auto_amount03,
-preLoanBankName,na
-preLoanBankAdd,Na
-preLoanBankAcctNumber,
-preLoanEMIperMonth,$0.00
+cbDesignation,"Receptionist, Temperory"
 preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Me2ozmEeciEVgW
+co-borrower_emp_type,Temperory
 childSupportExpOwnedTo,na
+LenderCaseNumber,KWWT-5301751526
+lt2y_cb_emp_name1,"Vets; 1033 0 St, Box 128, Lincoln, Ne"
 childSupportExpOwnedValue,$0.00
+Amount,$54107.00
+lt2y_cb_emp_isSelf1,No
 pre_loan_bank_name_01,INDIANA WESLEYAN UNIVERSITY
+Interest,10.44%
+lt2y_cb_emp_duration1,NA
 pre_loan_bank_add_01,"4201 s. washington st., marion, in"
+Tenure,120 months
+lt2y_cb_emp_salary1,"$2,175.43"
 pre_loan_bank_acNo_01,53244863164812
+AmortType,ARM
+lt2y_cb_emp_designation1,CENTRAL SUPERV1SoRCONTRACT
 pre_loan_bank_EMI_01,"$8,116.05"
+PropAddress,"3160 N Wyman Rd , Edmore, Mi, 48829"
+lt2y_cb_emp_name2,
 pre_loan_bank_balance_01,"$10,280.33"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
 pre_loan_bank_name_02,Arkansas Superior Fcu
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
 pre_loan_bank_add_02,"313 South Martin, Warren, Ar"
+YearBuilt,1962
+lt2y_cb_emp_salary2,
 pre_loan_bank_acNo_02,74503207326508
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
 pre_loan_bank_EMI_02,"$8,116.05"
+propFor,Investment
+bBaseSalary,$3258.00
 pre_loan_bank_balance_02,"$11,362.47"
+construcYrLotReq,0 year(s)
+bOverttime,$570.00
 pre_loan_bank_name_03,Plains Commerce Bank
+construcOrigCost,$59248.00
+bBonus,$477.00
 pre_loan_bank_add_03,"po box 7, hoven, sd"
+construcExisLienAmount,$0.00
+bCommission,$125.00
 pre_loan_bank_acNo_03,80201057324372
+construcPresentValue,$0.00
+bDevident,$0.00
 pre_loan_bank_EMI_03,"$7,574.98"
+construcImpCost,$0.00
+bRentalIncome,$0.00
 pre_loan_bank_balance_03,"$10,821.40"
+totalAB,$0.00
+bOtherIncome1,$0.00
 jobExpensesTo,na
+refinanYrLotReq,0 year(s)
+bOtherIncome2,$0.00
 jobExpensesValue,$0.00
+refinanOrigCost,$11139.00
+bTotalIncome,$4430.00
 totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2056.00
 totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$526.00
 netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$317.00
 purchasePrice,$54107.00
+refinanCost,$11139.00
+cbCommission,$139.00
 repairCost,$0.00
+HeldName,DIANA PERKINS
+cbDevident,$0.00
 landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
 refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$159.00
 prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
 estimateClosingCost,$0.00
+expDate,24-MAR-2072
+cbTotalIncome,$3197.00
 fundingFee,$0.00
+borrowerName,Kristin H Berry
+cbtBaseSalary,$5314.00
 disocuntValue,$0.00
+bSecurityNumber,084241300
+cbtOverttime,$526570.00
 totalTxnCost,$54107.00
+bPhone,6833800636
+cbtBonus,$317477.00
 subOrdFinance,$0.00
+bDOB,01-JUN-1984
+cbtCommission,$139125.00
 closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
 otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
 loanAmountEx,$54107.00
+bDpendents,2
+cbtOtherIncome1,$1590.00
 loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
 totalLoanAmount,$54107.00
+bPresentAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+cbtTotalIncome,$31974430.00
 cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1127.00
 isOutstandingCourtCaseB,No
+bMailAddress,"modoc hall usgs ms 3006 3020 state univ dr east, sacramento, ca, 95819"
+psntFirstLoan,$54107.00
 isBankcruptB,
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
 isForeclosedPropertyB,No
+lt2y_b_res_since,1
+psntHzIns,$0.00
 isLawsuitB,No
+lt2y_b_last_add,"6006 Schroeder Rd , Madison, Wi, 53711"
+psntTaxes,$0.00
 isFailedLoanB,
+cborrowerName,samantha j murphy
+psntMoIns,$0.00
 isDeliquentB,No
+cbSecurityNumber,407771878
+pnstOwnerDues,$0.00
 isObligatedToPayB,No
+cbPhone,8070128012
+pnstOther,$0.00
 isDownpaymentBorrowedB,
+cbDOB,23 -AUG -1981
+psntTotalExp,$54107.00
 isCoWorkerB,No
+cbYrsSchool,1984
+propFirstLoan,$54107.00
 isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$698.00
 isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
 isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
 isBankcruptCB,No
+cbPresentAddress,"1201 WEST UNIV AVENUE STE 100, URBANA, IL, 61801"
+propMoIns,$0.00
 isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
 isLawsuitCB,No
+cbMailAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+propOther,$0.00
 isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$54805.00
 isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
 isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KRISTIN H BERRY
 isDownpaymentBorrowedCB,No
+bEmpName,MINE SAFETY & HEALTH
+depAmount,$7574.98
 isCoWorkerCB,No
+bEmpAddress,"1400 INDEPENDENCE ROAD, SUITE 100, ROLLA, MO"
+depBankName,Utah State Board Of Regents
 isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"Board Of Regents Bldg, The Gateway, Salt Lake City, Ut"
 isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,56252588741141
 isNewPropPermanentB,
+bYrsInJob,4
+depBankBal,$10821.40
  typeOfProp,second home
+bDesignation,"Technician, Contract"
+LInsCashValue,$0.00
 holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
 signingDateB,03-FEB-2017
+lt2y_b_emp_name1,"MINE SAFETY & HEALTH; 1400 INDEPENDENCE ROAD, SUITE 100, ROLLA, MO"
+subTotLiqValue,$7033.91
 signingDateCB,03-FEB-2017
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
 bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
 bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$2,978.83"
+netWorthBizOwned,$0.00
 bRace,White
+lt2y_b_emp_designation1,GUARDCOÑTRACT
+auto_make_year01,
 bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
 cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
 cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
 cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
 cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
 informationCollectedBy,"Face-to-face Interview, Telephone"
+cbEmpName,DOL OPA
+preLoanBankName,na
 loanOriginatorName,US DOL OFCCP
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM N6305, WASHINGTON, DC"
+preLoanBankAdd,Na
 loanOriginatorID,0358yUgm
+cbIsSelfEmp,no
+preLoanBankAcctNumber,
 loanOriginatorCName,us dol ofccp
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
 loanOriginatorCID,4048934561
+cbYrsInJob,5
 loanOriginatorAddress,"61 Forsyth St Sw, Ste 7875, Atlanta, Ga"
+borrowerName_3,Kristin H Berry
+borrowerName_9,Kristin H Berry
+borrowerName_10,Kristin H Berry
+cborrowerName_3,samantha j murphy
+cBorrowerName_9,samantha j murphy
+cborrowerName_10,samantha j murphy
+signingDateB_10,03-FEB-2017
+signingDateCB_10,03-FEB-2017

@@ -1,239 +1,247 @@
 loanAppliedFor,Conventional
-agencyCaseNumebr,cw3aklsOuex05b
-LenderCaseNumber,TWOZ -4463628547
-Amount,$7679.00
-Interest,9.78%
-Tenure,54 months
-AmortType,Other
-PropAddress,"234 HICKORY CIR , COPPERAS COVE, TX, 76522"
-PropUnits,1
-PropDescription,Commercial Property
-YearBuilt,1999
-purposeOfLoan,Refinance
-propFor,Primary
-construcYrLotReq,3 year(s)
-construcOrigCost,$43091.00
-construcExisLienAmount,$0.00
-construcPresentValue,$0.00
-construcImpCost,$0.00
-totalAB,$0.00
-refinanYrLotReq,2 year(s)
-refinanOrigCost,$7679.00
-refinanExisLienAmount,$0.00
-refinanPurpose,$0.00
-refinanImproveDescription,made
-refinanCost,$7679.00
-HeldName,COREY THACKWRAY
-Manner,Ownership
-SourceOfDownPay,Personal Saving Account
-EstateToHeld,Fee Simple
-expDate,09 -DEC -2061
-borrowerName,s c skrobialowski jr
-bSecurityNumber,435833032
-bPhone,5024465737
-bDOB,01-SEP-1985
-bYrsSchool,1985
-bMaritalStatus,Unmarried
-bDpendents,4
-bResType,Rent
-bPresentAddress,"412 Natl Ctr , Reston, Va, 20192"
-bResSince,11 year(s)
-bMailAddress,"412 NATL CTR , RESTON, VA, 20192"
-lt2y_b_res_type,
-lt2y_b_res_since,
-lt2y_b_last_add,
-cborrowerName,EBEN H PAXTON
-cbSecurityNumber,081102855
-cbPhone,0717677031
-cbDOB,06 -OCT -1982
-cbYrsSchool,1985
-cbMaritalStatus,Married
-cbDpendents,1
-cbResType,Rent
-cbPresentAddress,"677 Ala Moana Blvd Ste 615, Honolulu, Hi, 96813"
-cbResSince,6 year(s)
-cbMailAddress,"412 natl ctr , reston, va, 20192"
-lt2y_cb_res_type,
-lt2y_cb_res_since,
-lt2y_cb_last_add,
-bEmpName,osha dallas area
-bEmpAddress,"8344 E RL THORNTON FRWY, STE 420, DALLAS, TX"
-bIsSelfEmp,No
-bYrsInCJob,3
-bYrsInJob,6
-bDesignation,Office Assistant
-borrower_Emp_Type,Contract
-lt2y_b_emp_name1,
-lt2y_b_emp_isSelf1,
-lt2y_b_emp_duration1,
-lt2y_b_emp_salary1,
-lt2y_b_emp_designation1,
-lt2y_b_emp_name2,
-lt2y_b_emp_isSelf2,
-lt2y_b_emp_duration2,
-lt2y_b_emp_salary2,
-lt2y_b_emp_designation2,
-cbEmpName,Mine Safety & Health
-cbEmpAddress,"approval certification ctr, 765 technology drive, triadelphia, wv"
-cbIsSelfEmp,No
-cbYrsInCJob,5
-cbYrsInJob,6
-cbDesignation,Payroll Specialist
-co-borrower_emp_type,Permanent
-lt2y_cb_emp_name1,
-lt2y_cb_emp_isSelf1,
-lt2y_cb_emp_duration1,
-lt2y_cb_emp_salary1,
-lt2y_cb_emp_designation1,
-lt2y_cb_emp_name2,
-lt2y_cb_emp_isSelf2,
-lt2y_cb_emp_duration2,
-lt2y_cb_emp_salary2,
-lt2y_cb_emp_designation2,
-bBaseSalary,$2661.00
-bOverttime,$504.00
-bBonus,$635.00
-bCommission,$101.00
-bDevident,$0.00
-bRentalIncome,$470.00
-bOtherIncome1,$207.00
-bOtherIncome2,$0.00
-bTotalIncome,$4578.00
-cbBaseSalary,$2782.00
-cbOverttime,$101.00
-cbBonus,$603.00
-cbCommission,$133.00
-cbDevident,$0.00
-cbRentalIncome,$0.00
-cbOtherIncome1,$0.00
-cbOtherIncome2,$0.00
-cbTotalIncome,$3619.00
-cbtBaseSalary,$5443.00
-cbtOverttime,$101504.00
-cbtBonus,$603635.00
-cbtCommission,$133101.00
-cbtDevident,$0.00
-cbtRentalIncome,$470.00
-cbtOtherIncome1,$207.00
-cbtOtherIncome2,$0.00
-cbtTotalIncome,$36194578.00
-psntRent,$1151.00
-psntFirstLoan,$7679.00
-psntOtherFinance,$0.00
-psntHzIns,$0.00
-psntTaxes,$0.00
-psntMoIns,$0.00
-pnstOwnerDues,$0.00
-pnstOther,$0.00
-psntTotalExp,$7679.00
-propFirstLoan,$7679.00
-propOtherFinance,$0.00
-propHzIns,$0.00
-propTaxes,$0.00
-propMoIns,$0.00
-propOwnerDues,$0.00
-propOther,$0.00
-propTotalExp,$7679.00
-assetsComputes,Jointly
-depPurchHeldBy,S C SKROBIALOWSKI JR
-depAmount,$767.90
-depBankName,connects federal credit union
-depBankAdd,"7700 Schroeder Rd, Richmond, Va"
-depBankAcc,14403506231501
-depBankBal,$1382.22
-LInsCashValue,$0.00
-LInsFaceValue,$0.00
-subTotLiqValue,$998.27
-realEstateOwnedValue,$0.00
-retirementFundInterest,$0.00
-netWorthBizOwned,$0.00
-auto_make_year01,
-auto_amount01,
-auto_make_year02,
-auto_amount02,
-auto_make_year03,
-auto_amount03,
-preLoanBankName,NA
-preLoanBankAdd,Na
-preLoanBankAcctNumber,
-preLoanEMIperMonth,$0.00
+cbDesignation,"Payroll Specialist, Permanent"
 preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,cw3aklsOuex05b
+co-borrower_emp_type,Permanent
 childSupportExpOwnedTo,
+LenderCaseNumber,TWOZ -4463628547
+lt2y_cb_emp_name1,
 childSupportExpOwnedValue,$0.00
+Amount,$7679.00
+lt2y_cb_emp_isSelf1,
 pre_loan_bank_name_01,Pnc Education Loan Ctr
+Interest,9.78%
+lt2y_cb_emp_duration1,
 pre_loan_bank_add_01,"2600 Liberty P4-plcb-02-1 Ste 200, Pittsburgh, Pa"
+Tenure,54 months
+lt2y_cb_emp_salary1,
 pre_loan_bank_acNo_01,58133047771541
+AmortType,Other
+lt2y_cb_emp_designation1,
 pre_loan_bank_EMI_01,$921.48
+PropAddress,"234 HICKORY CIR , COPPERAS COVE, TX, 76522"
+lt2y_cb_emp_name2,
 pre_loan_bank_balance_01,"$1,382.22"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
 pre_loan_bank_name_02,DEXSTA FEDERAL CREDIT UNION
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
 pre_loan_bank_add_02,"300 FOULK RD STE 100, WILMINGTON, DE"
+YearBuilt,1999
+lt2y_cb_emp_salary2,
 pre_loan_bank_acNo_02,77161236186300
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
 pre_loan_bank_EMI_02,$844.69
+propFor,Primary
+bBaseSalary,$2661.00
 pre_loan_bank_balance_02,"$1,612.59"
+construcYrLotReq,3 year(s)
+bOverttime,$504.00
 pre_loan_bank_name_03,STATE DEPARTMENT FCer
+construcOrigCost,$43091.00
+bBonus,$635.00
 pre_loan_bank_add_03,"1630 KING STREET, ALEXANDRIA, VA"
+construcExisLienAmount,$0.00
+bCommission,$101.00
 pre_loan_bank_acNo_03,45546041073086
+construcPresentValue,$0.00
+bDevident,$0.00
 pre_loan_bank_EMI_03,$844.69
+construcImpCost,$0.00
+bRentalIncome,$470.00
 pre_loan_bank_balance_03,"$1,459.01"
+totalAB,$0.00
+bOtherIncome1,$207.00
 jobExpensesTo,na
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
 jobExpensesValue,$0.00
+refinanOrigCost,$7679.00
+bTotalIncome,$4578.00
 totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2782.00
 totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$101.00
 netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$603.00
 purchasePrice,$7679.00
+refinanCost,$7679.00
+cbCommission,$133.00
 repairCost,$0.00
+HeldName,COREY THACKWRAY
+cbDevident,$0.00
 landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
 refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
 prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
 estimateClosingCost,$0.00
+expDate,09 -DEC -2061
+cbTotalIncome,$3619.00
 fundingFee,$0.00
+borrowerName,s c skrobialowski jr
+cbtBaseSalary,$5443.00
 disocuntValue,$0.00
+bSecurityNumber,435833032
+cbtOverttime,$101504.00
 totalTxnCost,$7679.00
+bPhone,5024465737
+cbtBonus,$603635.00
 subOrdFinance,$0.00
+bDOB,01-SEP-1985
+cbtCommission,$133101.00
 closingCostBySeller,$0.00
+bYrsSchool,1985
+cbtDevident,$0.00
 otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$470.00
 loanAmountEx,$7679.00
+bDpendents,4
+cbtOtherIncome1,$207.00
 loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
 totalLoanAmount,$7679.00
+bPresentAddress,"412 Natl Ctr , Reston, Va, 20192"
+cbtTotalIncome,$36194578.00
 cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1151.00
 isOutstandingCourtCaseB,No
+bMailAddress,"412 NATL CTR , RESTON, VA, 20192"
+psntFirstLoan,$7679.00
 isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
 isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
 isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
 isFailedLoanB,
+cborrowerName,EBEN H PAXTON
+psntMoIns,$0.00
 isDeliquentB,No
+cbSecurityNumber,081102855
+pnstOwnerDues,$0.00
 isObligatedToPayB,No
+cbPhone,0717677031
+pnstOther,$0.00
 isDownpaymentBorrowedB,No
+cbDOB,06 -OCT -1982
+psntTotalExp,$7679.00
 isCoWorkerB,
+cbYrsSchool,1985
+propFirstLoan,$7679.00
 isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
 isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
 isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
 isBankcruptCB,
+cbPresentAddress,"677 Ala Moana Blvd Ste 615, Honolulu, Hi, 96813"
+propMoIns,$0.00
 isForeclosedPropertyCB,
+cbResSince,6 year(s)
+propOwnerDues,$0.00
 isLawsuitCB,No
+cbMailAddress,"412 natl ctr , reston, va, 20192"
+propOther,$0.00
 isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$7679.00
 isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
 isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,S C SKROBIALOWSKI JR
 isDownpaymentBorrowedCB,No
+bEmpName,osha dallas area
+depAmount,$767.90
 isCoWorkerCB,No
+bEmpAddress,"8344 E RL THORNTON FRWY, STE 420, DALLAS, TX"
+depBankName,connects federal credit union
 isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"7700 Schroeder Rd, Richmond, Va"
 isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,14403506231501
 isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$1382.22
  typeOfProp,investment property
+bDesignation,"Office Assistant, Contract"
+LInsCashValue,$0.00
 holdingTitleToHome,solely by yourself
-signingDateB,18 -APR -2017
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,18-APR-2017
+lt2y_b_emp_name1,
+subTotLiqValue,$998.27
 signingDateCB,18-APR-2017
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
 bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
 bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
 bRace,White
+lt2y_b_emp_designation1,GUARDCOÑTRACT
+auto_make_year01,
 bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
 cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
 cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
 cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
 cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
 informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,Mine Safety & Health
+preLoanBankName,NA
 loanOriginatorName,us dept of labor msha
+cbEmpAddress,"approval certification ctr, 765 technology drive, triadelphia, wv"
+preLoanBankAdd,Na
 loanOriginatorID,R55CoxpT
+cbIsSelfEmp,No
+preLoanBankAcctNumber,
 loanOriginatorCName,Us Dept Of Labor Msha
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
 loanOriginatorCID,2026939609
+cbYrsInJob,6
 loanOriginatorAddress,"1100 WILSON BOULEVARD, ROOM 2444, ARLINGTON, VA"
+borrowerName_3,s c skrobialowski jr
+borrowerName_9,s c skrobialowski jr
+borrowerName_10,s c skrobialowski jr
+cborrowerName_3,EBEN H PAXTON
+cBorrowerName_9,EBEN H PAXTON
+cborrowerName_10,EBEN H PAXTON
+signingDateB_10,18-APR-2017
+signingDateCB_10,18-APR-2017

@@ -1,239 +1,247 @@
 loanAppliedFor,VA
-agencyCaseNumebr,53247n73eEevS8
-LenderCaseNumber,JTUF -7378377210
-Amount,$41001.00
-Interest,9.66%
-Tenure,120 months
-AmortType,Other
-PropAddress,"Po Box 2191 , Antioch, Ca, 94531"
-PropUnits,1
-PropDescription,Suite
-YearBuilt,1970
-purposeOfLoan,Construction
-propFor,Seconday
-construcYrLotReq,5 year(s)
-construcOrigCost,$41001.00
-construcExisLienAmount,$0.00
-construcPresentValue,$0.00
-construcImpCost,$0.00
-totalAB,$0.00
-refinanYrLotReq,1 year(s)
-refinanOrigCost,$17358.00
-refinanExisLienAmount,$0.00
-refinanPurpose,$0.00
-refinanImproveDescription,to be made
-refinanCost,$17358.00
-HeldName,chris martinez
-Manner,Ownership
-SourceOfDownPay,Personal Saving Account
-EstateToHeld,Fee Simple
-expDate,21-APR-2077
-borrowerName,KENNETH J SULAK
-bSecurityNumber,237177667
-bPhone,2483635380
-bDOB,25-MAR-1986
-bYrsSchool,1986
-bMaritalStatus,Married
-bDpendents,2
-bResType,Own
-bPresentAddress,"12703 research pkwy , orlando, fl, 32826"
-bResSince,4 year(s)
-bMailAddress,"12703 research pkwy , orlando, fl, 32826"
-lt2y_b_res_type,
-lt2y_b_res_since,
-lt2y_b_last_add,
-cborrowerName,Kimberly P Griffin
-cbSecurityNumber,143744434
-cbPhone,4566568826
-cbDOB,09-FEB-1988
-cbYrsSchool,1986
-cbMaritalStatus,Separated
-cbDpendents,0
-cbResType,Own
-cbPresentAddress,"521 national center , reston, va, 20192"
-cbResSince,11 year(s)
-cbMailAddress,"12703 Research Pkwy , Orlando, Fl, 32826"
-lt2y_cb_res_type,
-lt2y_cb_res_since,
-lt2y_cb_last_add,
-bEmpName,US DEPARTMENT OF LABOR OIPA
-bEmpAddress,"1111 THIRD AVE, SUITE 930, SEATTLE, WA"
-bIsSelfEmp,No
-bYrsInCJob,1
-bYrsInJob,6
-bDesignation,Cook
-borrower_Emp_Type,Contract
-lt2y_b_emp_name1,"DOL OASAM HRC; 200 CONSTITUTION AVE, ROOM C5522, WASHINGTON, DC"
-lt2y_b_emp_isSelf1,No
-lt2y_b_emp_duration1,NA
-lt2y_b_emp_salary1,$939.60
-lt2y_b_emp_designation1,GUARDCOATRACT
-lt2y_b_emp_name2,
-lt2y_b_emp_isSelf2,
-lt2y_b_emp_duration2,
-lt2y_b_emp_salary2,
-lt2y_b_emp_designation2,
-cbEmpName,Us Dept Labor/vets
-cbEmpAddress,"Po Box 94094, Rm 184, Baton Rouge, La"
-cbIsSelfEmp,no
-cbYrsInCJob,4
-cbYrsInJob,5
-cbDesignation,Exec Secretary
-co-borrower_emp_type,Temperory
-lt2y_cb_emp_name1,"USDEPT OF LABOR PWBA; 1335 EAST WEST HWY, NO 200, SILVER SPRING, MD"
-lt2y_cb_emp_isSelf1,No
-lt2y_cb_emp_duration1,NA
-lt2y_cb_emp_salary1,"$1,534.40"
-lt2y_cb_emp_designation1,project assistantpermanent
-lt2y_cb_emp_name2,
-lt2y_cb_emp_isSelf2,
-lt2y_cb_emp_duration2,
-lt2y_cb_emp_salary2,
-lt2y_cb_emp_designation2,
-bBaseSalary,$1722.00
-bOverttime,$342.00
-bBonus,$409.00
-bCommission,$97.00
-bDevident,$0.00
-bRentalIncome,$0.00
-bOtherIncome1,$161.00
-bOtherIncome2,$0.00
-bTotalIncome,$2731.00
-cbBaseSalary,$3352.00
-cbOverttime,$443.00
-cbBonus,$644.00
-cbCommission,$116.00
-cbDevident,$0.00
-cbRentalIncome,$0.00
-cbOtherIncome1,$142.00
-cbOtherIncome2,$0.00
-cbTotalIncome,$4697.00
-cbtBaseSalary,$5074.00
-cbtOverttime,$443342.00
-cbtBonus,$644409.00
-cbtCommission,$11697.00
-cbtDevident,$0.00
-cbtRentalIncome,$0.00
-cbtOtherIncome1,$142161.00
-cbtOtherIncome2,$0.00
-cbtTotalIncome,$46972731.00
-psntRent,$1356.00
-psntFirstLoan,$41001.00
-psntOtherFinance,$680.00
-psntHzIns,$0.00
-psntTaxes,$0.00
-psntMoIns,$0.00
-pnstOwnerDues,$0.00
-pnstOther,$0.00
-psntTotalExp,$41681.00
-propFirstLoan,$41001.00
-propOtherFinance,$663.00
-propHzIns,$0.00
-propTaxes,$0.00
-propMoIns,$0.00
-propOwnerDues,$0.00
-propOther,$0.00
-propTotalExp,$41664.00
-assetsComputes,Not Jointly
-depPurchHeldBy,KENNETH J SULAK
-depAmount,$6150.15
-depBankName,Creighton University
-depBankAdd,"2500 California St, Omaha, Ne"
-depBankAcc,41053663186442
-depBankBal,$7380.18
-LInsCashValue,$0.00
-LInsFaceValue,$0.00
-subTotLiqValue,$5740.14
-realEstateOwnedValue,$0.00
-retirementFundInterest,$0.00
-netWorthBizOwned,$0.00
-auto_make_year01,
-auto_amount01,
-auto_make_year02,
-auto_amount02,
-auto_make_year03,
-auto_amount03,
-preLoanBankName,Na
-preLoanBankAdd,
-preLoanBankAcctNumber,na
-preLoanEMIperMonth,$0.00
+cbDesignation,"Exec Secretary, Temperory"
 preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,53247n73eEevS8
+co-borrower_emp_type,Temperory
 childSupportExpOwnedTo,
+LenderCaseNumber,JTUF -7378377210
+lt2y_cb_emp_name1,"USDEPT OF LABOR PWBA; 1335 EAST WEST HWY, NO 200, SILVER SPRING, MD"
 childSupportExpOwnedValue,$0.00
+Amount,$41001.00
+lt2y_cb_emp_isSelf1,No
 pre_loan_bank_name_01,New Cumberland Federal Credit Union
+Interest,9.66%
+lt2y_cb_emp_duration1,NA
 pre_loan_bank_add_01,"po box 658, new cumb? rland, pa"
+Tenure,120 months
+lt2y_cb_emp_salary1,"$1,534.40"
 pre_loan_bank_acNo_01,23447201813661
+AmortType,Other
+lt2y_cb_emp_designation1,project assistantpermanent
 pre_loan_bank_EMI_01,"$5,740.14"
+PropAddress,"Po Box 2191 , Antioch, Ca, 94531"
+lt2y_cb_emp_name2,
 pre_loan_bank_balance_01,"$6,970.17"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
 pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
 pre_loan_bank_add_02,
+YearBuilt,1970
+lt2y_cb_emp_salary2,
 pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
 pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$1722.00
 pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$342.00
 pre_loan_bank_name_03,
+construcOrigCost,$41001.00
+bBonus,$409.00
 pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$97.00
 pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
 pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
 pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$161.00
 jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
 jobExpensesValue,$0.00
+refinanOrigCost,$17358.00
+bTotalIncome,$2731.00
 totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3352.00
 totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$443.00
 netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$644.00
 purchasePrice,$41001.00
+refinanCost,$17358.00
+cbCommission,$116.00
 repairCost,$0.00
+HeldName,chris martinez
+cbDevident,$0.00
 landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
 refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$142.00
 prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
 estimateClosingCost,$0.00
+expDate,21-APR-2077
+cbTotalIncome,$4697.00
 fundingFee,$0.00
+borrowerName,KENNETH J SULAK
+cbtBaseSalary,$5074.00
 disocuntValue,$0.00
+bSecurityNumber,237177667
+cbtOverttime,$443342.00
 totalTxnCost,$41001.00
+bPhone,2483635380
+cbtBonus,$644409.00
 subOrdFinance,$0.00
+bDOB,25-MAR-1986
+cbtCommission,$11697.00
 closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
 otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
 loanAmountEx,$41001.00
+bDpendents,2
+cbtOtherIncome1,$142161.00
 loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
 totalLoanAmount,$41001.00
+bPresentAddress,"12703 research pkwy , orlando, fl, 32826"
+cbtTotalIncome,$46972731.00
 cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1356.00
 isOutstandingCourtCaseB,No
+bMailAddress,"12703 research pkwy , orlando, fl, 32826"
+psntFirstLoan,$41001.00
 isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$680.00
 isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
 isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
 isFailedLoanB,No
+cborrowerName,Kimberly P Griffin
+psntMoIns,$0.00
 isDeliquentB,No
+cbSecurityNumber,143744434
+pnstOwnerDues,$0.00
 isObligatedToPayB,
+cbPhone,4566568826
+pnstOther,$0.00
 isDownpaymentBorrowedB,No
+cbDOB,09-FEB-1988
+psntTotalExp,$41681.00
 isCoWorkerB,
+cbYrsSchool,1986
+propFirstLoan,$41001.00
 isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$663.00
 isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
 isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
 isBankcruptCB,No
+cbPresentAddress,"521 national center , reston, va, 20192"
+propMoIns,$0.00
 isForeclosedPropertyCB,
+cbResSince,11 year(s)
+propOwnerDues,$0.00
 isLawsuitCB,No
+cbMailAddress,"12703 Research Pkwy , Orlando, Fl, 32826"
+propOther,$0.00
 isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$41664.00
 isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
 isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,KENNETH J SULAK
 isDownpaymentBorrowedCB,No
+bEmpName,US DEPARTMENT OF LABOR OIPA
+depAmount,$6150.15
 isCoWorkerCB,No
+bEmpAddress,"1111 THIRD AVE, SUITE 930, SEATTLE, WA"
+depBankName,Creighton University
 isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"2500 California St, Omaha, Ne"
 isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,41053663186442
 isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$7380.18
  typeOfProp,principal residence
+bDesignation,"Cook, Contract"
+LInsCashValue,$0.00
 holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
 signingDateB,30-MAR-2017
-signingDateCB,30 -MAR -2017
+lt2y_b_emp_name1,"DOL OASAM HRC; 200 CONSTITUTION AVE, ROOM C5522, WASHINGTON, DC"
+subTotLiqValue,$5740.14
+signingDateCB,30-MAR-2017
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
 bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
 bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,$939.60
+netWorthBizOwned,$0.00
 bRace,White
+lt2y_b_emp_designation1,GUARDCOÑTRACT
+auto_make_year01,
 bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
 cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
 cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
 cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
 cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
 informationCollectedBy,"Face-to-face Interview, Telephone"
+cbEmpName,Us Dept Labor/vets
+preLoanBankName,Na
 loanOriginatorName,mine safety & health
+cbEmpAddress,"Po Box 94094, Rm 184, Baton Rouge, La"
+preLoanBankAdd,
 loanOriginatorID,yH1Q43mm
+cbIsSelfEmp,no
+preLoanBankAcctNumber,na
 loanOriginatorCName,MINE SAFETY & HEALTH
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
 loanOriginatorCID,3045472009
+cbYrsInJob,5
 loanOriginatorAddress,"approval certification ctr, 765 technology drive, triadelphia, wv"
+borrowerName_3,KENNETH J SULAK
+borrowerName_9,KENNETH J SULAK
+borrowerName_10,KENNETH J SULAK
+cborrowerName_3,Kimberly P Griffin
+cBorrowerName_9,Kimberly P Griffin
+cborrowerName_10,Kimberly P Griffin
+signingDateB_10,30-MAR-2017
+signingDateCB_10,30-MAR-2017

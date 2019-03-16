@@ -1,239 +1,247 @@
 loanAppliedFor,Conventional
-agencyCaseNumebr,QBJOYByVeQ0383
-LenderCaseNumber,BIPC-6025628027
-Amount,$5900.00
-Interest,8.19%
-Tenure,60 months
-AmortType,Fixed Rate
-PropAddress,"291 n baynard rd , addison, 60101"
-PropUnits,1
-PropDescription,Flat
-YearBuilt,2004
-purposeOfLoan,Refinance
-propFor,Primary
-construcYrLotReq,0 year(s)
-construcOrigCost,$59248.00
-construcExisLienAmount,$0.00
-construcPresentValue,$0.00
-construcImpCost,$0.00
-totalAB,$0.00
-refinanYrLotReq,5 year(s)
-refinanOrigCost,$5900.00
-refinanExisLienAmount,$0.00
-refinanPurpose,$0.00
-refinanImproveDescription,made
-refinanCost,$5900.00
-HeldName,Athanasia Markos
-Manner,Ownership
-SourceOfDownPay,Personal Saving Account
-EstateToHeld,Fee Simple
-expDate,19 -OCT -2069
-borrowerName,Robert M Nyland
-bSecurityNumber,073170166
-bPhone,6037577625
-bDOB,29 -OCT -1991
-bYrsSchool,1991
-bMaritalStatus,Married
-bDpendents,1
-bResType,Own
-bPresentAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
-bResSince,0 year(s)
-bMailAddress,"345 middlefield rd ms 999 , menlo park, ca, 94025"
-lt2y_b_res_type,Own
-lt2y_b_res_since,7
-lt2y_b_last_add,"Box 25046 Ms 415 Bldg 53 Dfc, D? nvar, Co, 80225"
-cborrowerName,Ralph J Haefner
-cbSecurityNumber,876515431
-cbPhone,5268634255
-cbDOB,17 -AUG -1982
-cbYrsSchool,1991
-cbMaritalStatus,Unmarried
-cbDpendents,0
-cbResType,Rent
-cbPresentAddress,"6480 doubletree ave , columbus, oh, 43229"
-cbResSince,4 year(s)
-cbMailAddress,"345 middlefield rd ms 999 , menlo park, ca, 94025"
-lt2y_cb_res_type,
-lt2y_cb_res_since,
-lt2y_cb_last_add,
-bEmpName,OASAM RASO
-bEmpAddress,"230 S DEARBORN ST, ROOM 1086, CHICAGO, IL"
-bIsSelfEmp,no
-bYrsInCJob,4
-bYrsInJob,6
-bDesignation,HR Manager
-borrower_Emp_Type,Temperory
-lt2y_b_emp_name1,
-lt2y_b_emp_isSelf1,
-lt2y_b_emp_duration1,
-lt2y_b_emp_salary1,
-lt2y_b_emp_designation1,
-lt2y_b_emp_name2,
-lt2y_b_emp_isSelf2,
-lt2y_b_emp_duration2,
-lt2y_b_emp_salary2,
-lt2y_b_emp_designation2,
-cbEmpName,USDOL OASAM
-cbEmpAddress,"Curtis Canter Ste 600 E, 170 S Independence Mall West, Philadelphia, Pa"
-cbIsSelfEmp,No
-cbYrsInCJob,1
-cbYrsInJob,5
-cbDesignation,Secretary
-co-borrower_emp_type,Contract
-lt2y_cb_emp_name1,
-lt2y_cb_emp_isSelf1,
-lt2y_cb_emp_duration1,
-lt2y_cb_emp_salary1,
-lt2y_cb_emp_designation1,
-lt2y_cb_emp_name2,
-lt2y_cb_emp_isSelf2,
-lt2y_cb_emp_duration2,
-lt2y_cb_emp_salary2,
-lt2y_cb_emp_designation2,
-bBaseSalary,$6420.00
-bOverttime,$149.00
-bBonus,$389.00
-bCommission,$39.00
-bDevident,$0.00
-bRentalIncome,$0.00
-bOtherIncome1,$0.00
-bOtherIncome2,$0.00
-bTotalIncome,$6997.00
-cbBaseSalary,$2873.00
-cbOverttime,$512.00
-cbBonus,$603.00
-cbCommission,$119.00
-cbDevident,$0.00
-cbRentalIncome,$0.00
-cbOtherIncome1,$186.00
-cbOtherIncome2,$0.00
-cbTotalIncome,$4293.00
-cbtBaseSalary,$9293.00
-cbtOverttime,$512149.00
-cbtBonus,$603389.00
-cbtCommission,$11939.00
-cbtDevident,$0.00
-cbtRentalIncome,$0.00
-cbtOtherIncome1,$1860.00
-cbtOtherIncome2,$0.00
-cbtTotalIncome,$42936997.00
-psntRent,$1407.00
-psntFirstLoan,$5900.00
-psntOtherFinance,$0.00
-psntHzIns,$0.00
-psntTaxes,$0.00
-psntMoIns,$0.00
-pnstOwnerDues,$0.00
-pnstOther,$0.00
-psntTotalExp,$5900.00
-propFirstLoan,$5900.00
-propOtherFinance,$543.00
-propHzIns,$0.00
-propTaxes,$0.00
-propMoIns,$0.00
-propOwnerDues,$0.00
-propOther,$0.00
-propTotalExp,$6443.00
-assetsComputes,Not Jointly
-depPurchHeldBy,ROBERT M WYLAND
-depAmount,$590.00
-depBankName,UW OSHKOSH CREDIT UNION
-depBankAdd,"90 Wisconsin St., Oshkosh, Wi"
-depBankAcc,06388046284032
-depBankBal,$1298.00
-LInsCashValue,$0.00
-LInsFaceValue,$0.00
-subTotLiqValue,$649.00
-realEstateOwnedValue,$0.00
-retirementFundInterest,$0.00
-netWorthBizOwned,$0.00
-auto_make_year01,
-auto_amount01,
-auto_make_year02,
-auto_amount02,
-auto_make_year03,
-auto_amount03,
-preLoanBankName,
-preLoanBankAdd,na
-preLoanBankAcctNumber,na
-preLoanEMIperMonth,$0.00
+cbDesignation,"Secretary, Contract"
 preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,QBJOYByVeQ0383
+co-borrower_emp_type,Contract
 childSupportExpOwnedTo,NA
+LenderCaseNumber,BIPC-6025628027
+lt2y_cb_emp_name1,
 childSupportExpOwnedValue,$0.00
+Amount,$5900.00
+lt2y_cb_emp_isSelf1,
 pre_loan_bank_name_01,Ravalli County Federal Credit Union
+Interest,8.19%
+lt2y_cb_emp_duration1,
 pre_loan_bank_add_01,"186 SOUTH THIRD ST, HAMILTON, MT"
+Tenure,60 months
+lt2y_cb_emp_salary1,
 pre_loan_bank_acNo_01,11212830368213
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
 pre_loan_bank_EMI_01,$767.00
+PropAddress,"291 n baynard rd , addison, 60101"
+lt2y_cb_emp_name2,
 pre_loan_bank_balance_01,"$1,239.00"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
 pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,
 pre_loan_bank_add_02,
+YearBuilt,2004
+lt2y_cb_emp_salary2,
 pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
 pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$6420.00
 pre_loan_bank_balance_02,
+construcYrLotReq,0 year(s)
+bOverttime,$149.00
 pre_loan_bank_name_03,
+construcOrigCost,$59248.00
+bBonus,$389.00
 pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$39.00
 pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
 pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
 pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
 jobExpensesTo,na
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
 jobExpensesValue,$0.00
+refinanOrigCost,$5900.00
+bTotalIncome,$6997.00
 totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2873.00
 totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$512.00
 netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$603.00
 purchasePrice,$5900.00
+refinanCost,$5900.00
+cbCommission,$119.00
 repairCost,$926.00
+HeldName,Athanasia Markos
+cbDevident,$0.00
 landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
 refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$186.00
 prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
 estimateClosingCost,$0.00
+expDate,19 -OCT -2069
+cbTotalIncome,$4293.00
 fundingFee,$0.00
+borrowerName,Robert M Nyland
+cbtBaseSalary,$9293.00
 disocuntValue,$0.00
+bSecurityNumber,073170166
+cbtOverttime,$512149.00
 totalTxnCost,$6826.00
+bPhone,6037577625
+cbtBonus,$603389.00
 subOrdFinance,$0.00
+bDOB,29 -OCT -1991
+cbtCommission,$11939.00
 closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
 otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
 loanAmountEx,$5900.00
+bDpendents,1
+cbtOtherIncome1,$1860.00
 loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
 totalLoanAmount,$5900.00
+bPresentAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+cbtTotalIncome,$42936997.00
 cashDepByBorrower,$926.00
+bResSince,0 year(s)
+psntRent,$1407.00
 isOutstandingCourtCaseB,No
+bMailAddress,"345 middlefield rd ms 999 , menlo park, ca, 94025"
+psntFirstLoan,$5900.00
 isBankcruptB,No
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
 isForeclosedPropertyB,
+lt2y_b_res_since,7
+psntHzIns,$0.00
 isLawsuitB,No
+lt2y_b_last_add,"Box 25046 Ms 415 Bldg 53 Dfc, D? nvar, Co, 80225"
+psntTaxes,$0.00
 isFailedLoanB,
+cborrowerName,Ralph J Haefner
+psntMoIns,$0.00
 isDeliquentB,No
+cbSecurityNumber,876515431
+pnstOwnerDues,$0.00
 isObligatedToPayB,No
+cbPhone,5268634255
+pnstOther,$0.00
 isDownpaymentBorrowedB,No
+cbDOB,17 -AUG -1982
+psntTotalExp,$5900.00
 isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$5900.00
 isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$543.00
 isPermanentAlienB,
+cbDpendents,0
+propHzIns,$0.00
 isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
 isBankcruptCB,
+cbPresentAddress,"6480 doubletree ave , columbus, oh, 43229"
+propMoIns,$0.00
 isForeclosedPropertyCB,
+cbResSince,4 year(s)
+propOwnerDues,$0.00
 isLawsuitCB,No
+cbMailAddress,"345 middlefield rd ms 999 , menlo park, ca, 94025"
+propOther,$0.00
 isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$6443.00
 isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
 isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,ROBERT M WYLAND
 isDownpaymentBorrowedCB,No
+bEmpName,OASAM RASO
+depAmount,$590.00
 isCoWorkerCB,No
+bEmpAddress,"230 S DEARBORN ST, ROOM 1086, CHICAGO, IL"
+depBankName,UW OSHKOSH CREDIT UNION
 isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"90 Wisconsin St., Oshkosh, Wi"
 isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,06388046284032
 isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$1298.00
  typeOfProp,investment property
+bDesignation,"HR Manager, Temperory"
+LInsCashValue,$0.00
 holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
 signingDateB,30-JAN-2017
+lt2y_b_emp_name1,
+subTotLiqValue,$649.00
 signingDateCB,30-JAN-2017
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
 bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
 bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
 bRace,White
+lt2y_b_emp_designation1,GUARDCOÑTRACT
+auto_make_year01,
 bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
 cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
 cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
 cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
 cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
 informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL OASAM
+preLoanBankName,
 loanOriginatorName,Us Dol Esa Ofccp
+cbEmpAddress,"Curtis Canter Ste 600 E, 170 S Independence Mall West, Philadelphia, Pa"
+preLoanBankAdd,na
 loanOriginatorID,a4eedgtL
+cbIsSelfEmp,No
+preLoanBankAcctNumber,na
 loanOriginatorCName,Us Dol Esa Ofccp
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
 loanOriginatorCID,9728502551
+cbYrsInJob,5
 loanOriginatorAddress,"525 S GRIFFIN ST, RM 840, DALLAS, TX"
+borrowerName_3,Robert M Nyland
+borrowerName_9,Robert M Nyland
+borrowerName_10,Robert M Nyland
+cborrowerName_3,Ralph J Haefner
+cBorrowerName_9,Ralph J Haefner
+cborrowerName_10,Ralph J Haefner
+signingDateB_10,30-JAN-2017
+signingDateCB_10,30-JAN-2017

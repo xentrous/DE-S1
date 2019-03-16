@@ -1,239 +1,247 @@
 loanAppliedFor,Conventional
-agencyCaseNumebr,qhfGejjnE31cfR
-LenderCaseNumber,GPRT-4336337831
-Amount,$67436.00
-Interest,8.77%
-Tenure,120 months
-AmortType,Other
-PropAddress,"5123 GREEN SPRINGS DR , HOUSTON, TX, 77066"
-PropUnits,1
-PropDescription,Flat
-YearBuilt,1965
-purposeOfLoan,Construction-Permanent
-propFor,Seconday
-construcYrLotReq,4 year(s)
-construcOrigCost,$67436.00
-construcExisLienAmount,$0.00
-construcPresentValue,$0.00
-construcImpCost,$0.00
-totalAB,$0.00
-refinanYrLotReq,1 year(s)
-refinanOrigCost,$17358.00
-refinanExisLienAmount,$0.00
-refinanPurpose,$0.00
-refinanImproveDescription,to be made
-refinanCost,$17358.00
-HeldName,Colleen Philo
-Manner,Ownership
-SourceOfDownPay,Personal Saving Account
-EstateToHeld,Fee Simple
-expDate,12-JAN-2068
-borrowerName,TOM H KRESS
-bSecurityNumber,758784460
-bPhone,2243452631
-bDOB,16-NOV-1978
-bYrsSchool,1978
-bMaritalStatus,Unmarried
-bDpendents,0
-bResType,Own
-bPresentAddress,"954 natl ctr , reston, va, 20192"
-bResSince,8 year(s)
-bMailAddress,"954 Natl Ctr , Reston, Va, 20192"
-lt2y_b_res_type,
-lt2y_b_res_since,
-lt2y_b_last_add,
-cborrowerName,cyrus w read
-cbSecurityNumber,748450317
-cbPhone,1866622142
-cbDOB,20 -AUG -1983
-cbYrsSchool,1978
-cbMaritalStatus,Married
-cbDpendents,0
-cbResType,Own
-cbPresentAddress,"1300 se cardinal ct bldg 10ste 100, vancouver, wa, 98683"
-cbResSince,2 year(s)
-cbMailAddress,"954 NAIL CTR , RESTON, VA, 20192"
-lt2y_cb_res_type,Rent
-lt2y_cb_res_since,2
-lt2y_cb_last_add,"700 Cajundome Blvd , Lafayette, La, 70506"
-bEmpName,DOL ESA OFCCP
-bEmpAddress,"800 N CAPITOL ST, STE 565, WASHINGTON, DC"
-bIsSelfEmp,No
-bYrsInCJob,2
-bYrsInJob,5
-bDesignation,Labor
-borrower_Emp_Type,Permanent
-lt2y_b_emp_name1,"Occ Safe & Hlth Admin; 2300 Main St, Ste 168, Kansas City, Mb"
-lt2y_b_emp_isSelf1,No
-lt2y_b_emp_duration1,NA
-lt2y_b_emp_salary1,"$1,133.10"
-lt2y_b_emp_designation1,GUARDTEMPERORY
-lt2y_b_emp_name2,
-lt2y_b_emp_isSelf2,
-lt2y_b_emp_duration2,
-lt2y_b_emp_salary2,
-lt2y_b_emp_designation2,
-cbEmpName,MINE SAFETY & HEALTH
-cbEmpAddress,"515 W 1ST ST, RM 333, DULUTH, MN"
-cbIsSelfEmp,No
-cbYrsInCJob,5
-cbYrsInJob,7
-cbDesignation,Worker
-co-borrower_emp_type,Contract
-lt2y_cb_emp_name1,"US DOL ATELS BAT; PO BOX 1046, HARRISBURG, PA"
-lt2y_cb_emp_isSelf1,No
-lt2y_cb_emp_duration1,NA
-lt2y_cb_emp_salary1,"$4,111.80"
-lt2y_cb_emp_designation1,it managertemperory
-lt2y_cb_emp_name2,
-lt2y_cb_emp_isSelf2,
-lt2y_cb_emp_duration2,
-lt2y_cb_emp_salary2,
-lt2y_cb_emp_designation2,
-bBaseSalary,$3832.00
-bOverttime,$409.00
-bBonus,$716.00
-bCommission,$80.00
-bDevident,$0.00
-bRentalIncome,$0.00
-bOtherIncome1,$0.00
-bOtherIncome2,$0.00
-bTotalIncome,$5037.00
-cbBaseSalary,$4517.00
-cbOverttime,$309.00
-cbBonus,$314.00
-cbCommission,$28.00
-cbDevident,$0.00
-cbRentalIncome,$0.00
-cbOtherIncome1,$164.00
-cbOtherIncome2,$0.00
-cbTotalIncome,$5332.00
-cbtBaseSalary,$8349.00
-cbtOverttime,$309409.00
-cbtBonus,$314716.00
-cbtCommission,$2880.00
-cbtDevident,$0.00
-cbtRentalIncome,$0.00
-cbtOtherIncome1,$1640.00
-cbtOtherIncome2,$0.00
-cbtTotalIncome,$53325037.00
-psntRent,$1243.00
-psntFirstLoan,$67436.00
-psntOtherFinance,$695.00
-psntHzIns,$0.00
-psntTaxes,$0.00
-psntMoIns,$0.00
-pnstOwnerDues,$0.00
-pnstOther,$0.00
-psntTotalExp,$68131.00
-propFirstLoan,$67436.00
-propOtherFinance,$707.00
-propHzIns,$0.00
-propTaxes,$0.00
-propMoIns,$0.00
-propOwnerDues,$0.00
-propOther,$0.00
-propTotalExp,$68143.00
-assetsComputes,Jointly
-depPurchHeldBy,TOM H KRESS
-depAmount,$7417.96
-depBankName,Iec Federal Credit Union
-depBankAdd,"6460 S Sixth Frontage Road East, Springfield,"
-depBankAcc,81285481344811
-depBankBal,$11464.12
-LInsCashValue,$0.00
-LInsFaceValue,$0.00
-subTotLiqValue,$8092.32
-realEstateOwnedValue,$0.00
-retirementFundInterest,$0.00
-netWorthBizOwned,$0.00
-auto_make_year01,
-auto_amount01,
-auto_make_year02,
-auto_amount02,
-auto_make_year03,
-auto_amount03,
-preLoanBankName,na
-preLoanBankAdd,na
-preLoanBankAcctNumber,na
-preLoanEMIperMonth,$0.00
+cbDesignation,"Worker, Contract"
 preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,qhfGejjnE31cfR
+co-borrower_emp_type,Contract
 childSupportExpOwnedTo,na
+LenderCaseNumber,GPRT-4336337831
+lt2y_cb_emp_name1,"US DOL ATELS BAT; PO BOX 1046, HARRISBURG, PA"
 childSupportExpOwnedValue,$0.00
+Amount,$67436.00
+lt2y_cb_emp_isSelf1,No
 pre_loan_bank_name_01,BATTLE CREEK POSTAL CREDIT UNION
+Interest,8.77%
+lt2y_cb_emp_duration1,NA
 pre_loan_bank_add_01,"477 west michigan avenue, battle creek, mi"
+Tenure,120 months
+lt2y_cb_emp_salary1,"$4,111.80"
 pre_loan_bank_acNo_01,26100302771031
+AmortType,Other
+lt2y_cb_emp_designation1,it managertemperory
 pre_loan_bank_EMI_01,"$9,441.04"
+PropAddress,"5123 GREEN SPRINGS DR , HOUSTON, TX, 77066"
+lt2y_cb_emp_name2,
 pre_loan_bank_balance_01,"$12,812.84"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
 pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,
 pre_loan_bank_add_02,
+YearBuilt,1965
+lt2y_cb_emp_salary2,
 pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
 pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3832.00
 pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$409.00
 pre_loan_bank_name_03,
+construcOrigCost,$67436.00
+bBonus,$716.00
 pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$80.00
 pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
 pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
 pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
 jobExpensesTo,
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
 jobExpensesValue,$0.00
+refinanOrigCost,$17358.00
+bTotalIncome,$5037.00
 totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4517.00
 totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$309.00
 netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$314.00
 purchasePrice,$67436.00
+refinanCost,$17358.00
+cbCommission,$28.00
 repairCost,$1470.00
+HeldName,Colleen Philo
+cbDevident,$0.00
 landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
 refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$164.00
 prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
 estimateClosingCost,$0.00
+expDate,12-JAN-2068
+cbTotalIncome,$5332.00
 fundingFee,$0.00
+borrowerName,TOM H KRESS
+cbtBaseSalary,$8349.00
 disocuntValue,$0.00
+bSecurityNumber,758784460
+cbtOverttime,$309409.00
 totalTxnCost,$68906.00
+bPhone,2243452631
+cbtBonus,$314716.00
 subOrdFinance,$0.00
+bDOB,16-NOV-1978
+cbtCommission,$2880.00
 closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
 otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
 loanAmountEx,$67436.00
+bDpendents,0
+cbtOtherIncome1,$1640.00
 loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
 totalLoanAmount,$67436.00
+bPresentAddress,"954 natl ctr , reston, va, 20192"
+cbtTotalIncome,$53325037.00
 cashDepByBorrower,$1470.00
+bResSince,8 year(s)
+psntRent,$1243.00
 isOutstandingCourtCaseB,
+bMailAddress,"954 Natl Ctr , Reston, Va, 20192"
+psntFirstLoan,$67436.00
 isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$695.00
 isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
 isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
 isFailedLoanB,
+cborrowerName,cyrus w read
+psntMoIns,$0.00
 isDeliquentB,No
+cbSecurityNumber,748450317
+pnstOwnerDues,$0.00
 isObligatedToPayB,No
+cbPhone,1866622142
+pnstOther,$0.00
 isDownpaymentBorrowedB,
+cbDOB,20 -AUG -1983
+psntTotalExp,$68131.00
 isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$67436.00
 isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$707.00
 isPermanentAlienB,
+cbDpendents,0
+propHzIns,$0.00
 isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
 isBankcruptCB,
+cbPresentAddress,"1300 se cardinal ct bldg 10ste 100, vancouver, wa, 98683"
+propMoIns,$0.00
 isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
 isLawsuitCB,No
+cbMailAddress,"954 NAIL CTR , RESTON, VA, 20192"
+propOther,$0.00
 isFailedLoanCB,No
+lt2y_cb_res_type,Rent
+propTotalExp,$68143.00
 isDeliquentCB,No
+lt2y_cb_res_since,2
+assetsComputes,Jointly
 isObligatedToPayCB,
+lt2y_cb_last_add,"700 Cajundome Blvd , Lafayette, La, 70506"
+depPurchHeldBy,TOM H KRESS
 isDownpaymentBorrowedCB,
+bEmpName,DOL ESA OFCCP
+depAmount,$7417.96
 isCoWorkerCB,No
+bEmpAddress,"800 N CAPITOL ST, STE 565, WASHINGTON, DC"
+depBankName,Iec Federal Credit Union
 isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"6460 S Sixth Frontage Road East, Springfield,"
 isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,81285481344811
 isNewPropPermanentB,
+bYrsInJob,5
+depBankBal,$11464.12
  typeOfProp,principal residence
+bDesignation,"Labor, Permanent"
+LInsCashValue,$0.00
 holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
 signingDateB,08-FEB-2017
+lt2y_b_emp_name1,"Occ Safe & Hlth Admin; 2300 Main St, Ste 168, Kansas City, Mb"
+subTotLiqValue,$8092.32
 signingDateCB,08-FEB-2017
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
 bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
 bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$1,133.10"
+netWorthBizOwned,$0.00
 bRace,White
+lt2y_b_emp_designation1,GUARDCOÑTRACT
+auto_make_year01,
 bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
 cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
 cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
 cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
 cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
 informationCollectedBy,"Face-to-face Interview, Telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,na
 loanOriginatorName,Dol R6 Eta San Fran
+cbEmpAddress,"515 W 1ST ST, RM 333, DULUTH, MN"
+preLoanBankAdd,na
 loanOriginatorID,Y48qkVyJ
+cbIsSelfEmp,No
+preLoanBankAcctNumber,na
 loanOriginatorCName,DOL R6 ETA SAN FRAN
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
 loanOriginatorCID,4156257901
+cbYrsInJob,7
 loanOriginatorAddress,"90 7th street, suite 17 300, san Francisco, ca"
+borrowerName_3,TOM H KRESS
+borrowerName_9,TOM H KRESS
+borrowerName_10,TOM H KRESS
+cborrowerName_3,cyrus w read
+cBorrowerName_9,cyrus w read
+cborrowerName_10,cyrus w read
+signingDateB_10,08-FEB-2017
+signingDateCB_10,08-FEB-2017
