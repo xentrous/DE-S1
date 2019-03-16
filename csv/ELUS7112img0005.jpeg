@@ -139,7 +139,7 @@ isObligatedToPayB,
 cbPhone,7708561078
 pnstOther,$0.00
 isDownpaymentBorrowedB,
-cbDOB,29 -DEC -1992
+cbDOB,29-DEC-1992
 psntTotalExp,$81518.00
 isCoWorkerB,
 cbYrsSchool,1986
@@ -205,7 +205,7 @@ bEthnicity,Not Hispanic or Latino
 lt2y_b_emp_salary1,
 netWorthBizOwned,$0.00
 bRace,White
-lt2y_b_emp_designation1,GUARDCOÑTRACT
+lt2y_b_emp_designation1,
 auto_make_year01,
 bSex,Male
 lt2y_b_emp_name2,

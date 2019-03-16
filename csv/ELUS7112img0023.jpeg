@@ -97,7 +97,7 @@ totalTxnCost,$6826.00
 bPhone,6037577625
 cbtBonus,$603389.00
 subOrdFinance,$0.00
-bDOB,29 -OCT -1991
+bDOB,29-OCT-1991
 cbtCommission,$11939.00
 closingCostBySeller,$0.00
 bYrsSchool,1991
@@ -139,7 +139,7 @@ isObligatedToPayB,No
 cbPhone,5268634255
 pnstOther,$0.00
 isDownpaymentBorrowedB,No
-cbDOB,17 -AUG -1982
+cbDOB,17-AUG-1982
 psntTotalExp,$5900.00
 isCoWorkerB,No
 cbYrsSchool,1991
@@ -205,7 +205,7 @@ bEthnicity,Not Hispanic or Latino
 lt2y_b_emp_salary1,
 netWorthBizOwned,$0.00
 bRace,White
-lt2y_b_emp_designation1,GUARDCOÑTRACT
+lt2y_b_emp_designation1,
 auto_make_year01,
 bSex,Male
 lt2y_b_emp_name2,

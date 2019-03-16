@@ -97,7 +97,7 @@ totalTxnCost,$9809.00
 bPhone,6166020862
 cbtBonus,$796520.00
 subOrdFinance,$0.00
-bDOB,18 -AUG -1978
+bDOB,18-AUG-1978
 cbtCommission,$2197.00
 closingCostBySeller,$0.00
 bYrsSchool,1978
@@ -205,7 +205,7 @@ bEthnicity,Not Hispanic or Latino
 lt2y_b_emp_salary1,
 netWorthBizOwned,$0.00
 bRace,White
-lt2y_b_emp_designation1,GUARDCOÑTRACT
+lt2y_b_emp_designation1,
 auto_make_year01,
 bSex,Male
 lt2y_b_emp_name2,
