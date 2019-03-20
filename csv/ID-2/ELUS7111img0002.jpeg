@@ -1,0 +1,247 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Supervisor, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,8o2Q46ux1LPcW1
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,
+LenderCaseNumber,MJTM-4554610534
+lt2y_cb_emp_name1,"Us Dol Osha; 310 W Wisconsin Ave, Ste 1180, Milwaukee, Wi"
+childSupportExpOwnedValue,$0.00
+Amount,$28482.00
+lt2y_cb_emp_isSelf1,no
+pre_loan_bank_name_01,WELLS FARGO EDUCATION FIN SVCS
+Interest,9.96%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"301 east 58th street north, sioux falls, sd"
+Tenure,36 months
+lt2y_cb_emp_salary1,3136.5
+pre_loan_bank_acNo_01,68055051168560
+AmortType,GPM
+lt2y_cb_emp_designation1,SUPERVISORCONTRACT
+pre_loan_bank_EMI_01,3702.66
+PropAddress,"1785 state route 28 lot 43, goshen, oh, 45122"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,6266.04
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,midland federal s&l
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"8929 S Harlem Avenue, Bridgeview,"
+YearBuilt,2002
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,16152160522183
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,3724.6
+propFor,Primary
+bBaseSalary,$14180.00
+pre_loan_bank_balance_02,6772
+construcYrLotReq,1 year(s)
+bOverttime,$293.00
+pre_loan_bank_name_03,WESTEX FEDERAL CREDIT UNION
+construcOrigCost,$28482.00
+bBonus,$787.00
+pre_loan_bank_add_03,"901 AVENUE Q, LUBBOCK, TX"
+construcExisLienAmount,$0.00
+bCommission,$134.00
+pre_loan_bank_acNo_03,82386283112867
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,4401.8
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,7110.6
+totalAB,$0.00
+bOtherIncome1,$253.00
+jobExpensesTo,
+refinanYrLotReq,0 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,
+bTotalIncome,$15647.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,
+cbBaseSalary,$3485.00
+totMonthlyLiability,$0.00
+refinanPurpose,
+cbOverttime,$300.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,
+cbBonus,$600.00
+purchasePrice,$28482.00
+refinanCost,
+cbCommission,$174.00
+repairCost,$879.00
+HeldName,CANDY MARMORA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$361.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,16-JAN-2066
+cbTotalIncome,$4920.00
+fundingFee,$0.00
+borrowerName,michael c carpenter
+cbtBaseSalary,$17665.00
+disocuntValue,$0.00
+bSecurityNumber,216548666
+cbtOverttime,$300293.00
+totalTxnCost,$29361.00
+bPhone,5410881474
+cbtBonus,$600787.00
+subOrdFinance,$0.00
+bDOB,27-FEB-1992
+cbtCommission,$174134.00
+closingCostBySeller,$0.00
+bYrsSchool,1992
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$3610.00
+loanAmountEx,$28482.00
+bDpendents,3
+cbtOtherIncome1,$253.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$28482.00
+bPresentAddress,"STENNIS DATA CTR BLDG 2010, STENNIS SP CN, MS, 39529"
+cbtTotalIncome,$492015647.00
+cashDepByBorrower,$879.00
+bResSince,8 year(s)
+psntRent,$1343.00
+isOutstandingCourtCaseB,No
+bMailAddress,"Stennis Data Ctr Bldg 2010, Stennis Sp Cn, Ms, 39529"
+psntFirstLoan,$28482.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,William R Selbig
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,751377567
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0325516703
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,23-JUL-1985
+psntTotalExp,$28482.00
+isCoWorkerB,
+cbYrsSchool,1992
+propFirstLoan,$28482.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"stennis data ctr bldg 2010, stennis sp cn, ms, 39529"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Rent
+propTotalExp,$28482.00
+isDeliquentCB,No
+lt2y_cb_res_since,0
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"401 HARDIN RD , LITTLE ROCK, AR, 72211"
+depPurchHeldBy,MICHAEL C CARPENTER
+isDownpaymentBorrowedCB,No
+bEmpName,Off Of Reg Admin Wh
+depAmount,$2848.20
+isCoWorkerCB,No
+bEmpAddress,"10127 Morocco Ste 140, , San Antonio, Tx"
+depBankName,Greece Community Fcu
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"1795 english road, rochester, ny"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,27205852350516
+isNewPropPermanentB,No
+bYrsInJob,3
+depBankBal,$5696.40
+ typeOfProp,principal residence
+bDesignation,"Grocers Supplier, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,27-OCT-2016
+lt2y_b_emp_name1,"osha baton rouge area; 9100 bluebonnet centre ste 201, rouge, la"
+subTotLiqValue,$3133.02
+signingDateCB,27-OCT-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,12620.2
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,Grocers Suppliertemperory
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"Face-to-face Interview, Telephone"
+cbEmpName,us dol wage and hour
+preLoanBankName,NA
+loanOriginatorName,esa wage hour
+cbEmpAddress,"230 N First Ave, Ste 402, Phoenix, Az"
+preLoanBankAdd,NA
+loanOriginatorID,elF0hcue
+cbIsSelfEmp,No
+preLoanBankAcctNumber,na
+loanOriginatorCName,Esa Wage Hour
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6164562250
+cbYrsInJob,4
+loanOriginatorAddress,"800 monroe ave nw, ste 315, grand rapids, mi"
+borrowerName_3,michael c carpenter
+borrowerName_9,michael c carpenter
+borrowerName_10,michael c carpenter
+cborrowerName_3,William R Selbig
+cBorrowerName_9,William R Selbig
+cborrowerName_10,William R Selbig
+signingDateB_10,27-OCT-2016
+signingDateCB_10,27-OCT-2016

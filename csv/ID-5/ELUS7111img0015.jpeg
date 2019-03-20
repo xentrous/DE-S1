@@ -1,0 +1,247 @@
+loanAppliedFor,Conventional
+cbDesignation,"Trainer, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,h1DCibla3YmKgk
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,
+LenderCaseNumber,QCBD-7602648236
+lt2y_cb_emp_name1,"US DOL/OSHA; 1391 SPEER BLVD, SUITE 210, DENVER, CO"
+childSupportExpOwnedValue,$0.00
+Amount,$91394.00
+lt2y_cb_emp_isSelf1,NO
+pre_loan_bank_name_01,Bangor Hydro Fcu
+Interest,9.68%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"193 Broad Street, Bangor, Me"
+Tenure,60 months
+lt2y_cb_emp_salary1,3083.64
+pre_loan_bank_acNo_01,35312382728504
+AmortType,Other
+lt2y_cb_emp_designation1,trainercontract
+pre_loan_bank_EMI_01,10967.28
+PropAddress,"32388 Appaloosa Dr , Springville, Ca, 93265"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,16450.92
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,"Bank Of America, Na"
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"P.O. BOX 419038, KANSAS CITY, MO"
+YearBuilt,1985
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,80503785168412
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,11881.22
+propFor,Investment
+bBaseSalary,$4357.00
+pre_loan_bank_balance_02,15536.98
+construcYrLotReq,3 year(s)
+bOverttime,$125.00
+pre_loan_bank_name_03,SOUTHLAND CIVIC CREDIT UNION
+construcOrigCost,$91394.00
+bBonus,$365.00
+pre_loan_bank_add_03,"8545 East Florence Avenue, Downey, Ca"
+construcExisLienAmount,$0.00
+bCommission,$121.00
+pre_loan_bank_acNo_03,42113300455733
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,10967.28
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,18278.8
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,0 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,
+bTotalIncome,$4968.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,
+cbBaseSalary,$3671.00
+totMonthlyLiability,$0.00
+refinanPurpose,
+cbOverttime,$450.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,
+cbBonus,$400.00
+purchasePrice,$91394.00
+refinanCost,
+cbCommission,$180.00
+repairCost,$0.00
+HeldName,BRUCE DEURLOO
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$260.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,04-JAN-2072
+cbTotalIncome,$4961.00
+fundingFee,$0.00
+borrowerName,edward j parrozzo
+cbtBaseSalary,$8028.00
+disocuntValue,$0.00
+bSecurityNumber,811627308
+cbtOverttime,$450125.00
+totalTxnCost,$91394.00
+bPhone,8667820176
+cbtBonus,$400365.00
+subOrdFinance,$0.00
+bDOB,20-MAY-1987
+cbtCommission,$180121.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$2600.00
+loanAmountEx,$91394.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$91394.00
+bPresentAddress,"stennis data ctr bldg 2010, stennis sp cn, ms, 39529"
+cbtTotalIncome,$49614968.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1274.00
+isOutstandingCourtCaseB,
+bMailAddress,"Stennis Data Ctr Bldg 2010, Stennis Sp Cn, Ms, 39529"
+psntFirstLoan,$91394.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$581.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,ROSALINA S TAAGA
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,734624062
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6266203024
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,27-NOV-1990
+psntTotalExp,$91975.00
+isCoWorkerB,No
+cbYrsSchool,1987
+propFirstLoan,$91394.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$737.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"345 MIDDLEFIELD RD MS 531 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"Stennis Data Ctr Bldg 2010, Stennis Sp Cn, Ms, 39529"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$92131.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,EDWARD J PARROZZO
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR MSHA
+depAmount,$10967.28
+isCoWorkerCB,
+bEmpAddress,"1301 AIRPORT ROAD, , BEAVER, WV"
+depBankName,RIVER CITY FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"610 Augusta, San Antonio, Tx"
+isPermanentAlienCB,
+bYrsInCJob,2
+depBankAcc,76612824578867
+isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$16450.92
+ typeOfProp,principal residence
+bDesignation,"Labor, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,17-NOV-2016
+lt2y_b_emp_name1,"usdol osha; us customs house, 2nd chestnut streets rm 242, philadelphia, pa"
+subTotLiqValue,$11881.22
+signingDateCB,17-NOV-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,na
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,3834.16
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,GUARDCOÑTRACT
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"FACE-TO-FACE INTERVIEW, TELEPHONE"
+cbEmpName,Osha Reg 2 - Velez
+preLoanBankName,na
+loanOriginatorName,us department of labor
+cbEmpAddress,"201 VARICK ST, RM 908, NEW YORK, NY"
+preLoanBankAdd,
+loanOriginatorID,R1pK2240
+cbIsSelfEmp,No
+preLoanBankAcctNumber,
+loanOriginatorCName,Us Department Of Labor
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2812860583
+cbYrsInJob,3
+loanOriginatorAddress,"17625 El Camino Real Ste 400, Houston, Tx"
+borrowerName_3,edward j parrozzo
+borrowerName_9,edward j parrozzo
+borrowerName_10,edward j parrozzo
+cborrowerName_3,ROSALINA S TAAGA
+cBorrowerName_9,ROSALINA S TAAGA
+cborrowerName_10,ROSALINA S TAAGA
+signingDateB_10,17-NOV-2016
+signingDateCB_10,17-NOV-2016

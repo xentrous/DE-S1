@@ -1,0 +1,247 @@
+loanAppliedFor,Conventional
+cbDesignation,"Grocers Supplier, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,10ZsFJ1h6HuPGp
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,TLCN -1883145877
+lt2y_cb_emp_name1,"DOL BLS; 2 MASS AVE NE, ROOM 4080, WASHINGTON, DC"
+childSupportExpOwnedValue,$0.00
+Amount,$94213.00
+lt2y_cb_emp_isSelf1,no
+pre_loan_bank_name_01,plains commerce bank
+Interest,8.19%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"Po Box 7, Hoven, Sd"
+Tenure,24 months
+lt2y_cb_emp_salary1,3253.5
+pre_loan_bank_acNo_01,60650463680760
+AmortType,GPM
+lt2y_cb_emp_designation1,Account Admincontract
+pre_loan_bank_EMI_01,13189.82
+PropAddress,"1132 S Quince St , Escondido, Ca, 92025"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,17900.47
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,first community credit union
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"PO BOX 840129, HOUSTON, TX"
+YearBuilt,1964
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,55522527335603
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,9421.3
+propFor,Investment
+bBaseSalary,$1944.00
+pre_loan_bank_balance_02,18842.6
+construcYrLotReq,5 year(s)
+bOverttime,$452.00
+pre_loan_bank_name_03,Southland Civic Credit Union
+construcOrigCost,$94213.00
+bBonus,$439.00
+pre_loan_bank_add_03,"8545 east florence avenue, downey, ca"
+construcExisLienAmount,$0.00
+bCommission,$10.00
+pre_loan_bank_acNo_03,42113300455733
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,10967.28
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,18278.8
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,0 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,
+bTotalIncome,$2845.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,
+cbBaseSalary,$12231.00
+totMonthlyLiability,$0.00
+refinanPurpose,
+cbOverttime,$297.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,
+cbBonus,$397.00
+purchasePrice,$94213.00
+refinanCost,
+cbCommission,$200.00
+repairCost,$0.00
+HeldName,Edmundo Zepeda
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$277.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,27-JUL-2071
+cbTotalIncome,$13402.00
+fundingFee,$0.00
+borrowerName,jeffrey d allen
+cbtBaseSalary,$14175.00
+disocuntValue,$0.00
+bSecurityNumber,785073438
+cbtOverttime,$297452.00
+totalTxnCost,$94213.00
+bPhone,3583827208
+cbtBonus,$397439.00
+subOrdFinance,$0.00
+bDOB,16-NOV-1990
+cbtCommission,$20010.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$2770.00
+loanAmountEx,$94213.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$94213.00
+bPresentAddress,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+cbtTotalIncome,$134022845.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$1235.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1451 Green Rd , Ann Arbor, Mi, 48105"
+psntFirstLoan,$94213.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,robert 1 sowders
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,153764635
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,2166078423
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,06-JUN-1990
+psntTotalExp,$94213.00
+isCoWorkerB,No
+cbYrsSchool,1990
+propFirstLoan,$94213.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"677 Ala Moana Blvd Ste 615, Honolulu, Hi, 96813"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1451 green rd , ann arbor, mi, 48105"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$94213.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JEFFREY D ALLEN
+isDownpaymentBorrowedCB,No
+bEmpName,wage and hour
+depAmount,$14131.95
+isCoWorkerCB,
+bEmpAddress,"JFK FEDERAL BLDG, RM 525, BOSTON, MA"
+depBankName,Teachers Credit Union
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"2315 Prairie Avenue, Beloit, Wi"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,56630421462367
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$19784.73
+ typeOfProp,investment property
+bDesignation,"Receptionist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,30-AUG-2016
+lt2y_b_emp_name1,"Us Dol Osha; 1310 W Clairemont Ave„ Eau Claire, Wi"
+subTotLiqValue,$13189.82
+signingDateCB,30-AUG-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,4408.2
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,WORKERTEMPERORY
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"Face-to-face Interview, Telephone"
+cbEmpName,US DOL OFCCP
+preLoanBankName,Na
+loanOriginatorName,usdol region vl osha
+cbEmpAddress,"Gene Snyder Courthouse Bldg, 601 W Broadway Rm 15, Louisville, Ky"
+preLoanBankAdd,
+loanOriginatorID,McX0Zg6d
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,usdol region vl osha
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,1111111111
+cbYrsInJob,8
+loanOriginatorAddress,"1033 LA POSADA STE 375, AUSTIN, TX"
+borrowerName_3,jeffrey d allen
+borrowerName_9,jeffrey d allen
+borrowerName_10,jeffrey d allen
+cborrowerName_3,robert 1 sowders
+cBorrowerName_9,robert 1 sowders
+cborrowerName_10,robert 1 sowders
+signingDateB_10,30-AUG-2016
+signingDateCB_10,30-AUG-2016

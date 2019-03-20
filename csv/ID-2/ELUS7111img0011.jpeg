@@ -1,0 +1,247 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,MuOfx2fxJ7I830
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,BAUD-3563126086
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$52617.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Rhode Island Student Loan Authority
+Interest,10.90%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"560 jefferson blvd, warwick, ri"
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,15241621431763
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,6314.04
+PropAddress,"417 N LYNN DR , WILMINGTON, DE, 19809"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,10523.4
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Champlain Valley Credit Union
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"1 market place, suite 8, essex junction, vt"
+YearBuilt,1975
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,75432867614144
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,6314.04
+propFor,Primary
+bBaseSalary,$4106.00
+pre_loan_bank_balance_02,10523.4
+construcYrLotReq,3 year(s)
+bOverttime,$190.00
+pre_loan_bank_name_03,
+construcOrigCost,$52617.00
+bBonus,$248.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$129.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$186.00
+jobExpensesTo,
+refinanYrLotReq,year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,
+bTotalIncome,$4859.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,
+cbBaseSalary,$4754.00
+totMonthlyLiability,$0.00
+refinanPurpose,
+cbOverttime,$579.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,
+cbBonus,$652.00
+purchasePrice,$52617.00
+refinanCost,
+cbCommission,$72.00
+repairCost,$691.00
+HeldName,arkadiusz puch
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,13-AUG-2076
+cbTotalIncome,$6057.00
+fundingFee,$0.00
+borrowerName,LAWRENCE R FARLEY JR
+cbtBaseSalary,$8860.00
+disocuntValue,$0.00
+bSecurityNumber,063500563
+cbtOverttime,$579190.00
+totalTxnCost,$53308.00
+bPhone,4783615546
+cbtBonus,$652248.00
+subOrdFinance,$0.00
+bDOB,13-AUG-1985
+cbtCommission,$72129.00
+closingCostBySeller,$0.00
+bYrsSchool,1985
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$52617.00
+bDpendents,0
+cbtOtherIncome1,$186.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$52617.00
+bPresentAddress,"4200 new haven rd , columbia, mo, 65201"
+cbtTotalIncome,$60574859.00
+cashDepByBorrower,$691.00
+bResSince,6 year(s)
+psntRent,$856.00
+isOutstandingCourtCaseB,No
+bMailAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
+psntFirstLoan,$52617.00
+isBankcruptB,
+lt2y_b_res_type,Rent
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,5
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,robert 1 baskin
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,021352424
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,4557038057
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,05-JAN-1991
+psntTotalExp,$52617.00
+isCoWorkerB,
+cbYrsSchool,1985
+propFirstLoan,$52617.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"2329 W Orton Circle , West Valley City, Ut, 84119"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Own
+propTotalExp,$52617.00
+isDeliquentCB,No
+lt2y_cb_res_since,7
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"placer hall 6000 j st , sacramento, ca, 95819"
+depPurchHeldBy,LAWRENCE R FARLEY JR
+isDownpaymentBorrowedCB,No
+bEmpName,mine safety & health
+depAmount,$7366.38
+isCoWorkerCB,No
+bEmpAddress,"cochrans mill rd, pob 18233, pittsburgh, pa"
+depBankName,blackhawk credit union
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"po box 1366, janesville, wi"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,67484311586176
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$11575.74
+ typeOfProp,principal residence
+bDesignation,"Worker, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,18-NOV-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$7892.55
+signingDateCB,18-NOV-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"Face-to-face Interview, Telephone"
+cbEmpName,Usdol Olms
+preLoanBankName,
+loanOriginatorName,osha baton rouge area
+cbEmpAddress,"1222 spruce st rm 9109e, louis, mo"
+preLoanBankAdd,Na
+loanOriginatorID,HQU5x68W
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,Osha Baton Rouge Area
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2252985458
+cbYrsInJob,6
+loanOriginatorAddress,"9100 bluebonnet centre ste 201, baton rouge, la"
+borrowerName_3,LAWRENCE R FARLEY JR
+borrowerName_9,LAWRENCE R FARLEY JR
+borrowerName_10,LAWRENCE R FARLEY JR
+cborrowerName_3,robert 1 baskin
+cBorrowerName_9,robert 1 baskin
+cborrowerName_10,robert 1 baskin
+signingDateB_10,18-NOV-2016
+signingDateCB_10,18-NOV-2016

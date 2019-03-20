@@ -1,0 +1,247 @@
+loanAppliedFor,FHA
+cbDesignation,"Central Supervisor, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,j bLgxOnoLiNhBy
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,
+LenderCaseNumber,NJUD-2708023763
+lt2y_cb_emp_name1,"Dol R9 Oasam San Fran; 1301 Clay St, Rm 1400n, Oakland, Ca"
+childSupportExpOwnedValue,$0.00
+Amount,$53099.00
+lt2y_cb_emp_isSelf1,no
+pre_loan_bank_name_01,Adelphi University
+Interest,8.83%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"One South Avenue, Garden City, Ny"
+Tenure,24 months
+lt2y_cb_emp_salary1,2285.82
+pre_loan_bank_acNo_01,74431166721667
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,computer adminpermanent
+pre_loan_bank_EMI_01,6371.88
+PropAddress,"1571 GEER RD , TURLOCK, CA, 95380"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,9557.82
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,SEABOARD FEDERAL CREDIT UNION
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"PO BOX G, BUCKSPORT, ME"
+YearBuilt,1966
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,26842671127088
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,5840.89
+propFor,Investment
+bBaseSalary,$4315.00
+pre_loan_bank_balance_02,11150.79
+construcYrLotReq,5 year(s)
+bOverttime,$204.00
+pre_loan_bank_name_03,citizens national bank
+construcOrigCost,$53099.00
+bBonus,$378.00
+pre_loan_bank_add_03,"Po Box 231, Park Rapids, Mn"
+construcExisLienAmount,$0.00
+bCommission,$113.00
+pre_loan_bank_acNo_03,03588032115302
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,7433.86
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,9026.83
+totalAB,$0.00
+bOtherIncome1,$185.00
+jobExpensesTo,
+refinanYrLotReq,0 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,
+bTotalIncome,$5195.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,
+cbBaseSalary,$2785.00
+totMonthlyLiability,$0.00
+refinanPurpose,
+cbOverttime,$559.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,
+cbBonus,$464.00
+purchasePrice,$53099.00
+refinanCost,
+cbCommission,$121.00
+repairCost,$1250.00
+HeldName,dewey bedford
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,17-APR-2059
+cbTotalIncome,$3929.00
+fundingFee,$0.00
+borrowerName,NANCY J HORNEWER
+cbtBaseSalary,$7100.00
+disocuntValue,$0.00
+bSecurityNumber,734022062
+cbtOverttime,$559204.00
+totalTxnCost,$54349.00
+bPhone,7557862324
+cbtBonus,$464378.00
+subOrdFinance,$0.00
+bDOB,21-MAR-1986
+cbtCommission,$121113.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$53099.00
+bDpendents,4
+cbtOtherIncome1,$185.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$53099.00
+bPresentAddress,"2255 N Gemini Dr , Flagstaff, Az, 86001"
+cbtTotalIncome,$39295195.00
+cashDepByBorrower,$1250.00
+bResSince,7 year(s)
+psntRent,$1629.00
+isOutstandingCourtCaseB,No
+bMailAddress,"2255 N GEMINI DR , FLAGSTAFF, AZ, 86001"
+psntFirstLoan,$53099.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$552.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,Alyssa N Reinland
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,354451524
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,7455521606
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,24-MAY-1981
+psntTotalExp,$53651.00
+isCoWorkerB,
+cbYrsSchool,1986
+propFirstLoan,$53099.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"3162 bozeman ave , helena, mt, 59601"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"2255 n gemini dr , flagstaff, az, 86001"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Rent
+propTotalExp,$53099.00
+isDeliquentCB,No
+lt2y_cb_res_since,8
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"230 COLLINS RD , BOISE, ID, 83702"
+depPurchHeldBy,NANCY J HORNEWER
+isDownpaymentBorrowedCB,No
+bEmpName,usdol olms
+depAmount,$7433.86
+isCoWorkerCB,
+bEmpAddress,"1222 SPRUCE ST RM 9109E, , SAINT LOUIS, MO"
+depBankName,JEANNE D'ARC CU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"658 merrimack st, lowell, Ma"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,50481372402062
+isNewPropPermanentB,
+bYrsInJob,5
+depBankBal,$9557.82
+ typeOfProp,investment property
+bDesignation,"Manager, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,15-SEP-2016
+lt2y_b_emp_name1,"Usdol Osha; 850 N 5th St, Allentown, Pa"
+subTotLiqValue,$6371.88
+signingDateCB,15-SEP-2016
+lt2y_b_emp_isSelf1,no
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,3797.42
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,It Managertemperory
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,bureau of labor stats
+preLoanBankName,
+loanOriginatorName,Dol Bls
+cbEmpAddress,"525 S GRIFFIN ST, NO 221, DALLAS, TX"
+preLoanBankAdd,NA
+loanOriginatorID,RjJ2Tibc
+cbIsSelfEmp,no
+preLoanBankAcctNumber,na
+loanOriginatorCName,Dol Bls
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026915757
+cbYrsInJob,6
+loanOriginatorAddress,"2 MASSACHUSETTS AVE NE, RM 2930, WASHINGTON, DC"
+borrowerName_3,NANCY J HORNEWER
+borrowerName_9,NANCY J HORNEWER
+borrowerName_10,NANCY J HORNEWER
+cborrowerName_3,Alyssa N Reinland
+cBorrowerName_9,Alyssa N Reinland
+cborrowerName_10,Alyssa N Reinland
+signingDateB_10,15-SEP-2016
+signingDateCB_10,15-SEP-2016

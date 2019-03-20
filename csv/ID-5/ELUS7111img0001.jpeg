@@ -1,0 +1,247 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Security Head, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,gBd5QIBsgYj8DP
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,na
+LenderCaseNumber,QRBM-6538774305
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$33860.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Blue Chip Fcu
+Interest,10.96%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"5050 DERRY STREET, HARRISBURG, PA"
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,28662178374123
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,3724.6
+PropAddress,"331 S 2ND ST E , MALTA, MT, 59538"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,7110.6
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,midland federal s&l
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"8929 s harlem avenue, bridgeview, it"
+YearBuilt,1966
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,16152160522183
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,3724.6
+propFor,Investment
+bBaseSalary,$2697.00
+pre_loan_bank_balance_02,6772
+construcYrLotReq,0 year(s)
+bOverttime,$120.00
+pre_loan_bank_name_03,Westex Federal Credit Union
+construcOrigCost,
+bBonus,$333.00
+pre_loan_bank_add_03,"901 Avenue Q, Lubbock, Tx"
+construcExisLienAmount,
+bCommission,$136.00
+pre_loan_bank_acNo_03,82386283112867
+construcPresentValue,
+bDevident,$0.00
+pre_loan_bank_EMI_03,4401.8
+construcImpCost,
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,7110.6
+totalAB,$0.00
+bOtherIncome1,$136.00
+jobExpensesTo,na
+refinanYrLotReq,0 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,
+bTotalIncome,$3422.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,
+cbBaseSalary,$4714.00
+totMonthlyLiability,$0.00
+refinanPurpose,
+cbOverttime,$564.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,
+cbBonus,$378.00
+purchasePrice,$33860.00
+refinanCost,
+cbCommission,$91.00
+repairCost,$0.00
+HeldName,Evan Grabofsky
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$275.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$254.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,11-MAY-2074
+cbTotalIncome,$6276.00
+fundingFee,$0.00
+borrowerName,Cynthia L Cunningham
+cbtBaseSalary,$7411.00
+disocuntValue,$0.00
+bSecurityNumber,422750282
+cbtOverttime,$564120.00
+totalTxnCost,$33860.00
+bPhone,7308617764
+cbtBonus,$378333.00
+subOrdFinance,$0.00
+bDOB,02-AUG-1983
+cbtCommission,$91136.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$2750.00
+loanAmountEx,$33860.00
+bDpendents,1
+cbtOtherIncome1,$254136.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$33860.00
+bPresentAddress,"516 National Center , Reston, Va, 20192"
+cbtTotalIncome,$62763422.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1546.00
+isOutstandingCourtCaseB,
+bMailAddress,"516 National Center , Reston, Va, 20192"
+psntFirstLoan,$33860.00
+isBankcruptB,No
+lt2y_b_res_type,Rent
+psntOtherFinance,$753.00
+isForeclosedPropertyB,
+lt2y_b_res_since,3
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"4200 New Haven Rd , Columbia, Mo, 65201"
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,Paul C Cross
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,533343672
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,2521626440
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,25-AUG-1984
+psntTotalExp,$34613.00
+isCoWorkerB,No
+cbYrsSchool,1983
+propFirstLoan,$33860.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$705.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"usgs ajm johnson hall msu, bozeman, mt, 59717"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"516 National Center , Reston, Va, 20192"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Own
+propTotalExp,$34565.00
+isDeliquentCB,No
+lt2y_cb_res_since,11
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"1300 SE CARDINAL CT BLDG 10STE 100, VANCOUVER, WA, 98683"
+depPurchHeldBy,CYNTHIA L CUNNINGHAM
+isDownpaymentBorrowedCB,
+bEmpName,OSHA REG 2 - VELEZ
+depAmount,$4063.20
+isCoWorkerCB,No
+bEmpAddress,"201 Varick St, Rm 908, New York, Ny"
+depBankName,"Jpmorgan Chase Bank, Na"
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 711004, COLUMBUS, OH"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,21605140332241
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$6433.40
+ typeOfProp,second home
+bDesignation,"Office Assistant, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,16-SEP-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$3724.60
+signingDateCB,16-SEP-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,us dept of labor olms
+preLoanBankName,
+loanOriginatorName,Dol Osbp
+cbEmpAddress,"230 S DEARBORN ST, RM 774, CHICAGO, IL"
+preLoanBankAdd,
+loanOriginatorID,7crU3qof
+cbIsSelfEmp,No
+preLoanBankAcctNumber,na
+loanOriginatorCName,Dol Osbp
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026936463
+cbYrsInJob,10
+loanOriginatorAddress,"200 Constitution Ave Nw, Rm C2313, Washington, Dc"
+borrowerName_3,Cynthia L Cunningham
+borrowerName_9,Cynthia L Cunningham
+borrowerName_10,Cynthia L Cunningham
+cborrowerName_3,Paul C Cross
+cBorrowerName_9,Paul C Cross
+cborrowerName_10,Paul C Cross
+signingDateB_10,16-SEP-2016
+signingDateCB_10,16-SEP-2016
