@@ -1,0 +1,247 @@
+loanAppliedFor,FHA
+cbDesignation,"Central Supervisor, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,HnP130uYwe05s0
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,INSW-0316510811
+lt2y_cb_emp_name1,"Dol Bls; 2 Massachusetts Ave Ne, Room 5110, Washington, Dc"
+childSupportExpOwnedValue,$0.00
+Amount,$48344.00
+lt2y_cb_emp_isSelf1,no
+pre_loan_bank_name_01,CITIZENS SECURITY BANK & TRUST CO
+Interest,9.69%
+lt2y_cb_emp_duration1,na
+pre_loan_bank_add_01,"P 0 Box 1117, Okmulgee, Ok"
+Tenure,30 months
+lt2y_cb_emp_salary1,2138.4
+pre_loan_bank_acNo_01,87025455122684
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,central supervisorpermanent
+pre_loan_bank_EMI_01,7251.6
+PropAddress,"517 CRAWFORD AVE , AMES, IA, 50010"
+lt2y_cb_emp_name2,"OIG OI HEADQUARTERS; OIG OI 55514, 200 CONSTITUTION AVE NW, WASHINGTON, DC"
+pre_loan_bank_balance_01,8218.48
+PropUnits,1
+lt2y_cb_emp_isSelf2,no
+pre_loan_bank_name_02,employment security credit union
+PropDescription,Residence House
+lt2y_cb_emp_duration2,NA
+pre_loan_bank_add_02,"P 0 Box 1828, Jefferson City, Mo"
+YearBuilt,1964
+lt2y_cb_emp_salary2,1195.95
+pre_loan_bank_acNo_02,65518652580756
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,Legal Executivetemperory
+pre_loan_bank_EMI_02,5801.28
+propFor,Seconday
+bBaseSalary,$3300.00
+pre_loan_bank_balance_02,8701.92
+construcYrLotReq,0 year(s)
+bOverttime,$282.00
+pre_loan_bank_name_03,GRINNELL STATE BANK
+construcOrigCost,$100820.00
+bBonus,$389.00
+pre_loan_bank_add_03,"PO BOX 744, GRINNELL, IA"
+construcExisLienAmount,$0.00
+bCommission,$39.00
+pre_loan_bank_acNo_03,74878523671424
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,6284.72
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,8218.48
+totalAB,$0.00
+bOtherIncome1,$287.00
+jobExpensesTo,NA
+refinanYrLotReq,0 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,
+bTotalIncome,$4297.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,
+cbBaseSalary,$2640.00
+totMonthlyLiability,$0.00
+refinanPurpose,
+cbOverttime,$512.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,
+cbBonus,$763.00
+purchasePrice,$48344.00
+refinanCost,
+cbCommission,$173.00
+repairCost,$1192.00
+HeldName,Bob Jarvis
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$186.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,22-MAY-2069
+cbTotalIncome,$4274.00
+fundingFee,$0.00
+borrowerName,William R Curtis
+cbtBaseSalary,$5940.00
+disocuntValue,$0.00
+bSecurityNumber,202877551
+cbtOverttime,$512282.00
+totalTxnCost,$49536.00
+bPhone,6812087816
+cbtBonus,$763389.00
+subOrdFinance,$0.00
+bDOB,25-FEB-1987
+cbtCommission,$17339.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$48344.00
+bDpendents,1
+cbtOtherIncome1,$186287.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$48344.00
+bPresentAddress,"345 middlefield rd me 977 , menlo park, ca, 94025"
+cbtTotalIncome,$42744297.00
+cashDepByBorrower,$1192.00
+bResSince,0 year(s)
+psntRent,$1674.00
+isOutstandingCourtCaseB,No
+bMailAddress,"345 middlefield rd ms 977 , menlo park, ca, 94025"
+psntFirstLoan,$48344.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$516.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,mark k sogge
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,116304824
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5142044446
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,14-MAR-1982
+psntTotalExp,$48860.00
+isCoWorkerB,No
+cbYrsSchool,1987
+propFirstLoan,$48344.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$543.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"2255 north gemini drive , flagstaff, az, 86001"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"345 middlefield rd ms 977 , menlo park, ca, 94025"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$48887.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,WILLIAM R CURTIS
+isDownpaymentBorrowedCB,No
+bEmpName,MINE SAFETY & HEALTH
+depAmount,$4834.40
+isCoWorkerCB,No
+bEmpAddress,"7 N WILKES BARRE BLVD, STE 034, WILKES BARRE, PA"
+depBankName,RIVERDALE CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"601 COUNTY ROAD 78, SELMA, AL"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,20358785684061
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$8218.48
+ typeOfProp,second home
+bDesignation,"HR Specialist, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,13-NOV-2016
+lt2y_b_emp_name1,"SAVANNAH AREA OFFICE; 450 MALL BLVD, STE J, SAVANNAH, GA"
+subTotLiqValue,$5801.28
+signingDateCB,13-NOV-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,na
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,2937
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,hr specialisttemperory
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"FACE-TO-FACE INTERVIEW, TELEPHONE"
+cbEmpName,Dol Opa
+preLoanBankName,
+loanOriginatorName,Usdol Osha
+cbEmpAddress,"200 Constitution Ave Nw N2309„ Washington, Dc"
+preLoanBankAdd,Na
+loanOriginatorID,omlrXOsE
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,Usdol Osha
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,
+cbYrsInJob,3
+loanOriginatorAddress,"1000 LIBERTY AVE, RM 905, PITTSBURGH, PA"
+borrowerName_3,William R Curtis
+borrowerName_9,William R Curtis
+borrowerName_10,William R Curtis
+cborrowerName_3,mark k sogge
+cBorrowerName_9,mark k sogge
+cborrowerName_10,mark k sogge
+signingDateB_10,13-NOV-2016
+signingDateCB_10,13-NOV-2016

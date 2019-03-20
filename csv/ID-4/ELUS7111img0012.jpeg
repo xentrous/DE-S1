@@ -1,0 +1,247 @@
+loanAppliedFor,Conventional
+cbDesignation,"Computer Admin, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,75mRRe73wTZ3yW
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,
+LenderCaseNumber,XOIV-7414061124
+lt2y_cb_emp_name1,"DOL R9 OASAM SAN FRAN; 1301 CLAY ST, RM 1400N, OAKLAND, CA"
+childSupportExpOwnedValue,$0.00
+Amount,$77948.00
+lt2y_cb_emp_isSelf1,no
+pre_loan_bank_name_01,Community Bank
+Interest,9.09%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"615 CEDAR STREET BOX 500, MUSCATINE, IA"
+Tenure,48 months
+lt2y_cb_emp_salary1,2285.82
+pre_loan_bank_acNo_01,22715652323308
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,computer adminpermanent
+pre_loan_bank_EMI_01,10912.72
+PropAddress,"204 Samuel Blvd Apt 2i, Coppell, Tx, 75019"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,17148.56
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,erie times employees fcu
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"335 metz street, erie, pa"
+YearBuilt,1972
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,54433177037388
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,10912.72
+propFor,Seconday
+bBaseSalary,$4631.00
+pre_loan_bank_balance_02,15589.6
+construcYrLotReq,3 year(s)
+bOverttime,$195.00
+pre_loan_bank_name_03,
+construcOrigCost,$77948.00
+bBonus,$408.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$28.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$426.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$234.00
+jobExpensesTo,na
+refinanYrLotReq,year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,
+bTotalIncome,$5922.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,
+cbBaseSalary,$2822.00
+totMonthlyLiability,$0.00
+refinanPurpose,
+cbOverttime,$468.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,
+cbBonus,$468.00
+purchasePrice,$77948.00
+refinanCost,
+cbCommission,$62.00
+repairCost,$1274.00
+HeldName,Wilford Gajdosik
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,15-MAR-2064
+cbTotalIncome,$3820.00
+fundingFee,$0.00
+borrowerName,Julie A Wolf
+cbtBaseSalary,$7453.00
+disocuntValue,$0.00
+bSecurityNumber,263326385
+cbtOverttime,$468195.00
+totalTxnCost,$79222.00
+bPhone,3527417214
+cbtBonus,$468408.00
+subOrdFinance,$0.00
+bDOB,01-NOV-1985
+cbtCommission,$6228.00
+closingCostBySeller,$0.00
+bYrsSchool,1985
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$426.00
+loanAmountEx,$77948.00
+bDpendents,3
+cbtOtherIncome1,$234.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$77948.00
+bPresentAddress,"8505 Research Way , Middleton, Wi, 53562"
+cbtTotalIncome,$38205922.00
+cashDepByBorrower,$1274.00
+bResSince,5 year(s)
+psntRent,$1379.00
+isOutstandingCourtCaseB,No
+bMailAddress,"8505 Research Way , Middleton, Wi, 53562"
+psntFirstLoan,$77948.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$695.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,amber j andersen
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,155223626
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3283453520
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,10-MAR-1977
+psntTotalExp,$78643.00
+isCoWorkerB,No
+cbYrsSchool,1985
+propFirstLoan,$77948.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"3162 Bozeman Ave , Helena, Mt, 59601"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"8505 research way , middleton, wi, 53562"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$77948.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JULIE A WOLF
+isDownpaymentBorrowedCB,No
+bEmpName,WAGE HOUR REGIONAL OFF
+depAmount,$10133.24
+isCoWorkerCB,No
+bEmpAddress,"61 Forsyth st sw, rm 7m40, atlanta, ga"
+depBankName,OKLAHOMA EDUCATORS CU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"6001 n w expressway, oklahoma city, ok"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,74260186322216
+isNewPropPermanentB,
+bYrsInJob,4
+depBankBal,$16369.08
+ typeOfProp,investment property
+bDesignation,"IT Manager, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,16-OCT-2016
+lt2y_b_emp_name1,"usdol osha; 850 n 5th st, pa"
+subTotLiqValue,$9353.76
+signingDateCB,16-OCT-2016
+lt2y_b_emp_isSelf1,no
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,3797.42
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,IT MANAGERTEMPERORY
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,us dol r2 esa whd
+preLoanBankName,NA
+loanOriginatorName,dol bls
+cbEmpAddress,"207 Appraisers Stores Blvd, 103 S Gay St, Baltimore, Md"
+preLoanBankAdd,NA
+loanOriginatorID,iDE1xAn
+cbIsSelfEmp,no
+preLoanBankAcctNumber,na
+loanOriginatorCName,Dol Bls
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026915821
+cbYrsInJob,5
+loanOriginatorAddress,"2 massachusetts eve ne, rm 2985, washington, dc"
+borrowerName_3,Julie A Wolf
+borrowerName_9,Julie A Wolf
+borrowerName_10,Julie A Wolf
+cborrowerName_3,amber j andersen
+cBorrowerName_9,amber j andersen
+cborrowerName_10,amber j andersen
+signingDateB_10,16-OCT-2016
+signingDateCB_10,16-OCT-2016

@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"Account Admin, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,fUPnyCsnNj sVPA
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,
+LenderCaseNumber,QCHZ-6602065013
+lt2y_cb_emp_name1,"Dol Bls; 2 Mass Ave Ne, Room 4080, Washington, Dc"
+childSupportExpOwnedValue,$0.00
+Amount,$55841.00
+lt2y_cb_emp_isSelf1,no
+pre_loan_bank_name_01,"university of md, cp"
+Interest,9.70%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"102 lee building, college park, md"
+Tenure,60 months
+lt2y_cb_emp_salary1,3253.5
+pre_loan_bank_acNo_01,51886368051450
+AmortType,ARM
+lt2y_cb_emp_designation1,ACCOUNT ADMINCONTRACT
+pre_loan_bank_EMI_01,8376.15
+PropAddress,"514 4th St Sw , De Smet, Sd, 57231"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,9492.97
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,"Bank Of America, Na"
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"P.O. BOX 419038, KANSAS CITY, MO"
+YearBuilt,1966
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,80503785168412
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,11881.22
+propFor,Seconday
+bBaseSalary,$4898.00
+pre_loan_bank_balance_02,15536.98
+construcYrLotReq,3 year(s)
+bOverttime,$305.00
+pre_loan_bank_name_03,Southland Civic Credit Union
+construcOrigCost,$55841.00
+bBonus,$360.00
+pre_loan_bank_add_03,"8545 east florence avenue, downey, ca"
+construcExisLienAmount,$0.00
+bCommission,$193.00
+pre_loan_bank_acNo_03,42113300455733
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,10967.28
+construcImpCost,$0.00
+bRentalIncome,$384.00
+pre_loan_bank_balance_03,18278.8
+totalAB,$0.00
+bOtherIncome1,$110.00
+jobExpensesTo,na
+refinanYrLotReq,0 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,
+bTotalIncome,$6250.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,
+cbBaseSalary,$3615.00
+totMonthlyLiability,$0.00
+refinanPurpose,
+cbOverttime,$445.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,
+cbBonus,$774.00
+purchasePrice,$55841.00
+refinanCost,
+cbCommission,$31.00
+repairCost,$0.00
+HeldName,Betsy Somsen
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$368.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,30-OCT-2071
+cbTotalIncome,$5233.00
+fundingFee,$0.00
+borrowerName,JAMES R FOREMAN
+cbtBaseSalary,$8513.00
+disocuntValue,$0.00
+bSecurityNumber,431274224
+cbtOverttime,$445305.00
+totalTxnCost,$55841.00
+bPhone,8666256053
+cbtBonus,$774360.00
+subOrdFinance,$0.00
+bDOB,12-JUL-1987
+cbtCommission,$31193.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$368384.00
+loanAmountEx,$55841.00
+bDpendents,0
+cbtOtherIncome1,$110.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$55841.00
+bPresentAddress,"934 Broadway Suite 300 , Tacoma, Wa, 98402"
+cbtTotalIncome,$52336250.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$1633.00
+isOutstandingCourtCaseB,No
+bMailAddress,"934 Broadway Suite 300 , Tacoma, Wa, 98402"
+psntFirstLoan,$55841.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,Welby L Stayton
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,075013125
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2462862372
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,05-DEC-1980
+psntTotalExp,$55841.00
+isCoWorkerB,No
+cbYrsSchool,1987
+propFirstLoan,$55841.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"3039 Amwiler Rd Ste 130, Atlanta, Ga, 30360"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"934 BROADWAY SUITE 300 , TACOMA, WA, 98402"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$55841.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,JAMES R FOREMAN
+isDownpaymentBorrowedCB,No
+bEmpName,Arra-bentivogli
+depAmount,$6700.92
+isCoWorkerCB,No
+bEmpAddress,"130 S Elmwood Ave, Rm 536, Buffalo, Ny"
+depBankName,Westconsin Credit Union
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"po box 160, menomonie, wi"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,48668417048313
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$11168.20
+ typeOfProp,second home
+bDesignation,"Worker, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,09-OCT-2016
+lt2y_b_emp_name1,"US DOL OSHA; 1310 W CLAIREMONT AVE„ EAU CLAIRE, WI"
+subTotLiqValue,$7259.33
+signingDateCB,09-OCT-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,4408.2
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,workertemperory
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"FACE-TO-FACE INTERVIEW, TELEPHONE"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,
+loanOriginatorName,OSEC / OFFICE OF JOB CORPS
+cbEmpAddress,"Po Box 25367 Dfc, Denver, Co"
+preLoanBankAdd,
+loanOriginatorID,HX8bmSxj
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,Osec / Office Of Job Corps
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,1111111111
+cbYrsInJob,6
+loanOriginatorAddress,"1627 WOODLAND AVE AUSTIN, TX"
+borrowerName_3,JAMES R FOREMAN
+borrowerName_9,JAMES R FOREMAN
+borrowerName_10,JAMES R FOREMAN
+cborrowerName_3,Welby L Stayton
+cBorrowerName_9,Welby L Stayton
+cborrowerName_10,Welby L Stayton
+signingDateB_10,09-OCT-2016
+signingDateCB_10,09-OCT-2016

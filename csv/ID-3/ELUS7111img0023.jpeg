@@ -1,0 +1,247 @@
+loanAppliedFor,FHA
+cbDesignation,"HR Admin, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,DW83CZa6dqTgOw
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,na
+LenderCaseNumber,NLUK -8261472804
+lt2y_cb_emp_name1,"DOL BLS; 2 MASS AVE NE, RM 1830, WASHINGTON, DC"
+childSupportExpOwnedValue,$0.00
+Amount,$3354.00
+lt2y_cb_emp_isSelf1,NO
+pre_loan_bank_name_01,CREDIT UNION OF TEXAS
+Interest,7.73%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"8131 Lbj Freeway, Dallas, Tx"
+Tenure,180 months
+lt2y_cb_emp_salary1,2524.77
+pre_loan_bank_acNo_01,20423403732733
+AmortType,Other
+lt2y_cb_emp_designation1,HR ADMINPERMANENT
+pre_loan_bank_EMI_01,335.4
+PropAddress,"126 HICKORY KNOB HILL RD , IRMO, SC, 29063"
+lt2y_cb_emp_name2,"Usdol R9 Sol La; 350 S Figueroa St, Suite 370, Los Angeles, Ca"
+pre_loan_bank_balance_01,670.8
+PropUnits,1
+lt2y_cb_emp_isSelf2,no
+pre_loan_bank_name_02,westconsin credit union
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"po box 160, menomonie, wi"
+YearBuilt,1970
+lt2y_cb_emp_salary2,2088.39
+pre_loan_bank_acNo_02,37428466441024
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,HR ADMINCONTRACT
+pre_loan_bank_EMI_02,14893.95
+propFor,Investment
+bBaseSalary,$4252.00
+pre_loan_bank_balance_02,18865.67
+construcYrLotReq,4 year(s)
+bOverttime,$407.00
+pre_loan_bank_name_03,Seaway National Bank
+construcOrigCost,$99293.00
+bBonus,$719.00
+pre_loan_bank_add_03,"645 EAST 87TH STREET, CHICAGO, IL"
+construcExisLienAmount,$0.00
+bCommission,$170.00
+pre_loan_bank_acNo_03,70838071837244
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,13901.02
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,17872.74
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,na
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3354.00
+bTotalIncome,$5548.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3117.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$402.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$738.00
+purchasePrice,$3354.00
+refinanCost,$3354.00
+cbCommission,$151.00
+repairCost,$765.00
+HeldName,DIANE BODIE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$128.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,05-JUN-2076
+cbTotalIncome,$4536.00
+fundingFee,$0.00
+borrowerName,CHARLES R HUTT
+cbtBaseSalary,$7369.00
+disocuntValue,$0.00
+bSecurityNumber,732158118
+cbtOverttime,$402407.00
+totalTxnCost,$4119.00
+bPhone,7644533010
+cbtBonus,$738719.00
+subOrdFinance,$0.00
+bDOB,22-DEC-1977
+cbtCommission,$151170.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$3354.00
+bDpendents,3
+cbtOtherIncome1,$1280.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$3354.00
+bPresentAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+cbtTotalIncome,$45365548.00
+cashDepByBorrower,$765.00
+bResSince,3 year(s)
+psntRent,$888.00
+isOutstandingCourtCaseB,No
+bMailAddress,"box 25046 dfc ms 939 , denver, co, 80225"
+psntFirstLoan,$3354.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,ANGELA WESTBROOK
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,074742721
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4745020747
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,19-SEP-1982
+psntTotalExp,$3354.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$3354.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"101 PITKIN ST , EAST HARTFORD, CT, 6108"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$3354.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,CHARLES R HUTT
+isDownpaymentBorrowedCB,No
+bEmpName,OASAM HUMAN RESOURCES
+depAmount,$503.10
+isCoWorkerCB,No
+bEmpAddress,"200 Constitution Ave Nw, Rm N5464, Washington, Dc"
+depBankName,WELLS FARGO EDUCATION FIN SVCS
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"301 East 58th Street North, Sioux Falls, Sd"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,00337657818164
+isNewPropPermanentB,
+bYrsInJob,4
+depBankBal,$670.80
+ typeOfProp,second home
+bDesignation,"Labor, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,22-OCT-2016
+lt2y_b_emp_name1,"US DOL ESA OFCCP; 201 VARICK ST, RM 750, NEW YORK, NY"
+subTotLiqValue,$503.10
+signingDateCB,22-OCT-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,3741.76
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,GUARDCOÑTRACT
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"FACE-TO-FACE INTERVIEW, TELEPHONE"
+cbEmpName,Dept Of Labor - Osha
+preLoanBankName,Na
+loanOriginatorName,DOL ETA DIV/ADMIN SVCS
+cbEmpAddress,"1222 spruce street, room 9104, saint louis, mo"
+preLoanBankAdd,na
+loanOriginatorID,S2Aupe2r
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ETA DIV/ADMIN SVCS
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026932955
+cbYrsInJob,7
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM S4231, WASHINGTON, DC"
+borrowerName_3,CHARLES R HUTT
+borrowerName_9,CHARLES R HUTT
+borrowerName_10,CHARLES R HUTT
+cborrowerName_3,ANGELA WESTBROOK
+cBorrowerName_9,ANGELA WESTBROOK
+cborrowerName_10,ANGELA WESTBROOK
+signingDateB_10,22-OCT-2016
+signingDateCB_10,22-OCT-2016

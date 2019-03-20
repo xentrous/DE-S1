@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"Cleaner, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,LxDo8rofarBK04
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,na
+LenderCaseNumber,GNIB-6137008811
+lt2y_cb_emp_name1,"DOL R9 OASAM SAN FRAN; 1301 CLAY ST, RM 1400N, OAKLAND, CA"
+childSupportExpOwnedValue,$0.00
+Amount,$26819.00
+lt2y_cb_emp_isSelf1,no
+pre_loan_bank_name_01,MISSOURI VALLEY FCU
+Interest,9.48%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"7900 MEXICO ROAD, ST PETERS, MO"
+Tenure,180 months
+lt2y_cb_emp_salary1,2285.82
+pre_loan_bank_acNo_01,00217665312811
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,computer adminpermanent
+pre_loan_bank_EMI_01,2681.9
+PropAddress,"20 nightingale ct , manhasset, ny, 11030"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,5095.61
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,alpena alcona area credit union
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"1100 SOUTH BAGLEY, ALPENA, MI"
+YearBuilt,2001
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,48173104523174
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,2950.09
+propFor,Seconday
+bBaseSalary,$13987.00
+pre_loan_bank_balance_02,4827.42
+construcYrLotReq,0 year(s)
+bOverttime,$108.00
+pre_loan_bank_name_03,
+construcOrigCost,$77948.00
+bBonus,$714.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$67.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$136.00
+jobExpensesTo,na
+refinanYrLotReq,0 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,
+bTotalIncome,$15012.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,
+cbBaseSalary,$1956.00
+totMonthlyLiability,$0.00
+refinanPurpose,
+cbOverttime,$539.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,
+cbBonus,$364.00
+purchasePrice,$26819.00
+refinanCost,
+cbCommission,$165.00
+repairCost,$784.00
+HeldName,carl orent
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$175.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,24-MAY-2074
+cbTotalIncome,$3199.00
+fundingFee,$0.00
+borrowerName,john c mars
+cbtBaseSalary,$15943.00
+disocuntValue,$0.00
+bSecurityNumber,787408367
+cbtOverttime,$539108.00
+totalTxnCost,$27603.00
+bPhone,4611161871
+cbtBonus,$364714.00
+subOrdFinance,$0.00
+bDOB,07-SEP-1977
+cbtCommission,$16567.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$26819.00
+bDpendents,2
+cbtOtherIncome1,$175136.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$26819.00
+bPresentAddress,"954 NATL CTR , RESTON, VA, 20192"
+cbtTotalIncome,$319915012.00
+cashDepByBorrower,$784.00
+bResSince,11 year(s)
+psntRent,$838.00
+isOutstandingCourtCaseB,No
+bMailAddress,"954 Natl Ctr , Reston, Va, 20192"
+psntFirstLoan,$26819.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$738.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,James E Acker
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,265588084
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2228041066
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,01-FEB-1990
+psntTotalExp,$27557.00
+isCoWorkerB,
+cbYrsSchool,1977
+propFirstLoan,$26819.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"720 GRACERN RD , COLUMBIA, SC, 29210"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,0 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"954 NATL CTR , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$26819.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,JOHN C MARS
+isDownpaymentBorrowedCB,
+bEmpName,us dept of labor
+depAmount,$3754.66
+isCoWorkerCB,No
+bEmpAddress,"1999 Broadway, Ste 1600, Aurora, Co"
+depBankName,Amplify Fcu
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"P.O. BOX 81398, AUSTIN, TX"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,55514062688404
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$4559.23
+ typeOfProp,investment property
+bDesignation,"Grocers Supplier, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,28-SEP-2016
+lt2y_b_emp_name1,"USDOL OSHA; 850 N 5TH ST, ALLENTOWN, PA"
+subTotLiqValue,$3486.47
+signingDateCB,28-SEP-2016
+lt2y_b_emp_isSelf1,no
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,3797.42
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,IT MANAGERTEMPERORY
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"FACE-TO-FACE INTERVIEW, TELEPHONE"
+cbEmpName,US DOL OSHA
+preLoanBankName,na
+loanOriginatorName,us dept of labor
+cbEmpAddress,"1600 167th St, Ste 9, Calumet City, Il"
+preLoanBankAdd,
+loanOriginatorID,EwKGkrWY
+cbIsSelfEmp,no
+preLoanBankAcctNumber,na
+loanOriginatorCName,US DEPT OF LABOR
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026939587
+cbYrsInJob,9
+loanOriginatorAddress,"1100 WILSON BLVD, RM 2143, ARLINGTON, VA"
+borrowerName_3,john c mars
+borrowerName_9,john c mars
+borrowerName_10,john c mars
+cborrowerName_3,James E Acker
+cBorrowerName_9,James E Acker
+cborrowerName_10,James E Acker
+signingDateB_10,28-SEP-2016
+signingDateCB_10,28-SEP-2016

@@ -1,0 +1,247 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Trainer, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,tJ712y8njLUoqD
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,na
+LenderCaseNumber,NFKW -7130415274
+lt2y_cb_emp_name1,"WAGE HOUR REGIONAL OFF; 61 FORSYTH ST SW, RM 7M10, ATLANTA, GA"
+childSupportExpOwnedValue,$0.00
+Amount,$88318.00
+lt2y_cb_emp_isSelf1,NO
+pre_loan_bank_name_01,Capital Credit Union
+Interest,10.59%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"C/O BANK OF NORTH DAKOTA, BISMARCK, ND"
+Tenure,84 months
+lt2y_cb_emp_salary1,3302.64
+pre_loan_bank_acNo_01,43466475546785
+AmortType,GPM
+lt2y_cb_emp_designation1,Asst Managertemperory
+pre_loan_bank_EMI_01,12364.52
+PropAddress,"182 SCARLET MAPLE DR APT 201, WINCHESTER, VA, 22603"
+lt2y_cb_emp_name2,"Usdol Region Vi Osha; 1033 La Posada, Suite 375, Austin, Tx"
+pre_loan_bank_balance_01,15897.24
+PropUnits,1
+lt2y_cb_emp_isSelf2,no
+pre_loan_bank_name_02,U.S BANK N.A. ELT FOR ECMC GROUP
+PropDescription,Appartment
+lt2y_cb_emp_duration2,na
+pre_loan_bank_add_02,"425 walnut street, 6th floor, cincinnati, oh"
+YearBuilt,2003
+lt2y_cb_emp_salary2,2364.39
+pre_loan_bank_acNo_02,13820206735630
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,ASST MANAGERTEMPERORY
+pre_loan_bank_EMI_02,1483.16
+propFor,Primary
+bBaseSalary,$3768.00
+pre_loan_bank_balance_02,2330.68
+construcYrLotReq,0 year(s)
+bOverttime,$336.00
+pre_loan_bank_name_03,Southland Civic Credit Union
+construcOrigCost,$94213.00
+bBonus,$438.00
+pre_loan_bank_add_03,"8545 EAST FLORENCE AVENUE, DOWNEY, CA"
+construcExisLienAmount,$0.00
+bCommission,$124.00
+pre_loan_bank_acNo_03,42113300455733
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,10967.28
+construcImpCost,$0.00
+bRentalIncome,$405.00
+pre_loan_bank_balance_03,18278.8
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,na
+refinanYrLotReq,0 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$10594.00
+bTotalIncome,$5071.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3432.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$394.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$667.00
+purchasePrice,$88318.00
+refinanCost,$10594.00
+cbCommission,$136.00
+repairCost,$1007.00
+HeldName,ann cisler
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$273.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,13-MAY-2058
+cbTotalIncome,$4902.00
+fundingFee,$0.00
+borrowerName,Terry L Reinert
+cbtBaseSalary,$7200.00
+disocuntValue,$0.00
+bSecurityNumber,011617040
+cbtOverttime,$394336.00
+totalTxnCost,$89325.00
+bPhone,4127085858
+cbtBonus,$667438.00
+subOrdFinance,$0.00
+bDOB,06-FEB-1990
+cbtCommission,$136124.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$273405.00
+loanAmountEx,$88318.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$88318.00
+bPresentAddress,"3162 Bozeman Ave , Helena, Mt, 59601"
+cbtTotalIncome,$49025071.00
+cashDepByBorrower,$1007.00
+bResSince,11 year(s)
+psntRent,$1464.00
+isOutstandingCourtCaseB,
+bMailAddress,"3162 BOZEMAN AVE , HELENA, MT, 59601"
+psntFirstLoan,$88318.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,MORGAN A SCHNEIDER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,685556263
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6378524468
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,06-SEP-1979
+psntTotalExp,$88318.00
+isCoWorkerB,No
+cbYrsSchool,1990
+propFirstLoan,$88318.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"8505 Research Way , Middleton, Wi, 53562"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"3162 bozeman ave , helena, mt, 59601"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Own
+propTotalExp,$88318.00
+isDeliquentCB,
+lt2y_cb_res_since,2
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+depPurchHeldBy,TERRY L HEINERT
+isDownpaymentBorrowedCB,No
+bEmpName,dol bat reg6 field ofc
+depAmount,$9714.98
+isCoWorkerCB,No
+bEmpAddress,"300 ALA MOANA BLVD, RM 5 117, HONOLULU, HI"
+depBankName,Tri County Area Fcu
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"1550 medical drive, pottstown, pa"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,60550162115835
+isNewPropPermanentB,
+bYrsInJob,9
+depBankBal,$15897.24
+ typeOfProp,second home
+bDesignation,"Account Admin, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,23-AUG-2016
+lt2y_b_emp_name1,"wage hour division; 310 w wisconsin avenue, suite 1170, milwaukee, wi"
+subTotLiqValue,$11481.34
+signingDateCB,23-AUG-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,na
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,2446.4
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,payroll specialisttemperory
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"FACE-TO-FACE INTERVIEW, TELEPHONE"
+cbEmpName,US DOL ESA WH
+preLoanBankName,Na
+loanOriginatorName,US DEPT OF LABOR
+cbEmpAddress,"7 N Wilkes-barre Blvd, Room 373m, Wilkes Barre, Pa"
+preLoanBankAdd,NA
+loanOriginatorID,okI5e12K
+cbIsSelfEmp,No
+preLoanBankAcctNumber,na
+loanOriginatorCName,us dept of labor
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4045622269
+cbYrsInJob,10
+loanOriginatorAddress,"61 Forsyth Street Sw, Room 6t50, Atlanta, Ga"
+borrowerName_3,Terry L Reinert
+borrowerName_9,Terry L Reinert
+borrowerName_10,Terry L Reinert
+cborrowerName_3,MORGAN A SCHNEIDER
+cBorrowerName_9,MORGAN A SCHNEIDER
+cborrowerName_10,MORGAN A SCHNEIDER
+signingDateB_10,23-AUG-2016
+signingDateCB_10,23-AUG-2016
